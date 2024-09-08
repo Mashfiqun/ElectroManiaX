@@ -1,0 +1,1572 @@
+[
+    {
+        "id": 1054,
+        "name": "Netac Basic DDR3 4GB 1600MHZ Desktop RAM",
+        "price": "1,100৳",
+        "description": "Capacity: 4GB\rFrequency: DDR3 1600MHz\rForm Factor: 240-Pin UDIMM\rVoltage & Cas Latency: 1.5V/11-11-11-28",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-ddr3-4gb-1600mhz/basic-ddr3-4gb-1600mhz-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR3",
+            "Capacity": "4GB",
+            "Frequency": "1600MHZ",
+            "Operating voltage": "1.5V",
+            "Latency": "11-11-11-28",
+            "Pin": "240-Pins",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1055,
+        "name": "Transcend JetRam 4GB DDR4 3200MHz U-DIMM Desktop RAM",
+        "price": "1,450৳",
+        "description": "Memory: 4GB DDR4-3200\rInterface: 288 Pin\rCAS Latency: CL22\rVoltage: 1.2V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-4gb/jetram-4gb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4 U-DIMM RAM",
+            "Capacity": "4GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.2V",
+            "Latency": "CL19",
+            "Dimension": "5.25 x 1.23 x 1.23 inches",
+            "Pin": "288 pin",
+            "Warranty": "Life time Warranty"
+        }
+    },
+    {
+        "id": 1056,
+        "name": "Netac Basic 4GB DDR4 2666MHZ Desktop RAM",
+        "price": "1,500৳",
+        "description": "Capacity: 4GB\rFrequency: DDR4 2666MHz\rForm Factor: 288-Pin UDIMM\rVoltage & Cas Latency: 1.2V/19-19-19-43",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-4gb-ddr4-2666mhz/basic-4gb-ddr4-2666mhz-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "4GB",
+            "Frequency": "2666MHZ",
+            "Operating voltage": "1.2V",
+            "Latency": "19-19-19-43",
+            "Pin": "288-Pins",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1057,
+        "name": "TwinMOS 4GB 3200MHz DDR4 U-DIMM Desktop RAM",
+        "price": "2,000৳",
+        "description": "Capacity: 4GB\rSpeed: 3200MHz\rOperating voltage: 1.2V\rLatency: CL 22",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/twinmos/4gb-3200mhz-ddr4/4gb-3200mhz-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "4GB",
+            "Frequency": "3200HMz",
+            "Operating voltage": "1.2V",
+            "Latency": "CL 15",
+            "Heat Sink Color": "Red",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1058,
+        "name": "Kimtigo WOLFRINE 8GB 3200MHz DDR4 UDIMM Desktop RAM",
+        "price": "2,100৳",
+        "description": "High-speed performance\rCAS Latency: CL22\rInterface: 260 Pin\rMultitask with ease",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/kimtigo/wolfrine-8gb/wolfrine-8gb-03-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Operating voltage": "1.2V",
+            "Latency": "CL22",
+            "Dimension": "133mm x 31mm",
+            "Pin": "260 Pin",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1059,
+        "name": "Netac Basic 8GB DDR4 2666MHZ Desktop RAM",
+        "price": "2,200৳",
+        "description": "Capacity: 8GB\rFrequency: DDR4 2666MHz\rForm Factor: 288-Pin UDIMM\rVoltage & Cas Latency: 1.2V/19-19-19-43",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-4gb-ddr4-2666mhz/basic-4gb-ddr4-2666mhz-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "2666MHZ",
+            "Operating voltage": "1.2V",
+            "Latency": "19-19-19-43",
+            "Pin": "288-Pins",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1060,
+        "name": "Lexar 8GB DDR4 3200 Mhz UDIMM Desktop RAM",
+        "price": "2,400৳",
+        "description": "Memory: 8GB DDR4-3200\rInterface: 288 Pin\rCAS Latency: CL22\rVoltage: 1.2V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/8gb-ddr4-3200mhz/8gb-ddr4-3200mhz-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200Mhz",
+            "Operating voltage": "1.2V",
+            "Latency": "CL22",
+            "Dimension": "133.35 mm x 31.25 mm",
+            "Pin": "288 Pin",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1061,
+        "name": "G.SKILL Value 8GB DDR4 2666Mhz Desktop RAM",
+        "price": "2,400৳",
+        "description": "Capacity: 8GB\rSpeed: 2666 Mhz\rLatency: 19-19-19-43\rVoltage: 1.20V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/value/value-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB (8GBx1)",
+            "Frequency": "2666Mhz",
+            "Operating voltage": "1.20V",
+            "Latency": "19-19-19-43",
+            "Pin": "288-Pin",
+            "Warranty": "Limited Lifetime"
+        }
+    },
+    {
+        "id": 1062,
+        "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
+        "price": "2,400৳",
+        "description": "Capacity: 8GB\rSpeed: 3200 Mhz\rLatency: 16-18-18-38\rVoltage: 1.20V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/Aegis/Aegis-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB (8GBx1)",
+            "Frequency": "3200Mhz",
+            "Operating voltage": "1.20V",
+            "Latency": "16-18-18-38",
+            "Heat Sink Color": "Black",
+            "Pin": "288-Pin",
+            "Warranty": "Limited Lifetime"
+        }
+    },
+    {
+        "id": 1063,
+        "name": "Adata Premier 8GB DDR4 3200Mhz Desktop RAM",
+        "price": "2,400৳",
+        "description": "Capacity: 8GB\rType- DDR4, Speed: 3200MHz\rForm Factor: U-DIMM\rCAS Latencies: 22, Operating voltage: 1.2V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/premier-8gb/premier-8gb-01-500x500.png",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.2V",
+            "Latency": "22",
+            "Others": "Form Factor: U-DIMM",
+            "Warranty": "Life Time Warranty"
+        }
+    },
+    {
+        "id": 1064,
+        "name": "Colorful Battle-AX 8GB DDR4 3200MHz U-DIMM Desktop RAM",
+        "price": "2,350৳",
+        "description": "Capacity: 8GB\rType: DDR4 3200 MHz\rLatency: CL16-18-18-38\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/battle-ax/battle-ax-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200 MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-18-18-38",
+            "Heat Sink Color": "Blue",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1065,
+        "name": "Transcend JetRam 8GB DDR4 3200MHz U-DIMM Desktop RAM",
+        "price": "2,500৳",
+        "description": "Bandwidth up to 25.6GB/s\rOperating voltage: 1.2V\rBus Speed: 3200MHz\rNumber of Pins: 288-Pin",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram/8gb-3200mhz-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.2V",
+            "Latency": "CL22",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1066,
+        "name": "Colorful Battle-AX 8GB DDR4 3200MHz U-DIMM Desktop RAM White",
+        "price": "2,400৳",
+        "description": "Capacity: 8GB\rType: DDR4 3200 MHz\rLatency: CL16-18-18-38\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/battle-ax/battle-ax-white-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200 MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-18-18-38",
+            "Heat Sink Color": "Blue",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1067,
+        "name": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
+        "price": "2,600৳",
+        "description": "Capacity 8GB\rSpeed: 3200MHz\rTested Latency: 16-20-20-38\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/RAM/VENG_LPX_BLK_01-500x500.png"
+    },
+    {
+        "id": 1068,
+        "name": "Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM",
+        "price": "2,550৳",
+        "description": "Frequency: 3200MHz; CAS Latency: 16-18-18\rVoltage: 1.35V; Form Factor: UDIMM\t\rOperating Temperature : 0Â°C to 85Â°C\rDimensions: 133.35mm x 34.1mm x 7.2mm",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast/fury-beast-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-18-18",
+            "Dimension": "133.35mm x 34.1mm x 7.2mm",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1069,
+        "name": "PNY XLR8 8GB DDR4 3200MHz Desktop Gaming RAM",
+        "price": "2,400৳",
+        "description": "Frequency Speed: 3200MHz (PC4-25600)\rCAS Latency: CL16\rExtreme Overclocking Capabilities\rXMP 2.0 support",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/pny/xlr8/xlr8-01-500x500.jpg",
+        "Specifications": {
+            "Type": "Desktop DDR4 Gaming RAM",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz (PC4-25600)",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16",
+            "Warranty": "Life time warranty"
+        }
+    },
+    {
+        "id": 1070,
+        "name": "Team Elite Plus Red 8GB 3200MHz DDR4 U-DIMM Desktop RAM",
+        "price": "2,499৳",
+        "description": "Capacity: 8GB DDR4\rFrequency: 3200MHz\rSpeed: 25,600 MB/s (PC4 25600)\rCAS Latency: CL22-22-22-52 1.2V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-plus/elite-plus-red-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200Mhz",
+            "Operating voltage": "1.2V",
+            "Latency": "CL22-22-22-52",
+            "Dimension": "32(H) x 134(L) x 6.5(W)mm",
+            "Heat Sink Color": "Red & Black Aluminum heat spreader",
+            "Pin": "288 Pin",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1071,
+        "name": "G.Skill RIPJAWS-V 8GB DDR4 3200MHz Desktop RAM",
+        "price": "2,800৳",
+        "description": "Capacity 8GB\rSpeed: 3200MHz\rTested Latency: 16-18-18-38\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-v/ripjaws-v-001-500x500.jpg",
+        "Specifications": {
+            "Type": "Single Kit RAM",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.20V",
+            "Latency": "16-18-18-38",
+            "Heat Sink Color": "Red Heatsink",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1072,
+        "name": "Team T-Force VULCAN TUF Gaming Alliance 8GB 3200MHz DDR4 Desktop RAM",
+        "price": "2,750৳",
+        "description": "Capacity: 8GB, Frequency: 3200MHz\rBandwidth: 25,600 MB/s (PC4 25600)\rLatency: CL 16-18-18-38\rVoltage: 1.35V, Heat sink: Aluminum",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/vulcan-tuf/vulcan-tuf-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL 16-18-18-38",
+            "Dimension": "32 x 140 x 7 mm",
+            "Heat Sink Color": "Aluminum",
+            "Pin": "288-pin DIMM",
+            "Warranty": "Lifetime warranty"
+        }
+    },
+    {
+        "id": 1073,
+        "name": "Adata XPG SPECTRIX D35G RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
+        "price": "2,900৳",
+        "description": "Capacity: 8GB\rType- DDR4, Speed: 3200MHz \rForm Factor: U-DIMM\rCAS Latencies: 16, Operating voltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/spectrix-d35g-rgb/spectrix-d35g-rgb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "16",
+            "Others": "Form Factor: U-DIMM",
+            "Dimension": "133.35 x 36 x 6.6mm",
+            "Warranty": "Life Time Warranty"
+        }
+    },
+    {
+        "id": 1074,
+        "name": "Lexar THOR 8GB DDR4 3200Mhz UDIMM Desktop RAM",
+        "price": "3,050৳",
+        "description": "Capacity: 8GB, Memory Type: DDR4\rTested Latency: CL16-18-18-38\rTested Speed: 3200MHz\rTested Voltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/thor-8gb/thor-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-18-18-38",
+            "Others": "Overclocking technology: XMP 2.0",
+            "Dimension": "138.4mm X 35.2 Mm X 6.4 Mm",
+            "Pin": "288 Pin",
+            "Warranty": "Limited Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1075,
+        "name": "Adata XPG SPECTRIX D35G RGB 8GB DDR4 3600MHz Gaming Desktop RAM",
+        "price": "3,050৳",
+        "description": "Capacity: 8GB\rType- DDR4, Speed: 3600MHz \rForm Factor: U-DIMM\rVoltage & Cas Latency: 1.35V/18-22-22",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/spectrix-d35g-rgb/spectrix-d35g-rgb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3600MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL 18-22-22",
+            "Others": "Form Factor: U-DIMM\r\nXMP 2.0",
+            "Dimension": "133.35 x 36 x 6.6mm",
+            "Warranty": "Life Time Warranty"
+        }
+    },
+    {
+        "id": 1076,
+        "name": "APACER NOX RGB AURA2 8GB DDR4 3200MHz Desktop RAM",
+        "price": "3,200৳",
+        "description": "Capacity: 8GB\rFrequency: 3200MHz, PIN: 288-pin\rMemory Architecture: x8 FBGA DRAM chip\rVoltage & Cas Latency: 1.2V/16-18-18-38",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/apacer/aura2-8gb-ddr4-3200mhz/aura2-8gb-ddr4-3200mhz-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-20-20-38",
+            "Pin": "288-Pins",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1077,
+        "name": "Kingston FURY Beast RGB 8GB 3200MHz DDR4 Desktop RAM",
+        "price": "3,200৳",
+        "description": "Stunning RGB lighting with an aggressive style\rFrequency: 3200MHz; CAS Latency: 16-18-18\rVoltage: 1.35V; Form Factor: UDIMM\t\rOperating Temperature : 0Â°C to 85Â°C",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast-rgb/fury-beast-rgb-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-18-18",
+            "Dimension": "133.35mm x 41.24mm x 7mm",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1078,
+        "name": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM",
+        "price": "3,500৳",
+        "description": "New Level of Ultimate Performance\rUp to 128GB Ultra Capacity\rUltimate Compatibility and Reliability\rXMP 2.0 Support",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-8gb/trident-z-8gb-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-18-18-38",
+            "Heat Sink Color": "Black & Red Heatsink",
+            "Warranty": "Life Time"
+        }
+    },
+    {
+        "id": 1079,
+        "name": "CORSAIR VENGEANCE RGB RS 8GB DDR4 3200MHz RAM",
+        "price": "3,350৳",
+        "description": "Optimized for Intel and AMD motherboards\rIndividually addressable RGB lighting\rTested Latency: 16-20-20-38\rAnodized Aluminum Heat Spreader",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb-rs/vengeance-rgb-rs-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB (1 x 8GB)",
+            "Frequency": "3200Mhz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-20-20-38",
+            "Heat Sink Color": "Anodized Aluminum- Black",
+            "Pin": "288",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1080,
+        "name": "CORSAIR VENGEANCE RGB RS 8GB DDR4 3600MHz RAM",
+        "price": "3,700৳",
+        "description": "Optimized for Intel and AMD motherboards\rIndividually addressable RGB lighting\rTested Latency: 18-22-22-42\rAnodized Aluminum Heat Spreader",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb-rs/vengeance-rgb-rs-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB (1 x 8GB)",
+            "Frequency": "3600Mhz",
+            "Operating voltage": "1.35V",
+            "Latency": "18-22-22-42",
+            "Heat Sink Color": "Anodized Aluminum- Black",
+            "Pin": "288",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1081,
+        "name": "G.Skill Trident Z NEO RGB 8GB 3600MHz Gaming Desktop RAM",
+        "price": "3,900৳",
+        "description": "8GB DDR4 3600MHz, Unbuffered,\rTested Latency: 18-22-22-42\rTested Voltage: 1.35V\rIntel XMP 2.0 Ready, Non-ECC",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-neo/trident-z-neo-001-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3600MHz",
+            "Operating voltage": "Tested Voltage: 1.35V\r\nSPD Voltage: 1.20V",
+            "Latency": "18-22-22-42",
+            "Pin": "288",
+            "Warranty": "Lifetime warranty"
+        }
+    },
+    {
+        "id": 1082,
+        "name": "Colorful Battle-AX 16GB DDR4 3200MHz U-DIMM Desktop RAM White",
+        "price": "4,150৳",
+        "description": "Capacity: 16GB\rType: DDR4 3200 MHz\rLatency: CL16-18-18-38\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/battle-ax/battle-ax-white-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200 MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-18-18-38",
+            "Heat Sink Color": "White",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1083,
+        "name": "Colorful Battle-AX 16GB DDR4 3200MHz U-DIMM Desktop RAM",
+        "price": "4,200৳",
+        "description": "Capacity: 16GB\rType: DDR4 3200 MHz\rLatency: CL16-18-18-38\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/battle-ax/battle-ax-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200 MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-18-18-38",
+            "Heat Sink Color": "Blue",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1084,
+        "name": "G.SKILL Flare X 8GB DDR4 2933Mhz Desktop RAM",
+        "price": "4,200৳",
+        "description": "Capacity: 8GB DDR4\rSpeed: 2933Mhz\rTested Latency: 16-16-16-36\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/flare-x/flare-x-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "2933Mhz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-16-16-36",
+            "Heat Sink Color": "Gray",
+            "Pin": "288-Pin",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1085,
+        "name": "G.SKILL Aegis 16GB DDR4 3200Mhz Desktop RAM",
+        "price": "4,300৳",
+        "description": "Capacity: 16GB \rSpeed: 3200 Mhz\rLatency: 16-18-18-38\rVoltage: 1.20V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/Aegis/Aegis-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200Mhz",
+            "Operating voltage": "1.20V",
+            "Latency": "16-18-18-38",
+            "Heat Sink Color": "Black",
+            "Pin": "288-Pin",
+            "Warranty": "Limited Lifetime"
+        }
+    },
+    {
+        "id": 1086,
+        "name": "Team T-Force VULCAN TUF Gaming Alliance 16GB 3200MHz DDR4 CL16 Desktop RAM",
+        "price": "4,400৳",
+        "description": "Capacity: 16GB, Frequency: 3200MHz\rBandwidth: 25,600 MB/s (PC4 25600)\rLatency: CL16-20-20-40\rVoltage: 1.35V, Heat sink: Aluminum",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/vulcan-tuf-gaming-alliance/vulcan-tuf-gaming-alliance-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL 16-20-20-40",
+            "Dimension": "32 x 140 x 7 mm",
+            "Heat Sink Color": "Aluminum",
+            "Pin": "288-pin DIMM",
+            "Warranty": "Lifetime warranty"
+        }
+    },
+    {
+        "id": 1087,
+        "name": "Corsair Vengeance LPX 16GB DDR4 DRAM 3200MHz RAM",
+        "price": "4,450৳",
+        "description": "Memory Size: 16GB Kit (1 x16GB)\rMemory Type: DDR4\rTested Latency: 16-20-20-38\rTested Speed: 3200MHz",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-16gb-ddr4/16gb-ddr4-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16 GB",
+            "Frequency": "3200",
+            "Operating voltage": "1.35V",
+            "Latency": "16-20-20-38",
+            "Warranty": "Life time"
+        }
+    },
+    {
+        "id": 1088,
+        "name": "Corsair Dominator Platinum RGB 8GB 3200MHz DDR4 RAM",
+        "price": "4,200৳",
+        "description": "8GB 3200MHz DDR4 DRAM\rTested Voltage: 1.35V\rPackage Memory Format: DIMM\rHeat Spreader: Anodized Aluminum",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/component/ram/corsair/dominator-platinum-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "1 x 8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "Tested Voltage: 1.35V\r\nSPD Voltage: 1.2V",
+            "Latency": "16-18-18-36",
+            "Pin": "Package Memory Pin: 288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1089,
+        "name": "Kingston FURY Beast 16GB 3200MHz DDR4 Desktop RAM",
+        "price": "4,700৳",
+        "description": "Frequency: 3200MHz; CAS Latency: 16-20-20\rVoltage: 1.35V; Form Factor: UDIMM\t\rOperating Temperature : 0°C to 85°C\rDimensions: 133.35mm x 34.1mm x 7.2mm",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast/fury-beast-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-20-20",
+            "Dimension": "133.35mm x 34.1mm x 7.2mm",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1090,
+        "name": "G.Skill Ripjaws V 16GB DDR4 2666MHz C19 RAM",
+        "price": "4,700৳",
+        "description": "Capacity: 16GB\rSpeed: 2666Mhz\rLatency: 19-19-19-43\rVoltage: 1.20V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-v-8gb-3400/ripjaws-v-8gb-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "2666MHz",
+            "Operating voltage": "1.20V",
+            "Latency": "19-19-19-43",
+            "Others": "Intel XMP 2.0 (Extreme Memory Profile) Ready",
+            "Heat Sink Color": "Red",
+            "Warranty": "Life Time"
+        }
+    },
+    {
+        "id": 1091,
+        "name": "PNY XLR8 16GB DDR4 3200MHz Desktop Gaming RAM",
+        "price": "4,700৳",
+        "description": "Frequency Speed: 3200MHz (PC4-25600)\rCAS Latency: CL16\rExtreme Overclocking Capabilities\rXMP 2.0 support",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/pny/xlr8/xlr8-01-500x500.jpg",
+        "Specifications": {
+            "Type": "Desktop DDR4 Gaming RAM",
+            "Capacity": "16GB",
+            "Frequency": "3200MHz (PC4-25600)",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16",
+            "Warranty": "Life time warranty"
+        }
+    },
+    {
+        "id": 1092,
+        "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM White",
+        "price": "4,900৳",
+        "description": "Memory Capacity: 16GB\rMemory Type: DDR4\rMemory Frequency: 3200 MHz\rLatency: CL16-20-20-40",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/x3-rgb-ddr4-white/x3-rgb-ddr4-white-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-20-20-40",
+            "Others": "Unbuffered\r\nNon-ECC",
+            "Dimension": "Height: 46.9mm / 1.85inch",
+            "Heat Sink Color": "White",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1093,
+        "name": "TEAM T-Force DELTA RGB White 16GB 3200MHz DDR4 CL16 Gaming RAM",
+        "price": "5,000৳",
+        "description": "Capacity: 16Gb\rType- DDR4, Speed: 3200Mhz \rOperating Voltage: 1.35V\rLatency: CL16-20-20-40",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/delta-rgb-16gb/delta-white-10-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-20-20-40",
+            "Dimension": "49 x 147 x 7 mm",
+            "Heat Sink Color": "White",
+            "Pin": "288 Pin",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1094,
+        "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM",
+        "price": "5,000৳",
+        "description": "Memory Capacity: 16GB\rMemory Type: DDR4\rMemory Frequency: 3200 MHz\rLatency: CL16-20-20-40",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/x3-rgb-ddr4/x3-rgb-ddr4-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-20-20-40",
+            "Others": "Unbuffered\r\nNon-ECC",
+            "Dimension": "Height: 46.9mm / 1.85inch",
+            "Heat Sink Color": "Black",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1095,
+        "name": "G.SKILL Flare X 8GB DDR4 3200Mhz Desktop RAM",
+        "price": "5,200৳",
+        "description": "Capacity: 8GB DDR4\rSpeed: 3200MHz\rTested Latency: 14-14-14-34\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/flare-x/flare-x-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200Mhz",
+            "Operating voltage": "1.35V",
+            "Latency": "14-14-14-34",
+            "Heat Sink Color": "Gray",
+            "Pin": "288-Pin",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1096,
+        "name": "G.Skill Trident Z 16GB DDR4 3200MHz Heatsink Desktop RAM",
+        "price": "5,250৳",
+        "description": "16GB DDR4 3200MHz Capacity\rTested Latency: 16-18-18-38\rSPD Voltage: 1.20V\rNon-ECC, Unbuffered",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z/trident-z-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Operating voltage": "Tested Voltage: 1.35V\r\nSPD Voltage: 1.20V",
+            "Latency": "16-18-18-38",
+            "Heat Sink Color": "Black & Red",
+            "Warranty": "Lifetime warranty"
+        }
+    },
+    {
+        "id": 1097,
+        "name": "Adata XPG Gammix D20 16GB DDR4 3200MHz Gaming Desktop RAM",
+        "price": "5,500৳",
+        "description": "Effortless Overclocking with XMP 2.0\rSize: 16GB DDR4 3200MHz\roperating Voltage: 1.35V - 1.4V\rOperating Temperature: 0Â°C to 85Â°C",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/gammix-d20/gammix-d20-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16 GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V - 1.4V",
+            "Warranty": "Life Time Warranty"
+        }
+    },
+    {
+        "id": 1098,
+        "name": "Lexar THOR 16GB 3200Mhz DDR4 Desktop Ram",
+        "price": "5,500৳",
+        "description": "Capacity: 16GB, Memory Type: DDR4\rTested Latency:  CL16-18-18-38\rTested Speed: 3200MHz\rTested Voltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/thor-8gb/thor-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3200 Mhz",
+            "Operating voltage": "1.35V",
+            "Latency": "16-18-18-38",
+            "Dimension": "138.4mm x 35.2 mm x 6.4 mm",
+            "Pin": "288Pin",
+            "Warranty": "Lifetime limited warranty"
+        }
+    },
+    {
+        "id": 1099,
+        "name": "Lexar 16GB DDR4 3200Mhz Desktop RAM",
+        "price": "5,500৳",
+        "description": "Capacity: 16GB, Memory Type: DDR4\rTested Latency:  CL22\rTested Speed: 3200Mhz\rTested Voltage: 1.2V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/8gb-ddr4-3200mhz/8gb-ddr4-3200mhz-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "3200Mhz",
+            "Operating voltage": "1.2V",
+            "Latency": "CL22",
+            "Dimension": "133.35 mm x 31.25 mm",
+            "Pin": "288Pin",
+            "Warranty": "Lifetime warranty"
+        }
+    },
+    {
+        "id": 1100,
+        "name": "G.Skill Trident Z Royal 8GB DDR4 3200MHz Silver Heatsink Desktop RAM",
+        "price": "5,800৳",
+        "description": "Intel XMP 2.0 (Extreme Memory Profile) Ready\r8GB DDR4 3200MHz Non-ECC\rTested Latency: 16-18-18-38\rTested Voltage: 1.35V and Unbuffered",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-royal/trident-z-royal-001-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "Tested Voltage: 1.35V\r\nSPD Voltage: 1.20V",
+            "Latency": "16-18-18-38",
+            "Heat Sink Color": "Silver",
+            "Warranty": "Lifetime warranty"
+        }
+    },
+    {
+        "id": 1101,
+        "name": "G.Skill Trident Z Royal 8GB DDR4 3600MHz Silver Heatsink Desktop RAM",
+        "price": "5,800৳",
+        "description": "Intel XMP 2.0 (Extreme Memory Profile) Ready\r8GB DDR4 3600MHz Non-ECC\rTested Latency: 18-22-22-42\rTested Voltage: 1.35V and Unbuffered",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-royal-8gb-3600mhz/trident-z-royal-8gb-3600mhz-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3600MHz",
+            "Operating voltage": "Tested Voltage: 1.35V\r\nSPD Voltage: 1.20V",
+            "Latency": "18-22-22-42",
+            "Heat Sink Color": "Silver",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1102,
+        "name": "G.Skill Trident Z NEO RGB 16GB DDR4 3600MHz Gaming Desktop RAM",
+        "price": "5,900৳",
+        "description": "Intel XMP 2.0 (Extreme Memory Profile) Ready\r16GB DDR4 3600MHz Non-ECC\rTested Latency: 18-22-22-42\rTested Voltage: 1.35V; Unbuffered",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-neo/trident-z-neo-001-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3600MHz",
+            "Operating voltage": "Tested Voltage: 1.35V\r\nSPD Voltage: 1.20V",
+            "Latency": "18-22-22-42",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1103,
+        "name": "Adata XPG LANCER 16GB DDR5 5200MHz Gaming Desktop RAM",
+        "price": "6,900৳",
+        "description": "PMIC for power supply stability\rOn-die ECC error correction\rHigh-quality materials for stable overclocking\rSupports Intel XMP 3.0 for easy overclocking",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/xpg-lancer/xpg-lancer-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "5200MHz",
+            "Operating voltage": "1.25V - 1.35V",
+            "Latency": "38, 40",
+            "Dimension": "133.35 x 40 x 8mm",
+            "Heat Sink Color": "Black",
+            "Warranty": "Life Time Warranty"
+        }
+    },
+    {
+        "id": 1104,
+        "name": "Corsair Vengeance 16GB DDR5 DRAM 5600MHz C40 RAM",
+        "price": "7,300৳",
+        "description": "Memory Type: DDR5, 5600MHz\rMemory Size: 16GB\rNumber of Pins: 288 Pin\rTested Latency: 40-40-40-77",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-16gb/vengeance-16gb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "5600MHz",
+            "Operating voltage": "Tested Voltage: 1.25V\r\nSPD Voltage: 1.1V",
+            "Latency": "40-40-40-77",
+            "PMIC": "Overclock PMIC",
+            "Heat Sink Color": "Black",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1105,
+        "name": "Corsair VENGEANCE 16GB DDR5 6000MHz Desktop RAM",
+        "price": "7,300৳",
+        "description": "RAM Size: 16GB, Speed: 6000MHz\rLatency: 40-40-40-77\rCompatibility: Intel 600 Series\rPerformance Profile: XMP 3.0",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-ddr5/vengeance-ddr5-02-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.25V",
+            "Latency": "40-40-40-77",
+            "Heat Sink Color": "Anodized Aluminum Black",
+            "Pin": "288",
+            "Warranty": "Life Time"
+        }
+    },
+    {
+        "id": 1106,
+        "name": "Corsair VENGEANCE 16GB DDR5 6000MHz RAM White",
+        "price": "7,500৳",
+        "description": "RAM Size: 16GB, Speed: 6000MHz\rLatency: 40-40-40-77\rCompatibility: Intel 600 Series\rPerformance Profile: XMP 3.0",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-white/vengeance-white-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.25V",
+            "Latency": "40-40-40-77",
+            "Heat Sink Color": "Aluminum White",
+            "Pin": "288",
+            "Warranty": "Life Time"
+        }
+    },
+    {
+        "id": 1107,
+        "name": "Corsair VENGEANCE 16GB DDR5 6200MHz Desktop RAM",
+        "price": "7,500৳",
+        "description": "RAM Size: 16GB, Speed: 6200MHz\rLatency: 40-40-40-77\rCompatibility: Intel 600 Series\rPerformance Profile: XMP 3.0",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-ddr5/vengeance-ddr5-02-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6200MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.25V",
+            "Latency": "40-40-40-77",
+            "Heat Sink Color": "Anodized Aluminum Black",
+            "Pin": "288",
+            "Warranty": "Life Time"
+        }
+    },
+    {
+        "id": 1108,
+        "name": "Colorful Battle-AX Redline 16GB DDR5 6000MHz Desktop RAM",
+        "price": "7,500৳",
+        "description": "Capacity: 16GB\rType: DDR5 6000MHz\rLatency: CL30\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/battle-ax-redline/battle-ax-redline-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL30",
+            "Heat Sink Color": "White",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1109,
+        "name": "Corsair VENGEANCE RGB 16GB DDR5 6000MHz RAM",
+        "price": "7,900৳",
+        "description": "Capacity: 16GB\rFrequency: DDR5 6000MHz\rForm Factor: 288-Pin\rVoltage & Cas Latency: 1.40V/C36",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb/vengeance-rgb-03-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.40V",
+            "Latency": "36-44-44-96",
+            "Others": "Performance Profile: XMP 3.0\r\nPackage Memory Format: DIMM\r\nMemory Compatibility: Intel 600 Series, Intel 700 Series",
+            "Heat Sink Color": "Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1110,
+        "name": "Adata XPG LANCER 16GB DDR5 6000MHz Gaming Desktop RAM",
+        "price": "7,999৳",
+        "description": "High-quality materials for stable overclocking\rSupports Intel XMP 3.0 for easy overclocking\rPMIC for power supply stability\rOn-die ECC error correction",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/xpg-lancer/xpg-lancer-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "1.25V - 1.35V",
+            "Latency": "38, 40",
+            "Dimension": "133.35 x 40 x 8mm",
+            "Heat Sink Color": "Black",
+            "Warranty": "Life Time Warranty"
+        }
+    },
+    {
+        "id": 1111,
+        "name": "TEAM T-FORCE DELTA TUF Gaming Alliance RGB 16GB 6000MHz DDR5 Desktop RAM",
+        "price": "8,050৳",
+        "description": "Capacity: 16GB\rType- DDR5, Speed: 6000MHz\rOperating Voltage: 1.25V\rLatency: CL38-38-38-78",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/delta-tuf-gaming-alliance-rgb/delta-tuf-gaming-alliance-rgb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "1.25V",
+            "Latency": "CL38-38-38-78",
+            "Dimension": "46.1(H) x 144.2(L) x 7(W)mm",
+            "Heat Sink Color": "Black",
+            "Pin": "288 Pin non-ECC Unbuffered DIMM",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1112,
+        "name": "Corsair VENGEANCE RGB 16GB DDR5 6200MHz RAM",
+        "price": "8,200৳",
+        "description": "Capacity: 16GB\rFrequency: DDR5 6200MHz\rForm Factor: 288-Pin\rVoltage & Cas Latency: 1.40V/C36",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb/vengeance-rgb-03-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6200MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.40V",
+            "Latency": "36-46-46-100",
+            "Others": "Performance Profile: XMP 3.0\r\nPackage Memory Format: DIMM\r\nMemory Compatibility: Intel 600 Series, Intel 700 Series",
+            "Heat Sink Color": "Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1113,
+        "name": "Corsair VENGEANCE RGB 16GB DDR5 6600MHz RAM",
+        "price": "8,700৳",
+        "description": "Capacity: 16GB\rFrequency: DDR5 6600MHz\rForm Factor: 288-Pin\rVoltage & Cas Latency: 38-48-48-106, 1.40V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb/vengeance-rgb-03-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6400MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.40V",
+            "Latency": "38-48-48-106",
+            "Others": "Performance Profile: XMP 3.0\r\nPackage Memory Format: DIMM",
+            "Heat Sink Color": "Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1114,
+        "name": "TEAM DELTA TUF Gaming Alliance RGB 16GB 6400MHz DDR5 Desktop RAM",
+        "price": "8,399৳",
+        "description": "Capacity: 16GB\rType- DDR5, Speed: 6400MHz\rOperating Voltage: 1.35V\rLatency: CL40-40-40-84",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/delta-tuf-gaming-alliance-rgb/delta-tuf-gaming-alliance-rgb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6400MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL40-40-40-84",
+            "Dimension": "46.1(H) x 144.2(L) x 7(W)mm",
+            "Pin": "288 Pin Non-ECC Unbuffered DIMM",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1115,
+        "name": "Corsair VENGEANCE RGB PRO SL 16GB (2x8GB) DDR4 3200MHz C16 RAM Kit",
+        "price": "8,400৳",
+        "description": "Memory Type: DDR4\rMemory Size: 16GB (2x8GB)\rNumber of Pins: 288 Pin\rTested Latency: 16-20-20-38",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/cmh16gx4m2e3200c16/cmh16gx4m2e3200c16-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB (2 x 8GB)",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35",
+            "Latency": "16-20-20-38",
+            "Heat Sink Color": "Heat Spreader Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1116,
+        "name": "TEAM Delta RGB 16GB DDR5 6200MHz Gaming Desktop RAM",
+        "price": "8,400৳",
+        "description": "Capacity: 16GB\rType- DDR5, Speed: 6200MHz\rOperating Voltage: 1.25V\rLatency: CL38-38-38-78",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/delta-rgb-16gb-kit/delta-rgb-16gb-kit-02-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6200MHz",
+            "Operating voltage": "1.25V",
+            "Latency": "CL38-38-38-78",
+            "Dimension": "46.1(H) x 144.2(L) x 7(W)mm",
+            "Pin": "288 Pin Non-ECC Unbuffered DIMM",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1117,
+        "name": "Apacer NOX RGB 16GB DDR4 3600MHz RAM",
+        "price": "8,500৳",
+        "description": "Capacity: 16GB, RGB lighting effect\rFrequency: 3600MHz, PIN: 288-pin\rMemory Architecture: x8 FBGA DRAM chip\rVoltage & Cas Latency: 1.45V/18-22-22-38",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/apacer/nox-16gb-3600mhz/Nox-16gb-3200mhz.jpg-1000x1000-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3600MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "18-22-22-38",
+            "Dimension": "Module Height: 133.35mm*31.25mm*4.07mm",
+            "Pin": "288-Pins",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1118,
+        "name": "Adata XPG LANCER RGB 16GB DDR5 6000MHz Gaming Desktop RAM",
+        "price": "8,500৳",
+        "description": "Memory: 16GB DDR5\rBus Speed: 6000MHz\rForm Factor: U-DIMM, Latency: 30-40\rOperating Voltage: 1.25V-1.4V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/xpg-lancer-rgb/xpg-lancer-rgb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "1.25V-1.4V",
+            "Latency": "30-40",
+            "Dimension": "133.35 x 40 x 8mm",
+            "Warranty": "Life Time Warranty"
+        }
+    },
+    {
+        "id": 1119,
+        "name": "Colorful CVN Icicle 16GB DDR5 6600MHz Desktop RAM",
+        "price": "8,400৳",
+        "description": "Capacity: 16GB\rType: DDR5 6600MHz\rLatency: CL34\rVoltage: 1.4V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/cvn-icicle/cvn-icicle-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6600MHz",
+            "Operating voltage": "1.4V",
+            "Latency": "CL34",
+            "Heat Sink Color": "Grey",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1120,
+        "name": "TEAM Delta RGB 16GB DDR5 6400MHz Gaming Desktop RAM",
+        "price": "8,550৳",
+        "description": "Capacity: 16GB\rType- DDR5, Speed: 6400MHz\rOperating Voltage: 1.35V\rLatency: CL30-38-38-84",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/delta-rgb/delta-rgb-black-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6400MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL30-38-38-84",
+            "Dimension": "46.1(H) x 144.2(L) x 7(W)mm",
+            "Pin": "288 Pin Non-ECC Unbuffered DIMM",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1121,
+        "name": "Corsair VENGEANCE RGB 32GB (16x2) DDR5 7200MHz RAM",
+        "price": "18,000৳",
+        "description": "Capacity: 32GB (16x2)\rFrequency: DDR5 7200MHz\rForm Factor: 288-Pin\rVoltage & Cas Latency: 1.45V/C34",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb/vengeance-rgb-03-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "32GB",
+            "Frequency": "7200MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.40V",
+            "Latency": "34-44-44-96",
+            "Others": "Performance Profile: XMP 3.0\r\nMemory Compatibility: Intel 700 Series\r\nPower Draw: Overclock PMIC",
+            "Heat Sink Color": "Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1122,
+        "name": "Corsair VENGEANCE RGB 16GB DDR5 6800MHz RAM",
+        "price": "8,700৳",
+        "description": "Capacity: 16GB\rFrequency: DDR5 6800MHz\rForm Factor: 288-Pin\rVoltage & Cas Latency: 1.40V/C40",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb/vengeance-rgb-03-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6800MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.40V",
+            "Latency": "40-40-40-77",
+            "Others": "Performance Profile: XMP 3.0\r\nMemory Compatibility: Intel 700 Series\r\nPower Draw: Overclock PMIC",
+            "Heat Sink Color": "Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1123,
+        "name": "Corsair VENGEANCE RGB PRO SL 16GB (2x8GB) DDR4 3200MHz C16 RAM Kit White",
+        "price": "8,100৳",
+        "description": "Memory Type: DDR4\rMemory Size: 16GB (2x8GB)\rNumber of Pins: 288 Pin\rTested Latency: 16-20-20-38",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-rgb-pro-sl-32gb/vengeance-rgb-pro-sl-32gb-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB (2 x 8GB)",
+            "Frequency": "3200MHz",
+            "Operating voltage": "Tested Voltage 1.35",
+            "Latency": "Tested Latency 16-20-20-38",
+            "Heat Sink Color": "Heat Spreader Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1124,
+        "name": "Kingston FURY Renegade 16GB DDR5 6800MHz Desktop RAM",
+        "price": "9,500৳",
+        "description": "Capacity: 16GB\rFrequency: DDR5 6800MHz\rForm Factor: 288-Pin\rCas Latency: CL36",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-renegade-non-rgb/fury-renegade-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6800MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL36",
+            "Dimension": "180.34 x 127 x 17.78mm",
+            "Pin": "288-pin",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1125,
+        "name": "TEAM NIGHT HAWK 16GB 3600MHz RGB DDR4 Desktop RAM",
+        "price": "9,600৳",
+        "description": "Using JEDEC Association latest RC 2.0 circuit configuration\rSupports ASUS Aura Sync\rRGB full-color lighting effects\r1.2~1.4V ultra-low working voltage",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/component/ram/team/night-hawk-8x2/night-hawk-16gb-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "16GB",
+            "Frequency": "3600Mhz",
+            "Operating voltage": "1.35V",
+            "Latency": "C18",
+            "Dimension": "53(H) x 147(L) x 9(W)mm",
+            "Heat Sink Color": "Aluminum heat spreader",
+            "Pin": "288 Pin Unbuffered DIMM Non ECC",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1126,
+        "name": "G.SKILL Trident Z Royal RGB 8GB DDR4 4600MHz Desktop RAM",
+        "price": "9,900৳",
+        "description": "Radiant Crystalline Light Bar\rTested Latency: 18-22-22-42\r8GB DDR4 4600MHz Non-ECC\rIntel XMP 2.0 Ready",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-royal/trident-z-royal-001-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "4600MHz",
+            "Operating voltage": "Tested Voltage: 1.45V\r\nSPD Voltage: 1.20V",
+            "Latency": "18-22-22-42",
+            "Warranty": "Life Time Warranty"
+        }
+    },
+    {
+        "id": 1127,
+        "name": "Corsair DOMINATOR PLATINUM RGB 16GB DDR5 7200MHz Desktop RAM",
+        "price": "13,800৳",
+        "description": "Capacity: 16GB\rFrequency: DDR5 7200MHz\rForm Factor: 288-Pin\rVoltage & Cas Latency: 1.45V/C34",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb-ddr5/dominator-platinum-rgb-ddr5-04-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "7200MHz",
+            "Operating voltage": "Tested Voltage: 1.45V\r\nSPD Voltage: 1.1V",
+            "Latency": "40-40-40-77",
+            "Others": "Memory Compatibility: Intel 700 Series\r\nPerformance Profile: XMP 3.0\r\nPower Draw: Extreme OC PMIC",
+            "Heat Sink Color": "Black",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1128,
+        "name": "TEAM Delta RGB 32GB (16x2) DDR5 5200MHz Gaming Desktop RAM",
+        "price": "14,798৳",
+        "description": "Capacity: 32Gb (16GBx2)\rType- DDR5, Speed: 5200MHz\rOperating Voltage: 1.25V\rLatency: CL40-40-40-76",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/delta-rgb-16gb-kit/delta-rgb-16gb-kit-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "32GB",
+            "Frequency": "5200MHz",
+            "Operating voltage": "1.25V",
+            "Latency": "CL40-40-40-76",
+            "Dimension": "46.1(H) x 144.2(L) x 7(W)mm",
+            "Pin": "288 Pin Non-ECC Unbuffered DIMM",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1129,
+        "name": "Lexar ARES 32GB (16x2) 6000Mhz DDR5 RGB Gaming Desktop RAM",
+        "price": "17,500৳",
+        "description": "Capacity: 32GB, Memory Type: DDR5\rTested Latency:  CL30-36-36-68\rTested Speed: 6000Mhz \rTested Voltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/ares-32gb/ares-32gb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "32GB Kit (16GBx2)",
+            "Frequency": "6000 MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "30-36-36-68",
+            "Dimension": "L140 x W43.3 x H7.9mm (with heat spreader)",
+            "Pin": "288Pin",
+            "Warranty": "Lifetime warranty"
+        }
+    },
+    {
+        "id": 1130,
+        "name": "Corsair DOMINATOR PLATINUM RGB 32GB (2x16GB) DDR5 5200MHz C40 AMD EXPO RAM Kit",
+        "price": "21,800৳",
+        "description": "Capacity: 32GB (2x16GB)\rFrequency: DDR5 5200MHz\rForm Factor: 288-Pin UDIMM\rVoltage & Cas Latency: 1.25V/40-40-40-77",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb-ddr5/dominator-platinum-rgb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "32GB (2 x 16GB)",
+            "Frequency": "5200MHz",
+            "Operating voltage": "Tested Voltage 1.25",
+            "Latency": "C40",
+            "Heat Sink Color": "Anodized Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1131,
+        "name": "Team Vulcan Z 8GB DDR4 3200MHz Gaming RAM",
+        "price": "2,775৳",
+        "description": "Capacity 8GB\rSupports Intel & AMD motherboards\rSelected high-quality IC\rSupports XM P2.0",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/vulcan-z/vulcan-z-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-18-18-38",
+            "Dimension": "32(H) x 140(L) x 7(W)mm",
+            "Heat Sink Color": "Red Color Aluminum heat spreader",
+            "Pin": "288 Pin Unbuffered DIMM Non ECC",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1132,
+        "name": "Team T-Force Vulcan Z 8GB DDR4 3200MHz Desktop Gaming RAM",
+        "price": "2,775৳",
+        "description": "Capacity: 8GB; Frequency: 3200 MHz\rData Transfer: 25,600 MB/s\rBandwidth: (PC4 25600)\rTimings: CL16-18-18-38",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/vulcan-z/vulcan-z-0001-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35 V",
+            "Latency": "CL16-18-18-38",
+            "Dimension": "32(H) x 140(L) x 7(W)mm",
+            "Pin": "288 pin",
+            "Warranty": "Lifetime warranty"
+        }
+    },
+    {
+        "id": 1133,
+        "name": "HP V6 8GB 3200MHz DDR4 Desktop RAM",
+        "price": "2,200৳",
+        "description": "Capacity: 8GB\rMemory Type: DDR4\rFrequency: 3200MHZ , PIN: 288-pin\rVoltage & Cas Latency: 1.35V/CL16",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/hp-ram/v6-8gb/v6-8gb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16",
+            "Dimension": "136 x 36 x 6mm",
+            "Pin": "288",
+            "Warranty": "05-Year"
+        }
+    },
+    {
+        "id": 1134,
+        "name": "TEAM T-Force DELTA TUF Gaming RGB 8GB 3200MHz DDR4 CL16 Desktop RAM",
+        "price": "3,400৳",
+        "description": "120Â° ultra wide angle lighting effects\rAsymmetrical, minimalist design\rAluminum alloy heat spreader design\rIntel and AMD motherboard support",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/team/delta-tuf/delta-tuf-001-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-20-20-40",
+            "Dimension": "49 x 147 x 7mm",
+            "Pin": "288 Pin",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1135,
+        "name": "PNY XLR8 Gaming MAKO 16GB DDR5 6000MHz Desktop RAM White",
+        "price": "7,200৳",
+        "description": "Capacity: 16GB\rMemory Type: DDR5\rFrequency Speed: 6000MHz \rCAS Latency: CL40, Voltage: 1.4V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/pny/xlr8-gaming-mako/xlr8-gaming-mako-white-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "1.4V",
+            "Latency": "CL40",
+            "Others": "XMP Supported",
+            "Dimension": "133 x 43 x 8mm",
+            "Warranty": "Life time warranty"
+        }
+    },
+    {
+        "id": 1136,
+        "name": "PNY XLR8 Gaming MAKO 16GB DDR5 6000MHz Desktop RAM",
+        "price": "7,000৳",
+        "description": "Capacity: 16GB\rMemory Type: DDR5\rFrequency Speed: 6000MHz \rCAS Latency: CL40, Voltage: 1.4V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/pny/xlr8-gaming-mako/xlr8-gaming-mako-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "1.4V",
+            "Latency": "CL40",
+            "Others": "XMP Supported",
+            "Dimension": "133 x 43 x 8mm",
+            "Warranty": "Life time warranty"
+        }
+    },
+    {
+        "id": 1137,
+        "name": "PNY XLR8 8GB RGB DDR4 3200MHz White Desktop RAM",
+        "price": "3,350৳",
+        "description": "Memory: 8GB DDR4-3200MHz\rInterface: 288 Pin\rCAS Latency: CL16-18-18\rVoltage: 1.35V",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/pny/xlr8-rgb-8gb/xlr8-8gb-rgb-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR4",
+            "Capacity": "8GB",
+            "Frequency": "3200MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "CL16-18-18",
+            "Others": "XMP Supported",
+            "Dimension": "133 x 43 x 8mm",
+            "Warranty": "Life time warranty"
+        }
+    },
+    {
+        "id": 1138,
+        "name": "Kingston FURY Beast 16GB 6000Mhz DDR5 Desktop RAM",
+        "price": "7,300৳",
+        "description": "Capacity: 16GB; Speeds: 6000Mhz\rVoltage: 1.35V; Latencies: CL40\rLow-profile heat spreader\rImproved stability for overclocking",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast/fury-beast-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "40-40-40",
+            "Dimension": "133.35 mm x 34.9 mm x 6.62 mm",
+            "Heat Sink Color": "Low-profile heat spreader design",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1139,
+        "name": "Kingston FURY Beast 16GB 5600Mhz DDR5 Desktop RAM",
+        "price": "7,100৳",
+        "description": "Capacity: 16GB; Speeds: 5600Mhz\rVoltage: 1.35V; Latencies: CL40\rLow-profile heat spreader\rImproved stability for overclocking",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast/fury-beast-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "16GB",
+            "Frequency": "5600MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "40-40-40",
+            "Dimension": "133.35 mm x 34.9 mm x 6.62 mm",
+            "Heat Sink Color": "Low-profile heat spreader design",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1140,
+        "name": "Corsair VENGEANCE 32GB DDR5 5600MHz C40 RAM",
+        "price": "13,200৳",
+        "description": "Capacity: 32GB\rFrequency: DDR5 5600MHz\rForm Factor: 288-Pin\rVoltage & Cas Latency: 1.25V/C40",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-ddr5/vengeance-01-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "32GB",
+            "Frequency": "5600MHz",
+            "Operating voltage": "SPD Voltage: 1.1V\r\nTested Voltage: 1.25V",
+            "Latency": "C40",
+            "Others": "Performance Profile: XMP 3.0\r\nPackage Memory Format: DIMM",
+            "Heat Sink Color": "Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime Warranty"
+        }
+    },
+    {
+        "id": 1141,
+        "name": "Corsair DOMINATOR PLATINUM RGB 32GB (2x16GB) DDR5 5600MHz C36 RAM Kit White",
+        "price": "25,400৳",
+        "description": "Memory Type: DDR5\rMemory Size: 32GB (2x16GB)\rNumber of Pins: 288 Pin\rTested Latency:  36-36-36-76",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb/dominator-platinum-rgb-01-500x500.jpg",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "32GB (2 x 16GB)",
+            "Frequency": "5600MHz",
+            "Operating voltage": "Tested Voltage 1.25",
+            "Latency": "Tested Latency 36-36-36-76",
+            "Heat Sink Color": "Heat Spreader Aluminum",
+            "Pin": "288",
+            "Warranty": "Lifetime"
+        }
+    },
+    {
+        "id": 1142,
+        "name": "Kingston FURY Beast 32GB DDR5 6000MHz RGB Desktop RAM",
+        "price": "14,300৳",
+        "description": "Frequency: 6000MHz\rCas Latency: 40-40-40\rOperating voltage: 1.35 V\rType: 288-pin",
+        "category": "ram",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast-16gb-6000mhz/fury-beast-16gb-6000mhz-04-500x500.webp",
+        "Specifications": {
+            "Type": "DDR5",
+            "Capacity": "32GB",
+            "Frequency": "6000MHz",
+            "Operating voltage": "1.35V",
+            "Latency": "40-40-40",
+            "Dimension": "133.35 mm x 42.23 mm x 7.11 mm",
+            "Pin": "288-pin",
+            "Warranty": "Lifetime Warranty"
+        }
+    }
+]

@@ -1,0 +1,2845 @@
+[
+    {
+        "id": 1266,
+        "name": "Western Digital Green SN350 240GB M.2 NVMe Gen3 SSD",
+        "price": "2,800৳",
+        "description": "Interface: PCIe Gen3 8Gb/s\rForm Factor M.2 2280\rSequential Read: 2400MB/s\rSequential Write: 900MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/western-digital/green-sn350/wd-green-sn350-240gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "240 GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "TLC NAND",
+            "Interface": "PCIe Gen3 8Gb/s",
+            "Sequential R/W": "Sequential Read Performance: 2400MB/s\r\nSequential Write Performance: 900MB/s",
+            "MTBF": "Up to 1.0M hours",
+            "Dimension": "80mm x 22.0mm x 2.38mm",
+            "Weight": "7.5g ± 1g",
+            "Operating Temperature": "32ºF to 158ºF (0ºC to 70ºC)",
+            "Storage Temperature": "-40ºF to 185ºF (-40ºC to 85ºC)",
+            "Shock resistance": "1,500G @0.5 ms half sine",
+            "Vibration Resistance": "5 gRMS, 10-2000 Hz, 3 axes",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1267,
+        "name": "Western Digital Green 480GB SSD",
+        "price": "3,900৳",
+        "description": "Capacity 480GB\rInterface SATA 6Gb/s\rForm Factor 2.5\"\rFor fast performance and reliability",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/western/480gb/wd-480gb-ssd-500x500.jpg",
+        "Specifications": {
+            "Capacity": "480GB",
+            "Form Factor": "2.5\"",
+            "Interface": "SATA 6Gb/s",
+            "Sequential R/W": "545/510 MB/s",
+            "MTBF": "up to 1M hours",
+            "Dimension": "(100.5 x 69.85 x 70) mm",
+            "Weight": "32.1 g",
+            "Operating Temperature": "0 to 70 C",
+            "Storage Temperature": "-55 to 85 C",
+            "Shock resistance": "1,500 G @0.5 msec half sine",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1268,
+        "name": "Western Digital Black SN770 500GB M.2 2280 PCIe Gen4 NVMe SSD",
+        "price": "6,200৳",
+        "description": "Capacity: 500GB\rInterface: PCIe Gen4 x4\rForm Factor: M.2 2280\rSequential Read/Write: 5000MB/s / 4000MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/western-digital/wd-black-sn770/wd-black-sn770-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe Gen4 x4",
+            "Sequential R/W": "Sequential Read: 5000MB/s\r\nSequential Write: 4000MB/s",
+            "TBW": "300",
+            "Dimension": "80mm x 22mm x 2.38mm",
+            "Manufacturing Warranty": "5 Years Limited Warranty"
+        }
+    },
+    {
+        "id": 1269,
+        "name": "COLORFUL SL300 128GB 2.5'' SATA III SSD",
+        "price": "1,650৳",
+        "description": "Capacity: 128GB SSD\rInterface:  SATA III\rNAND Flash: 3D NAND\rController: SMI",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/sl500/sl500-500x500.JPG",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III",
+            "Sequential R/W": "Write Speed: Up to 350 MB/s\r\nRead Speed: Up to 450 MB/s",
+            "MTBF": "1,000,000 hours",
+            "Dimension": "100 x 70 x 7 mm",
+            "Weight": "100g",
+            "Operating Temperature": "0°C ~ +70°C",
+            "Storage Temperature": "-45°C ~ +85°C",
+            "Shock resistance": "1500G",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1270,
+        "name": "Netac N535S 120GB 2.5-inch SATAIII SSD",
+        "price": "1,750৳",
+        "description": "Read Speed: 560MB/s\rWrite Speed: 520MB/s\rInterface: SATA III\rForm Factor: 2.5\"",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535s/n535s-001-500x500.jpg",
+        "Specifications": {
+            "Capacity": "120GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND Flash",
+            "Interface": "SATA III",
+            "Sequential R/W": "Read Speed  560MB/s\r\nWrite Speed  520MB/s",
+            "Others": "TRIM, S.M.A.R.T, LDPC ECC",
+            "Dimension": "100 x 70 x 7 mm",
+            "Weight": "54 g",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1271,
+        "name": "Acer SA100 120GB 2.5\" SATA lll SSD",
+        "price": "1,750৳",
+        "description": "Capacity: 120 GB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 560 MB/s, Write: 500 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/acer/sa100/sa100-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "120 GB",
+            "Form Factor": "2.5 inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III, 6.0 GB/s",
+            "Sequential R/W": "Read: 560 MB/s, Write: 500 MB/s",
+            "Dimension": "100 x 70 x 6.7 mm",
+            "Operating Temperature": "0 °C - 70 ℃/ 32 °F - 158 °F",
+            "Storage Temperature": "-40 ℃ - 85 ℃ / -40 °F - 185 °F",
+            "Manufacturing Warranty": "3-Year\r\n40 TBW"
+        }
+    },
+    {
+        "id": 1272,
+        "name": "Netac SA500 120GB 2.5-inch SATAIII SSD",
+        "price": "1,750৳",
+        "description": "Capacity: 120 GB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 500 MB/s, Write: 400 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "120 GB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Max. Sequential Read (MB/s): 500\r\nMax. Sequential Write (MB/s): 400",
+            "MTBF": "1,500,000 hours",
+            "TBW": "60",
+            "Dimension": "Length:100.0mm\r\nWidth: 69.85mm\r\nHeight: 7.0mm",
+            "Weight": "46 gm",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-45°C ~ 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1273,
+        "name": "Netac SA500 128GB 2.5-inch SATAIII SSD",
+        "price": "1,750৳",
+        "description": "Capacity: 128GB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 500 MB/s, Write: 400 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "120 GB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Max. Sequential Read (MB/s): 500\r\nMax. Sequential Write (MB/s): 400",
+            "MTBF": "1,500,000 hours",
+            "TBW": "60",
+            "Dimension": "Length:100.0mm\r\nWidth: 69.85mm\r\nHeight: 7.0mm",
+            "Weight": "46 gm",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-45°C ~ 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1274,
+        "name": "Netac N535N 128GB M.2 2280 SSD",
+        "price": "1,850৳",
+        "description": "Capacity: 128GB\rRead Speed: 510 MB/s\rWrite Speed: 440 MB/s\rInterface: SATA III 6Gb/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535n-128gb/n535n-128gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "SATA 3",
+            "Sequential R/W": "Read: 510 MB / s\r\nWrite: 440 MB / s",
+            "Weight": "200g",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1275,
+        "name": "Lexar NS100 128GB 2.5 inch Gray SATA III SSD",
+        "price": "1,850৳",
+        "description": "Interface: 2.5\" SATA III (6Gb/s)\rRead speed of up to 550MB/s\rCapacity: 128GB\rShock and Vibration Resistant",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/lexar/ns100-256gb/ns100-256gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "2.5”",
+            "Interface": "SATA III (6Gb/s)",
+            "Sequential R/W": "Read up to 520MB/s",
+            "Dimension": "69.85mm x 100.2mm x 7mm",
+            "Weight": "34g",
+            "Operating Temperature": "0°C to 70°C (32°F to 158°F)",
+            "Storage Temperature": "-40°C to 85°C (-40°F to 185°F)",
+            "Shock resistance": "Shock Resistant: 1500G, duration 0.5ms, Half Sine Wave\r\nVibration Resistant: 10~2000Hz, 1.5mm, 20G, 1 Oct/min, 30min/axis(X,Y,Z)",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1276,
+        "name": "Netac N5M 128GB mSATA SATAIII 2242 SSD",
+        "price": "1,870৳",
+        "description": "Interface: mSATA SATA Ⅲ\rCapacity: 128GB\rTransmission Bandwidth: 6Gb/s\rOperating Voltage: 3.3V",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n5m/n5m-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "M.2 2242",
+            "Flash Type": "3D NAND Flash",
+            "Interface": "mSATA",
+            "Sequential R/W": "Read Speed: Up to 510MB/s\r\nWrite Speed: Up to 440MB/s",
+            "Weight": "About 8g",
+            "Operating Temperature": "0℃-70℃",
+            "Storage Temperature": "-40℃-85℃",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1277,
+        "name": "Colorful CN600 128gb M.2 Nvme SSD",
+        "price": "1,900৳",
+        "description": "Capacity: 128GB\rInterface: M.2 NVME\rNAND Flash: 3D NAND\rRead: 1500MB/s, Write: 530MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/cn600/cn600-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Flash Type": "3D NAND",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: 1500 MB/s\r\nWrite Speed:\t530 MB/s",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1278,
+        "name": "TEAM GX2 2.5\" SATA 128GB SSD",
+        "price": "1,899৳",
+        "description": "Read: Up to 500MB/s Max ; Write: 320MB/s\rInterface: SATA III 6Gb/s\rSupports S.M.A.R.T.\rSupports TRIM",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/gx2/gx2-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "2.5-inch drive available in 7mm to fit in more systems",
+            "Interface": "SATA Rev. 3.0 (6Gb/s) – with backwards compatibility to SATA Rev. 2.0",
+            "Sequential R/W": "Read: Up to 500MB/s Max ; Write: 320MB/s",
+            "MTBF": "1,000,000 hours",
+            "Others": "Operating System:\n\r\nWindows 10 / 8.1 / 8 / 7 / Vista\r\nMAC OS 10.4 or later\r\nLinux 2.6.33 or later",
+            "Dimension": "100(L) x 69.9(W) x 7(H) mm",
+            "Operating Temperature": "0°C ~ 70°C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1500G",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1279,
+        "name": "Netac N930E Pro 128GB NVMe M.2 2280 SSD",
+        "price": "1,950৳",
+        "description": "Interface: PCI-E\rCapacity: 128GB\rRead Speed: 975 MB/s\rWrite Speed: 650 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n930e-pro-128gb/n930e-pro-128gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128 GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCI-E",
+            "Sequential R/W": "Read: 975MB/s\r\nWrite: 650MB/s",
+            "Weight": "200g",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1280,
+        "name": "OCPC XTL-200 128GB SATA III SSD",
+        "price": "2,000৳",
+        "description": "Capacity - 128GB\rForm Factor - 2.5 Inch\rRead Speed (Max) - 510MB/s\rWrite Speed (Max) - 450MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/ocpc/xtl-200/xtl-200-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "2.5 Inch",
+            "Interface": "SATA III",
+            "Sequential R/W": "Read Speed (Max.) - 510MB/s\r\nWrite Speed (Max.) - 450MB/s",
+            "Manufacturing Warranty": "3 year"
+        }
+    },
+    {
+        "id": 1281,
+        "name": "TEAM MS30 128GB M.2 2280 SATA3 SSD",
+        "price": "2,150৳",
+        "description": "Capacity: 128GB M.2 2280\rSupports Intelâ€™s SRT\rSupports S.M.A.R.T.\rSupports TRIM",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/ms30-128gb/ms30-128gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D flash memory",
+            "Interface": "SATA Rev. 3.0 (6Gb/s)",
+            "Sequential R/W": "Read: 500 MB/s\r\nWrite: 300 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "80 x 22 x 3.5 mm",
+            "Weight": "10g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 80˚C",
+            "Shock resistance": "500 G, 2 m/sec",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1282,
+        "name": "Transcend 420S 120GB M.2 SSD",
+        "price": "2,250৳",
+        "description": "Capacity 120GB\rFlash Type 3D NAND flash\rInterface SATA III 6Gb/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/420s/120gb-1-500x500.png",
+        "Specifications": {
+            "Capacity": "120GB",
+            "Form Factor": "M.2",
+            "Flash Type": "3D NAND flash",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "500/350 MB/s",
+            "MTBF": "1,000,000 hour(s)",
+            "Dimension": "42.0 mm x 22.0 mm x 3.88 mm (1.65\" x 0.87\" x 0.15\")",
+            "Weight": "5 g (0.18 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1283,
+        "name": "Team MP33 128GB M.2 PCIe SSD",
+        "price": "2,150৳",
+        "description": "3D flash memory\rPCI-e interface\rM.2 2280\rSupports SLC Caching technology",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp33/mp33-010-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D flash memory",
+            "Interface": "PCIe 3.0 x4 with NVMe 1.3",
+            "Sequential R/W": "Read : up to 1,500 MB/s\r\nWrite: up to 500 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "80(L) x 22(W) x 3.8(H) mm",
+            "Weight": "6g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Manufacturing Warranty": "5 Years Warranty"
+        }
+    },
+    {
+        "id": 1284,
+        "name": "Transcend SSD220S 2.5\" SSD SATA III 6Gb/s Internal 120GB SSD",
+        "price": "2,450৳",
+        "description": "Capacity : 120GB\rInterface : SATAIII (6Gb/s)\rForm Factor :2.5\"/7mm\rTRIM Support",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/ssd220s/ssd220s-120gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "120 GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND flash",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read Speed (Max.) 500 MB/s\r\nWrite Speed (Max.) 300 MB/s",
+            "Dimension": "100 mm x 69.85 mm x 6.8 mm (3.94\" x 2.75\" x 0.28\")",
+            "Weight": "63 g (2.22 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 60°C (140°F)",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1285,
+        "name": "COLORFUL SL500 256GB 2.5'' SATA III SSD",
+        "price": "2,490৳",
+        "description": "Capacity: 256GB SSD\rInterface:  SATA III\rNAND Flash: 3D NAND\rController: SMI",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/sl500/sl500-500x500.JPG",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III",
+            "Sequential R/W": "Write Speed: Up to 340 MB/s\r\nRead Speed: Up to 470 MB/s",
+            "MTBF": "1,000,000 hours",
+            "Dimension": "100 x 70 x 7 mm",
+            "Weight": "100g",
+            "Operating Temperature": "0°C ~ +70°C",
+            "Storage Temperature": "-45°C ~ +85°C",
+            "Shock resistance": "1500G",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1286,
+        "name": "Transcend 110S 128GB M.2 2280 (M-Key) PCIe Gen3x4 SSD Drive",
+        "price": "2,650৳",
+        "description": "Capacity 128GB\rForm Factor M.2\rInterface NVMe PCIe Gen3 x4\rFlash Type 3D NAND flash",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/component/ssd/transcend/110s-128gb/128gb-1-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "M.2",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen3 x4",
+            "Sequential R/W": "Sequential Read/Write (ATTO) : 1,500/400 MB/s\r\nSequential Read/Write (CrystalDiskMark) : 1,500/400 MB/s\r\n4K Random Read/Write (IOmeter) : 90,000/90,000 IOP\r\nTerabytes Written (TBW) : 50 TBW",
+            "MTBF": "1,000,000 hour(s)",
+            "Dimension": "80 mm x 22 mm x 3.58 mm (3.15\" x 0.87\" x 0.14\")",
+            "Weight": "8 g (0.28 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1287,
+        "name": "Netac N535S 240GB 2.5-inch SATAIII SSD",
+        "price": "2,650৳",
+        "description": "Read Speed: 560MB/s\rWrite Speed: 520MB/s\rInterface: SATA III\rForm Factor: 2.5\"",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535s/n535s-001-500x500.jpg",
+        "Specifications": {
+            "Capacity": "240GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND Flash",
+            "Interface": "SATA III",
+            "Sequential R/W": "Read Speed  560MB/s\r\nWrite Speed  520MB/s",
+            "Others": "TRIM, S.M.A.R.T, LDPC ECC",
+            "Dimension": "100 x 70 x 7 mm",
+            "Weight": "54 g",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1288,
+        "name": "Netac SA500 240GB 2.5-inch SATAIII SSD",
+        "price": "2,670৳",
+        "description": "Capacity: 240GB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 520 MB/s, Write: 450 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "240GB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Max. Sequential Read (MB/s): 520\r\nMax. Sequential Write (MB/s): 450",
+            "MTBF": "1,500,000 hours",
+            "TBW": "120",
+            "Dimension": "Length:100.0mm\r\nWidth: 69.85mm\r\nHeight: 7.0mm",
+            "Weight": "46 gm",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-45°C ~ 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1289,
+        "name": "OCPC XTL-200 256GB SATA III SSD",
+        "price": "2,900৳",
+        "description": "Capacity - 256GB\rForm Factor - 2.5 Inch\rRead Speed (Max) - 510MB/s\rWrite Speed (Max) - 450MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/ocpc/xtl-200/xtl-200-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "2.5 Inch",
+            "Interface": "SATA III",
+            "Sequential R/W": "Read Speed (Max.) - 510MB/s\r\nWrite Speed (Max.) - 450MB/s",
+            "Manufacturing Warranty": "3 year"
+        }
+    },
+    {
+        "id": 1290,
+        "name": "Netac N535N 256GB M.2 2280 SSD",
+        "price": "2,799৳",
+        "description": "Capacity: 256GB\rRead Speed: 540 MB/s\rWrite Speed: 490 MB/s\rInterface: SATA III 6Gb/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535n-256gb/n535n-256gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "SATA 3",
+            "Sequential R/W": "Read: 540 MB / s\r\nWrite: 490 MB / s",
+            "Weight": "200g",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1291,
+        "name": "Netac SA500 256GB 2.5-inch SATAIII SSD",
+        "price": "2,849৳",
+        "description": "Capacity: 256GB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 520 MB/s, Write: 450 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Max. Sequential Read (MB/s): 520\r\nMax. Sequential Write (MB/s): 450",
+            "MTBF": "1,500,000 hours",
+            "TBW": "120",
+            "Dimension": "Length:100.0mm\r\nWidth: 69.85mm\r\nHeight: 7.0mm",
+            "Weight": "46 gm",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-45°C ~ 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1292,
+        "name": "ZADAK TWSG3 128GB PCIe Gen3x4 M.2 SSD",
+        "price": "2,200৳",
+        "description": "Read/write speed up to 1900/600 MB/s\rPCIe Gen3 x4 NVMe 1.3\r3D NAND technology\rCapacity: 128GB",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/zadak/twsg3/twsg3-001-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "M.2",
+            "Flash Type": "3D NAND",
+            "Interface": "PCIe Gen3 x4 NVMe 1.3",
+            "Sequential R/W": "Up to 1900/600 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "(L)80 x (W)22 x (H)2.25mm",
+            "Operating Temperature": "0°C ~ +70°C",
+            "Storage Temperature": "-40 ~ +85°C",
+            "Shock resistance": "1500G/0.5msec",
+            "Manufacturing Warranty": "100 TBW/5-Year Limited Warranty\r\n(The SSD is based on the TBW or Warranty Period)"
+        }
+    },
+    {
+        "id": 1293,
+        "name": "Teutons PLATINUM 256GB 2.5'' SATA Internal SSD",
+        "price": "2,900৳",
+        "description": "SATA interface: SATA III 6Gb/s\r2.5\" ultra slim 7mm form factor\rStorage Capacity: 256GB\rNCQ, S.M.A.R.T & TRIM Support",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/teutons/platinum/platinum-0010-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "2.5 inch ultra slim 7 mm form factor",
+            "Interface": "SATA interface: SATA III 6Gb/s",
+            "Sequential R/W": "Read Speed (Max.): 550MB/S\r\nWrite Speed (Max.): 500MB/S",
+            "MTBF": "More than 1,000,000 Hours",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1294,
+        "name": "Acer FA100 256GB M.2 NVMe PCIe Gen3 x 4 SSD",
+        "price": "3,000৳",
+        "description": "Capacity: 256 GB\rInterface: PCIe Gen3 x4, NVMe1.4\rForm Factor: M.2 2280\rRead: 1950 MB/s, Write: 1300 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/acer/fa100/fa100-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256 GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND",
+            "Interface": "PCIe Gen3 x4, NVMe1.4",
+            "Sequential R/W": "Read: 1950 MB/s, Write: 1300 MB/s",
+            "Dimension": "100 x 70 x 6.7 mm",
+            "Operating Temperature": "0 °C - 70 °C / 32 °F - 158 °F",
+            "Storage Temperature": "-40 ℃ - 85 °C / -40 °F - 185 °F",
+            "Manufacturing Warranty": "5-Year\r\n150 TBW"
+        }
+    },
+    {
+        "id": 1295,
+        "name": "TEAM CX2 2.5\" SATA 256GB SSD",
+        "price": "2,850৳",
+        "description": "Capacity: 256GB \rECC function enhances efficiency\rAdvanced SLC Caching technology\rShock and drop resistant for safe use",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/cx2-256gb/cx2-256gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "2.5-inch",
+            "Interface": "SATA Rev. 3.0 (6Gb/s)",
+            "Sequential R/W": "Read: Up to 520MB/s Max\r\nWrite: Up to 430MB/s Max",
+            "MTBF": "1,000,000 hours",
+            "Dimension": "100(L) x 69.9(W) x 7(H) mm",
+            "Operating Temperature": "0°C ~ 70°C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1296,
+        "name": "HP EX900 M.2 250GB PCIe NVMe Internal SSD",
+        "price": "3,100৳",
+        "description": "Capacity 250GB\rPCIe 3.1 x4\r 3D TLC NAND",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/ex900-250gb-ssd/ex900-250gb-ssd-500x500.jpg",
+        "Specifications": {
+            "Capacity": "250GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND",
+            "Interface": "PCI-Express 3(8Gb/s) x4, NVMe 1.3",
+            "Sequential R/W": "Max Sequential Read: Up to 2,100 MBps\r\nMax Sequential Write: Up to 1,300 MBps",
+            "MTBF": "2,000,000 hours",
+            "Dimension": "0.87 x 3.15 x 0.9 in",
+            "Weight": "1.92 ounces",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1297,
+        "name": "Transcend 230S 128GB 2.5 Inch SATA III SSD",
+        "price": "3,100৳",
+        "description": "Capacity: 128GB\rInterface: SATA III 6Gb/s\r3D NAND flash",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/230s/128gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "128GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND flash",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: 560 MB/s \r\nWrite: 380 MB/s",
+            "MTBF": "1,000,000 hour(s)",
+            "Dimension": "100 mm x 69.85 mm x 6.8 mm (3.94\" x 2.75\" x 0.28\")",
+            "Weight": "53 g (1.87 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Shock resistance": "Yes",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1298,
+        "name": "TEUTONS IRIDIUM 256GB 2280 M.2 SSD",
+        "price": "3,100৳",
+        "description": "SATA Interface rate 6Gb/s\rNCQ. S.M.A.R.T and TRIM Support\rLow Power Consumption\rLightweight and Shock Resistant",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/teutons/iridium-2280/iridium-2280-1-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "SATA Interface rate 6Gb/s\r\nCompatible with SATA III 3Gb/s and 1.5Gb/s",
+            "Sequential R/W": "Read Speed (Max.): 500MB/s\r\nWrite Speed (Max.): 500MB/s",
+            "MTBF": "More than 1,500,000 Hours",
+            "Shock resistance": "Lightweight and shock resistant",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1299,
+        "name": "Team MS30 256GB M.2 2280 SSD",
+        "price": "3,200৳",
+        "description": "New Generation power-saving technology\rSupports TRIM\rSupports S.M.A.R.T.\rSupports Intelâ€™s SRT",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/ms30-256gb/ms30-256gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "SATA Rev. 3.0 (6Gb/s)",
+            "Sequential R/W": "Read: up to 500MB/s\r\nWrite: up to 400 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "80(L) x 22(W) x 3.5(H) mm",
+            "Weight": "10g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 80˚C",
+            "Shock resistance": "500 G, 2 m/sec",
+            "Manufacturing Warranty": "3 Years Warranty"
+        }
+    },
+    {
+        "id": 1300,
+        "name": "Adata LEGEND 710 256GB M.2 PCIe Gen3 x4 NVMe SSD",
+        "price": "3,200৳",
+        "description": "Capacity: 256GB\rType: M.2 2280\rInterface: NVMe PCIe Gen3 x4\rSequential Read/Write: up to 2,400/1,800 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/adata/legend-710/legend-710-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen3 x4",
+            "Sequential R/W": "up to 2,400/1,800 MB/s",
+            "MTBF": "1,500,000 hours",
+            "TBW": "520TB",
+            "Dimension": "80 x 22 x 3.13mm / 3.15 x 0.87 x 0.13inch (with heat sink)\r\n80 x 22 x 2.15mm / 3.15 x 0.87 x 0.09inch (without heat sink)",
+            "Weight": "8 g (0.28 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "3 years"
+        }
+    },
+    {
+        "id": 1301,
+        "name": "Colorful CN600 256GB M.2 NVMe SSD",
+        "price": "2,900৳",
+        "description": "Capacity: 256GB\rInterface: M.2 NVMe \rNAND Flash: 3D NAND\rRead: 1600MB/s, Write: 900MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/cn600/cn600-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Flash Type": "3D NAND",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: 1600 MB/s\r\nWrite Speed:\t900 MB/s",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1302,
+        "name": "Team MP33 256GB M.2 PCIe SSD",
+        "price": "3,300৳",
+        "description": "3D flash memory\rPCI-e interface\rM.2 2280\rSupports SLC Caching technology",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp33/mp33-010-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D flash memory",
+            "Interface": "PCIe 3.0 x4 with NVMe 1.3",
+            "Sequential R/W": "Read : up to 1,600 MB/s\r\nWrite: up to 1,000 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "80(L) x 22(W) x 3.8(H) mm",
+            "Weight": "6g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Manufacturing Warranty": "5 Years Warranty"
+        }
+    },
+    {
+        "id": 1303,
+        "name": "Transcend 225S 250GB 2.5 Inch SATA III SSD",
+        "price": "3,500৳",
+        "description": "Capacity: 250GB \rInterface:  SATA III 6Gb/s \rFlash Type: top-notch 3D NAND flash\rSequential Read/Write: up to 500/330 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/225s-250gb/225s-250gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "250GB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: 550 MB/s \r\nWrite: 330 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "Dimension": "100 mm x 69.85 mm x 6.8 mm",
+            "Weight": "45 g",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1304,
+        "name": "HP EX900 PLUS 256GB M.2 PCIe NVMe Internal SSD",
+        "price": "3,000৳",
+        "description": "Interface: PCIe 3.0 x 4\rCapacity: 256GB\rForm Factor: M.2 2280\rSequential R/W: up to 2000MB/s / 1300MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/ex900-plus/ex900-plus-256gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "M.2",
+            "Flash Type": "3D NAND",
+            "Interface": "PCIe 3.0 x 4",
+            "Sequential R/W": "Sequential R/W: up to 2000MB/s / 1300MB/s",
+            "MTBF": "More than 1,000,000 hours",
+            "Dimension": "80 × 22 × 2.4 mm",
+            "Weight": "10 g",
+            "Storage Temperature": "-40 to 85 °C",
+            "Shock resistance": "100 G/ 6 s",
+            "Vibration Resistance": "3.1 GRMS (2-500Hz)",
+            "Manufacturing Warranty": "3 years"
+        }
+    },
+    {
+        "id": 1305,
+        "name": "Lexar NS100 256GB 2.5 inch Gray SATA III SSD",
+        "price": "3,000৳",
+        "description": "Shock and Vibration Resistant\rEasy Set Up\rFaster Startup\rEnergy Efficient",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/lexar/ns100-256gb/ns100-256gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "2.5”",
+            "Interface": "SATA III (6Gb/s)",
+            "Sequential R/W": "sequential read up to 520MB/s",
+            "Dimension": "69.85mm x 100.2mm x 7mm",
+            "Weight": "34g",
+            "Operating Temperature": "0°C to 70°C (32°F to 158°F)",
+            "Storage Temperature": "-40°C to 85°C (-40°F to 185°F)",
+            "Shock resistance": "Shock Resistant: 1500G, duration 0.5ms, Half Sine Wave\n\r\nVibration Resistant: 10~2000Hz, 1.5mm, 20G, 1 Oct/min, 30min/axis(X,Y,Z)",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1306,
+        "name": "ROBOT Gaming R700S Pro 256GB 2.5\" SATA III SSD",
+        "price": "3,400৳",
+        "description": "Form Factor: 2.5 Inch\rInterface: SATA III 6Gb/s\rSequential Read/Write: 560/520 Mbps\rCapacity: 256 GB",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/robot/r700s-pro/r700s-pro-500x500.webp",
+        "Specifications": {
+            "Capacity": "256 GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND Flash (TLC)",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Sequential Read: 560MB/s (Maximum)\r\nSequential Write: 520MB/s (Maximum)",
+            "MTBF": "1,500,000 hours",
+            "Operating Temperature": "0°C ~ 70°C",
+            "Storage Temperature": "-40°C (40°F) - 85°C (185°F)",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1307,
+        "name": "Colorful CN600 PRO 256GB M.2 NVMe SSD",
+        "price": "3,100৳",
+        "description": "Capacity: 256GB\rInterface: M.2 NVMe \rNAND Flash: 3D NAND\rRead: 3200MB/s, Write: 1200MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/cn600-pro/cn600-pro-02-500x500.webp",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Flash Type": "3D NAND",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: 3200MB/s\r\nWrite Speed:\t1200MB/s",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1308,
+        "name": "ORICO J-10 256GB PCIe M.2 NVMe SSD",
+        "price": "2,900৳",
+        "description": "Capacity: 256GB\rInterface: M.2 NVMe \rRead Speed: Up to 1800MB/s\rWrite Speed: Up to 1300MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/orico/j-10/j-10-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: Up to 1800MB/s\r\nWrite Speed: Up to 1300MB/s",
+            "Others": "Heatsink Fin, Thermal Silicone Pad, Heat-dissipating Metal Fin",
+            "Color": "Blue",
+            "Manufacturing Warranty": "05 Years"
+        }
+    },
+    {
+        "id": 1309,
+        "name": "ORICO J-10 2TB PCIe M.2 NVMe SSD",
+        "price": "17,000৳",
+        "description": "Capacity: 2TB\rInterface: M.2 NVMe \rRead Speed: Up to 3100MB/s\rWrite Speed: Up to 1600MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/orico/j-10/j-10-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: Up to 3100MB/s\r\nWrite Speed: Up to 1600MB/s",
+            "Others": "Heatsink Fin, Thermal Silicone Pad, Heat-dissipating Metal Fin",
+            "Color": "Blue",
+            "Manufacturing Warranty": "05 Years"
+        }
+    },
+    {
+        "id": 1310,
+        "name": "ORICO J-20 1TB M.2 NVMe SSD",
+        "price": "9,600৳",
+        "description": "Capacity: 1TB\rInterface: M.2 NVMe \rRead Speed: Up to 7000MB/s\rWrite Speed: Up to 6500MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/orico/j-20/j-20-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: Up to 7000MB/s\r\nWrite Speed: Up to 6500MB/s",
+            "Others": "Heatsink Fin, Thermal Silicone Pad, Heat-dissipating Metal Fin",
+            "Color": "Gold",
+            "Manufacturing Warranty": "05 Years"
+        }
+    },
+    {
+        "id": 1311,
+        "name": "ORICO J-10 512GB PCIe M.2 NVMe SSD",
+        "price": "4,700৳",
+        "description": "Capacity: 512GB\rInterface: M.2 NVMe \rRead Speed: Up to 2800MB/s\rWrite Speed: Up to 1300MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/orico/j-10/j-10-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: Up to 2800MB/s\r\nWrite Speed: Up to 1300MB/s",
+            "Others": "Heatsink Fin, Thermal Silicone Pad, Heat-dissipating Metal Fin",
+            "Color": "Blue",
+            "Manufacturing Warranty": "05 Years"
+        }
+    },
+    {
+        "id": 1312,
+        "name": "ORICO J-20 512GB M.2 NVMe SSD",
+        "price": "6,500৳",
+        "description": "Capacity: 512GB\rInterface: M.2 NVMe \rRead Speed: Up to 7000MB/s\rWrite Speed: Up to 6500MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/orico/j-20/j-20-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: Up to 7000MB/s\r\nWrite Speed: Up to 6500MB/s",
+            "Others": "Heatsink Fin, Thermal Silicone Pad, Heat-dissipating Metal Fin",
+            "Color": "Gold",
+            "Manufacturing Warranty": "05 Years"
+        }
+    },
+    {
+        "id": 1313,
+        "name": "ORICO J-10 1TB PCIe M.2 NVMe SSD",
+        "price": "7,900৳",
+        "description": "Capacity: 1TB \rInterface: M.2 NVMe \rRead Speed: Up to 3100MB/s\rWrite Speed: Up to 1900MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/orico/j-10/j-10-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: Up to 3100MB/s\r\nWrite Speed: Up to 1900MB/s",
+            "Others": "Heatsink Fin, Thermal Silicone Pad, Heat-dissipating Metal Fin",
+            "Color": "Blue",
+            "Manufacturing Warranty": "05 Years"
+        }
+    },
+    {
+        "id": 1314,
+        "name": "ORICO O7000 1TB M.2 NVMe SSD",
+        "price": "10,999৳",
+        "description": "Capacity: 1TB\rInterface: PCle4.0x4, M.2 2280\rRead Speed: Up to 7000MB/s\rWrite Speed: Up to 6500MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/orico/o7000/o7000-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Interface": "PCle4.0x4, M.2 2280",
+            "Sequential R/W": "Read Speed: Up to 7000MB/s\r\nWrite Speed: Up to 6500MB/s",
+            "Others": "Heatsink Fin, Thermal Silicone Pad, Heat-dissipating Metal Fin",
+            "Color": "Black and Gold",
+            "Manufacturing Warranty": "05 Years"
+        }
+    },
+    {
+        "id": 1315,
+        "name": "Kingston NV2 250GB M.2 PCIe Gen 4.0 NVMe SSD",
+        "price": "3,500৳",
+        "description": "Interface: PCIe 4.0 x4 NVMe\rStorage Capacity: 250GB\rForm factor: M.2 2280\rSequential read/write: 3,000/1,300MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/kingston/nv2-250gb/nv2-250gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "250GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe 4.0 NVMe",
+            "Sequential R/W": "Maximum Read Transfer Rate: 3000 MB/s\r\nMaximum Write Transfer Rate: 1300 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "22mm x 80mm x 2.2mm",
+            "Weight": "7g (all capacities)",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-40°C~85°C",
+            "Vibration Resistance": "Vibration operating: 2.17G (7-800 Hz)\r\nVibration non-operating: 20G (20-1000Hz)",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1316,
+        "name": "Transcend 825S 250GB M.2 2280 SATA SSD",
+        "price": "3,300৳",
+        "description": "Capacity: 250GB\rType: M.2 2280\rInterface: SATA III 6Gb/s\rSequential Read/Write: Up to 500/330 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/825s-250gb/825s-250gb-02-500x500.webp",
+        "Specifications": {
+            "Capacity": "250GB",
+            "Form Factor": "m.2",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: 500 MB/s \r\nWrite: 330 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "Dimension": "80.0 mm x 22.0 mm x .058 mm (3.15\" x 0.87\" x 0.14\")",
+            "Weight": "9 g",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1317,
+        "name": "Transcend 425S 250GB M.2 2242 SATA SSD",
+        "price": "3,550৳",
+        "description": "Capacity: 250GB\rType: M.2 2242\rInterface: SATA III 6Gb/s\rSequential Read/Write: Up to 500/330 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/425s-250gb/425s-250gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "250GB",
+            "Form Factor": "M.2 2242",
+            "Flash Type": "3D NAND flash",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "up to 500/330 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "Dimension": "42.0 mm x 22.0 mm x 3.58 mm (1.65\" x 0.87\" x 0.14\")",
+            "Weight": "5 g (0.18 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1318,
+        "name": "Transcend 115S 250GB M.2 PCIe Gen3 x4 NVMe SSD (M-Key)",
+        "price": "3,550৳",
+        "description": "Capacity 250GB\rType: M.2 2280\rInterface: NVMe PCIe Gen3 x4\rSequential Read/Write: up to 3,200/1,300 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/115s/115s-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "250GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen3 x4",
+            "Sequential R/W": "up to 3,200/1,300 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "TBW": "100 TBW",
+            "Dimension": "Single-sided: 80 mm x 22 mm x 2.23 mm (3.15\" x 0.87\" x 0.09\")\r\nDouble-sided: 80 mm x 22 mm x 3.58 mm (3.15\" x 0.87\" x 0.14\")",
+            "Weight": "8 g (0.28 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1319,
+        "name": "Lexar NM620 256GB M.2 NVMe SSD",
+        "price": "3,490৳",
+        "description": "Sequential Read & Write Speed: 3000MB/s & 1300MB/s\rHigh-speed PCIe Gen3x4 interface\rForm Factor: M.2 2280\rNAND flash 3D TLC",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/lexar/nm620/nm620-001-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D TLC",
+            "Interface": "PCIe Gen3x4",
+            "Sequential R/W": "Sequential Read & Write Speed: 3000MB/s & 1300MB/s",
+            "MTBF": "1,500,000 Hours",
+            "Dimension": "80 mm x 22 mm x 2.25 mm / 3.15” x 0.87” x 0.09”",
+            "Weight": "9g",
+            "Operating Temperature": "0° C to 70° C (32°F to 158°F)",
+            "Storage Temperature": "-40° C to 85° C (-40°F to 185°F)",
+            "Shock resistance": "1500G, duration 0.5ms, Half Sine Wave",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1320,
+        "name": "Netac SA500 480GB 2.5-inch SATAIII SSD",
+        "price": "3,800৳",
+        "description": "Capacity: 480GB, Form Factor: 2.5-inch\rInterface: SATAIII\rRead Speed: Up to 520MB/s\rWrite Speed: Up to 450MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/sa500/sa500-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "480GB",
+            "Form Factor": "2.5-inch",
+            "Flash Type": "3D TLC/QLC",
+            "Interface": "SATAIII",
+            "Sequential R/W": "Read Speed: Up to 520MB/s\r\nWrite Speed: Up to 450MB/s",
+            "Dimension": "100 x 69.85 x 7 mm",
+            "Color": "Black",
+            "Operating Temperature": "0℃-70℃",
+            "Storage Temperature": "-40℃-85℃",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1321,
+        "name": "Netac N535S 480GB 2.5-inch SATAIII SSD",
+        "price": "4,300৳",
+        "description": "Read Speed: 560MB/s\rWrite Speed: 520MB/s\rInterface: SATA III\rForm Factor: 2.5\"",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535s/n535s-001-500x500.jpg",
+        "Specifications": {
+            "Capacity": "480GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND Flash",
+            "Interface": "SATA III",
+            "Sequential R/W": "Read Speed  560MB/s\r\nWrite Speed  520MB/s",
+            "Others": "TRIM, S.M.A.R.T, LDPC ECC",
+            "Dimension": "100 x 70 x 7 mm",
+            "Weight": "54 g",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1322,
+        "name": "MSI SPATIUM S270 480GB 2.5-Inch SATAIII SSD",
+        "price": "4,300৳",
+        "description": "Capacity: 480GB \rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 500 MB/s, Write: 400 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/msi/spatium-s270/spatium-s270-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "480GB",
+            "Form Factor": "2.5 inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gbps",
+            "Sequential R/W": "Sequential Read Speeds: up to 500MB/s\r\nSequential Write Speeds: up to 400MB/s",
+            "MTBF": "Up to 2,000,000 Hours",
+            "TBW": "110",
+            "Dimension": "100.20mm (L) x 69.85mm (W) x 7.00mm (H)",
+            "Operating Temperature": "0°C – 70°C",
+            "Storage Temperature": "-40°C – 85°C",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1323,
+        "name": "Transcend 230S 256GB 2.5 Inch SATAIII SSD",
+        "price": "4,400৳",
+        "description": "Capacity: 256GB\rInterface: SATA III 6Gb/s\r3D NAND flash",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/230s/230s-500x500.jpg",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND flash",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: 560 MB/s \r\nWrite: 520 MB/s",
+            "MTBF": "1,000,000 hour(s)",
+            "Dimension": "100 mm x 69.85 mm x 6.8 mm (3.94\" x 2.75\" x 0.28\")",
+            "Weight": "53 g (1.87 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Shock resistance": "Yes",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1324,
+        "name": "OCPC XTL-200 512GB SATA III SSD",
+        "price": "4,450৳",
+        "description": "Capacity - 512GB\rForm Factor - 2.5 Inch\rRead Speed (Max) - 520MB/s\rWrite Speed (Max) - 450MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/ocpc/xtl-200/xtl-200-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "2.5 Inch",
+            "Interface": "SATA III",
+            "Sequential R/W": "Read Speed (Max.) - 520MB/s\r\nWrite Speed (Max.) - 450MB/s",
+            "Manufacturing Warranty": "3 year"
+        }
+    },
+    {
+        "id": 1325,
+        "name": "TEAM EX2 512GB 2.5\" SATA SSD",
+        "price": "4,400৳",
+        "description": "Read: Up to 550MB/s Max; Write: 520MB/s\rInterface: SATA III 6Gb/s\rOptimized performance\rCapacity: 512GB",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/ex2/ex2-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "2.5-inch",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: Up to 550MB/s Max\r\nWrite: 520MB/s",
+            "MTBF": "1,000,000 hours",
+            "Others": "Humidity: 0°C ~ 55°C / 5% ~ 95% RH,non-condensing\r\nVibration: 20G (non-operating)",
+            "Dimension": "100(L) x 69.9(W) x 7(H) mm",
+            "Operating Temperature": "0°C ~ 70°C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1326,
+        "name": "Seagate BarraCuda 570 250GB M.2 2280 PCIe NVMe SSD",
+        "price": "4,500৳",
+        "description": "Capacity: 250GB \rInterface: PCIe Gen4 ×4 NVMe 1.4\rForm Factor: M.2 2280-S2\rRead: 3200MB/s, Write: 1300MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/barracuda-570/barracuda-570-03-500x500.webp",
+        "Specifications": {
+            "Capacity": "250GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "Tri-Level Cell (TLC)",
+            "Interface": "NVMe PCIe Gen4 x4",
+            "Sequential R/W": "Sequential Read: 3200MB/s\r\nSequential Write: 1300MB/s",
+            "MTBF": "1800000 hours",
+            "Dimension": "Width (mm):\t22.15 mm\r\nHeight (mm):\t2.23 mm\r\nDepth (mm):\t80.15 mm",
+            "Weight": "8 gm",
+            "Operating Temperature": "0°C – 70°C",
+            "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1327,
+        "name": "Netac SA500 512GB 2.5-inch SATAIII SSD",
+        "price": "4,549৳",
+        "description": "Capacity: 512GB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 520 MB/s, Write: 450 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Max. Sequential Read (MB/s): 520\r\nMax. Sequential Write (MB/s): 450",
+            "MTBF": "1,500,000 hours",
+            "TBW": "240",
+            "Dimension": "Length:100.0mm\r\nWidth: 69.85mm\r\nHeight: 7.0mm",
+            "Weight": "46 gm",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-45°C ~ 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1328,
+        "name": "Team MS30 512GB M.2 2280 SSD",
+        "price": "4,700৳",
+        "description": "New Generation power-saving technology\rSupports TRIM\rSupports S.M.A.R.T.\rSupports Intel's SRT",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/ms30-512gb/ms30-512gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "SATA Rev. 3.0 (6Gb/s)",
+            "Sequential R/W": "Read: up to 530MB/s\r\nWrite: up to 430 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "80(L) x 22(W) x 3.5(H) mm",
+            "Weight": "10g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 80˚C",
+            "Shock resistance": "500 G, 2 m/sec",
+            "Manufacturing Warranty": "3 Years Warranty"
+        }
+    },
+    {
+        "id": 1329,
+        "name": "Netac N930E Pro 512GB NVMe M.2 2280 SSD",
+        "price": "4,700৳",
+        "description": "Interface: PCI-E\rCapacity: 512GB\rRead Speed: 2080MB/s\rWrite Speed: 1700MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n930e-pro-512gb/n930e-pro-512gb-1-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512 GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe Gen3 *4, NVMe 1.3",
+            "Sequential R/W": "Read: 2080MB/s\r\nWrite: 1700MB/s",
+            "MTBF": "2 million hours",
+            "TBW": "300",
+            "Dimension": "Length 80mm\r\nWidth 22mm\r\nHeight 2.25mm",
+            "Weight": "<8g",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-40°C~85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1330,
+        "name": "Netac N535N 512GB M.2 2280 SSD",
+        "price": "4,750৳",
+        "description": "Capacity: 512GB\rRead Speed: 540 MB/s\rWrite Speed: 490 MB/s\rInterface: SATA III 6Gb/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535n-512gb/n535n-512gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "SATA 3",
+            "Sequential R/W": "Read: 540 MB / s\r\nWrite: 490 MB / s",
+            "Weight": "200g",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1331,
+        "name": "HP EX900 M.2 500GB PCIe NVMe Internal SSD",
+        "price": "4,500৳",
+        "description": "Capacity 500GB\rPCIe 3.1 x4\r3D TLC NAND",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/ex900-500gb/ex900-500gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND",
+            "Interface": "PCI-Express 3(8Gb/s) x4, NVMe 1.3",
+            "Sequential R/W": "Max Sequential Read: Up to 2,100 MBps\r\nMax Sequential Write: Up to 1,300 MBps",
+            "MTBF": "2,000,000 hours",
+            "Dimension": "0.87 x 3.15 x 0.9 in",
+            "Weight": "1.92 ounces",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1332,
+        "name": "Team T-Force Delta 2.5\" SATA3 250GB RGB SSD",
+        "price": "4,799৳",
+        "description": "Capacity 250GB\rRead Speed up to 560 MB/s\rWrite Speed Up to 500 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/t-force-delta-2.5/t-force-delta-2.5-3-500x500.jpg",
+        "Specifications": {
+            "Capacity": "250GB",
+            "Form Factor": "2.5\"",
+            "Interface": "SATA Rev. 3.0 (6Gb/s)",
+            "Sequential R/W": "Read: 560MB/s ; Write: 500MB/s",
+            "MTBF": "1,000,000 hours",
+            "Others": "Humidity: 0°C ~ 55°C / 5% ~ 95% RH,non-condensing",
+            "Dimension": "100 x 69.85 x 9.5 mm",
+            "Operating Temperature": "0°C ~ 70°C",
+            "Shock resistance": "1500G",
+            "Manufacturing Warranty": "3-year limited warranty"
+        }
+    },
+    {
+        "id": 1333,
+        "name": "Colorful SL300 512GB 2.5'' SATA III SSD",
+        "price": "5,100৳",
+        "description": "Capacity: 512GB SSD\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 500 MB/s, Write: 450 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/sl300/sl300-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III",
+            "Sequential R/W": "Write Speed: Up to 500 MB/s\r\nRead Speed: Up to 450 MB/s",
+            "Dimension": "100 x 70 x 7 mm",
+            "Weight": "100g",
+            "Operating Temperature": "0°C ~ +70°C",
+            "Storage Temperature": "-45°C ~ +85°C",
+            "Shock resistance": "1500G",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1334,
+        "name": "Transcend 425S 500GB M.2 2242 SATA SSD",
+        "price": "5,150৳",
+        "description": "Capacity: 500GB\rType: M.2 2242\rInterface: SATA III 6Gb/s\rSequential Read/Write: Up to 500/330 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/425s-250gb/425s-250gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2242",
+            "Flash Type": "3D NAND flash",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "up to 500/330 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "Dimension": "42.0 mm x 22.0 mm x 3.58 mm (1.65\" x 0.87\" x 0.14\")",
+            "Weight": "5 g (0.18 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1335,
+        "name": "Team MP33 PRO 512GB M.2 PCIe Gen3 NVMe SSD",
+        "price": "5,200৳",
+        "description": "Interface: PCIe 3.0 x4 with NVMe 1.3\rCapacity: 512GB, Voltage: DC +3.3V\rRead/ Write speed: 2400 MB/s / 2100 MB/s\rVoltage: DC +3.3V, Form factor: M.2 (2280)",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp33-pro/mp33-pro-001-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D flash memory",
+            "Interface": "PCIe 3.0 x4 with NVMe 1.3",
+            "Sequential R/W": "Read: up to  2,400 MB/s\r\nWrite: up to 2,100 MB/s",
+            "MTBF": "2,000,000 hours",
+            "Others": "Terabyte Written :  >600TB\r\nHumidity: RH 90% under 40°C (operational)\r\nVibration: 80Hz~2,000Hz/20G\r\nShock: 1,500G/0.5ms\r\nSystem Requirements: Windows 10 / 8.1 / 8 / 7, Linux 2.6.33 or later",
+            "Dimension": "80(L) x 22(W) x 3.8(H) mm",
+            "Weight": "6g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Manufacturing Warranty": "5 Years Warranty"
+        }
+    },
+    {
+        "id": 1336,
+        "name": "Acer FA100 512GB M.2 NVMe PCIe Gen3 x 4 SSD",
+        "price": "5,200৳",
+        "description": "Capacity: 512 GB\rInterface: PCIe Gen3 x4, NVMe1.3\rForm Factor: M.2 2280\rRead: 3,200MB/s, Write: 2,200MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/acer/fa100/fa100-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512 GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND",
+            "Interface": "PCIe Gen3 x4, NVMe1.3",
+            "Sequential R/W": "Read: 3,200MB/s, Write: 2,200MB/s",
+            "TBW": "300 TBW",
+            "Dimension": "100 x 70 x 6.7 mm",
+            "Operating Temperature": "0 °C - 70 °C / 32 °F - 158 °F",
+            "Storage Temperature": "-40 ℃ - 85 °C / -40 °F - 185 °F",
+            "Manufacturing Warranty": "5-Year"
+        }
+    },
+    {
+        "id": 1337,
+        "name": "HP EX900 PLUS 512GB M.2 PCIe NVMe Internal SSD",
+        "price": "4,999৳",
+        "description": "Interface: PCIe 3.0 x 4\rCapacity: 512GB\rForm Factor: M.2 2280\rSequential R/W: up to 3300MB/s / 2700MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/ex900-plus-512gb/ex900-plus-512gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2",
+            "Flash Type": "3D NAND",
+            "Interface": "PCIe 3.0 x 4",
+            "Sequential R/W": "Sequential R/W: up to 3300MB/s / 2700MB/s",
+            "MTBF": "More than 1,000,000 hours",
+            "Dimension": "80 × 22 × 2.4 mm",
+            "Weight": "10 g",
+            "Storage Temperature": "-40 to 85 °C",
+            "Shock resistance": "100 G/ 6 s",
+            "Vibration Resistance": "3.1 GRMS (2-500Hz)",
+            "Manufacturing Warranty": "3 years"
+        }
+    },
+    {
+        "id": 1338,
+        "name": "Colorful CN600 512GB M.2 NVMe SSD",
+        "price": "4,690৳",
+        "description": "Capacity: 512GB\rInterface: M.2 NVMe \rNAND Flash: 3D NAND\rRead: 1800MB/s, Write: 1500MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/cn600/cn600-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Flash Type": "3D NAND",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: 1800 MB/s\r\nWrite Speed:\t1500 MB/s",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1339,
+        "name": "Transcend 115S 500GB M.2 PCIe Gen3 x4 NVMe SSD (M-Key)",
+        "price": "5,900৳",
+        "description": "Capacity 500GB\rType: M.2 2280\rInterface: NVMe PCIe Gen3 x4\rSequential Read/Write: up to 3,200/2,000 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/115s-500gb/115s-500gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen3 x4",
+            "Sequential R/W": "up to 3,200/2,000 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "TBW": "200 TBW",
+            "Dimension": "Single-sided: 80 mm x 22 mm x 2.23 mm (3.15\" x 0.87\" x 0.09\")\r\nDouble-sided: 80 mm x 22 mm x 3.58 mm (3.15\" x 0.87\" x 0.14\")",
+            "Weight": "8 g (0.28 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1340,
+        "name": "Colorful CN600 PRO 1TB M.2 NVMe SSD",
+        "price": "7,800৳",
+        "description": "Capacity: 1TB\rInterface: M.2 NVMe PCIE 3.0\rNAND Flash: 3D NAND\rRead: 3400MB/s, Write: 3100MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/cn600-pro/cn600-pro-02-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Flash Type": "3D NAND",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: 3400MB/s\r\nWrite Speed:\t3100MB/s",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1341,
+        "name": "Colorful CN600 PRO 512GB M.2 NVMe SSD",
+        "price": "5,090৳",
+        "description": "Capacity: 512GB\rInterface: M.2 NVMe \rNAND Flash: 3D NAND\rRead: 3300MB/s, Write: 2600MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/cn600-pro/cn600-pro-02-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Flash Type": "3D NAND",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: 3300MB/s\r\nWrite Speed:\t2600MB/s",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1342,
+        "name": "Lexar NS100 512GB 2.5 inch Gray SATA III SSD",
+        "price": "5,800৳",
+        "description": "Interface: 2.5\" SATA III (6Gb/s)\rRead speed of up to 550MB/s\rCapacity: 512GB\rShock and Vibration Resistant",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/lexar/ns100-256gb/ns100-256gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "2.5”",
+            "Interface": "SATA III (6Gb/s)",
+            "Sequential R/W": "Read up to 550MB/s",
+            "Dimension": "69.85mm x 100.2mm x 7mm",
+            "Weight": "34g",
+            "Operating Temperature": "0°C to 70°C (32°F to 158°F)",
+            "Storage Temperature": "-40°C to 85°C (-40°F to 185°F)",
+            "Shock resistance": "1500G, duration 0.5ms, Half Sine Wave",
+            "Vibration Resistance": "10~2000Hz, 1.5mm, 20G, 1 Oct/min, 30min/axis(X,Y,Z)",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1343,
+        "name": "Seagate BarraCuda 570 500GB Gen4 M.2 2280 PCIe NVMe SSD",
+        "price": "6,100৳",
+        "description": "Capacity: 500GB\rInterface: PCIe Gen4 ×4 NVMe 1.4\rForm Factor: M.2 2280-S2\rRead: 3600MB/s, Write: 2400MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/barracuda-570/barracuda-570-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D TLC NAND flash",
+            "Interface": "PCIe Gen4 ×4 NVMe 1.4",
+            "Sequential R/W": "Sequential Read (Max, MB/s), 128KB: 3600MB/s\r\nSequential Write (Max, MB/s), 128KB: 2400MB/s",
+            "MTBF": "1,800,000 hours",
+            "TBW": "300TB",
+            "Dimension": "80.15mm x 22.15mm x 2.23mm",
+            "Weight": "8gm",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1344,
+        "name": "Lexar NM620 512GB M.2 NVMe SSD",
+        "price": "6,150৳",
+        "description": "Sequential read up to 3500MB/s, write up to 2400MB/s\rForm Factor: M.2 2280\rInterface: PCIe Gen3x4\rNAND flash: 3D TLC",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/lexar/nm620/nm620-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D TLC",
+            "Interface": "PCIe Gen3x4",
+            "Sequential R/W": "Sequential read up to 3500MB/s, write up to 2400MB/s",
+            "MTBF": "1,500,000 Hours",
+            "Dimension": "80 mm x 22 mm x 2.25 mm / 3.15” x 0.87” x 0.09”",
+            "Weight": "9g",
+            "Operating Temperature": "0° C to 70° C (32°F to 158°F)",
+            "Storage Temperature": "-40° C to 85° C (-40°F to 185°F)",
+            "Shock resistance": "1500G, duration 0.5ms, Half Sine Wave",
+            "Vibration Resistance": "10~2000Hz, 1.5mm, 20 G, 1 Oct/min, 30min/axis(X,Y,Z)",
+            "Manufacturing Warranty": "3 years"
+        }
+    },
+    {
+        "id": 1345,
+        "name": "Acer FA200 500GB M.2 NVMe PCIe Gen4 x 4 SSD",
+        "price": "6,200৳",
+        "description": "Capacity: 500GB \rInterface: PCIe Gen 4 x4, NVMe 2.0\rForm Factor: M.2 2280\rRead: 6300 MB/s, Write: 3100 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/acer/fa200/fa200-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND",
+            "Interface": "PCIe Gen 4 x4, NVMe 2.0",
+            "Sequential R/W": "Read: 6300 MB/s, Write: 3100 MB/s",
+            "MTBF": "1,500,000 hours",
+            "TBW": "250 TBW",
+            "Dimension": "80.0 x 22.0 x 2.45 mm",
+            "Operating Temperature": "0 °C - 70 °C / 32 °F - 158 °F",
+            "Storage Temperature": "-40 ℃ - 85 °C / -40 °F - 185 °F",
+            "Vibration Resistance": "3.1 GRMS (2-500 Hz)",
+            "Manufacturing Warranty": "5-Year"
+        }
+    },
+    {
+        "id": 1346,
+        "name": "Transcend 230S 512GB 2.5 Inch SATA III SSD",
+        "price": "6,700৳",
+        "description": "Capacity: 512GB\rInterface: SATA III 6Gb/s\r3D NAND flash",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/230s/512gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND flash",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: 560 MB/s \r\nWrite: 520 MB/s",
+            "MTBF": "1,000,000 hour(s)",
+            "Dimension": "100 mm x 69.85 mm x 6.8 mm (3.94\" x 2.75\" x 0.28\")",
+            "Weight": "53 g (1.87 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Shock resistance": "Yes",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1347,
+        "name": "Team MP44 512GB M.2 PCIe Gen4 NVMe SSD",
+        "price": "7,699৳",
+        "description": "Capacity: 512GB\rInterface: PCI Express 4.0 x4\rForm Factor: M.2 2280\rR/W Speed: up to 7300/4500MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp44/mp44-512gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe 4.0 x4 with NVMe",
+            "Sequential R/W": "Read up to 7,300 MB/s ; Write up to 4,500 MB/s",
+            "MTBF": "1,600,000 Hours",
+            "TBW": "700TBW",
+            "Dimension": "80(L) x 22(W) x 3.7(H) mm",
+            "Weight": "7g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 80˚C",
+            "Shock resistance": "500 G, 2 m/sec",
+            "Manufacturing Warranty": "5 Years Warranty"
+        }
+    },
+    {
+        "id": 1348,
+        "name": "Samsung 970 EVO Plus 500GB NVMe M.2 SSD",
+        "price": "7,800৳",
+        "description": "Capacity 500GB\rForm Factor M.2 (2280)\rPCIe Gen 3.0 x 4, NVMe 1.3\rSamsung V-NAND 3-bit MLC",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/evo-970-plus/970-evo-plus-500x500.jpg",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 (2280)",
+            "Flash Type": "Samsung V-NAND 3-bit MLC",
+            "Interface": "PCIe Gen 3.0 x 4, NVMe 1.3",
+            "Sequential R/W": "Sequential Read Speed Up to 3,500 MB/s\r\nSequential Write Speed Up to 3,200 MB/s",
+            "MTBF": "1.5 Million Hours Reliability",
+            "Dimension": "80.15 x 22.15 x 2.38 (mm)",
+            "Weight": "Max 8.0 g Weight",
+            "Operating Temperature": "0 - 70 ℃ Operating Temperature",
+            "Shock resistance": "1,500 G & 0.5 ms (Half sine)",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1349,
+        "name": "MSI SPATIUM S270 960GB 2.5-Inch SATAIII SSD",
+        "price": "7,800৳",
+        "description": "Capacity: 960GB \rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 500 MB/s, Write: 450 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/msi/spatium-s270/spatium-s270-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "960GB",
+            "Form Factor": "2.5 inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gbps",
+            "Sequential R/W": "Sequential Read Speeds: up to 500MB/s\r\nSequential Write Speeds: up to 450MB/s",
+            "MTBF": "Up to 2,000,000 Hours",
+            "TBW": "500",
+            "Dimension": "100.20mm (L) x 69.85mm (W) x 7.00mm (H)",
+            "Operating Temperature": "0°C – 70°C",
+            "Storage Temperature": "-40°C – 85°C",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1350,
+        "name": "OCPC XTL-200 1TB SATA III SSD",
+        "price": "7,800৳",
+        "description": "Capacity - 1TB \rForm Factor - 2.5 Inch\rRead Speed (Max) - 520MB/s\rWrite Speed (Max) - 480MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/ocpc/xtl-200/xtl-200-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5 Inch",
+            "Interface": "SATA III",
+            "Sequential R/W": "Read Speed (Max.) - 520MB/s\r\nWrite Speed (Max.) - 480MB/s",
+            "Manufacturing Warranty": "3 year"
+        }
+    },
+    {
+        "id": 1351,
+        "name": "HP EX900 M.2 1TB PCIe NVMe Internal SSD",
+        "price": "7,300৳",
+        "description": "Capacity 1TB\rPCIe 3.1 x4\r3D TLC NAND",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/ex900-1tb/ex900-1tb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND",
+            "Interface": "PCI-Express 3(8Gb/s) x4, NVMe 1.3",
+            "Sequential R/W": "Max Sequential Read: Up to 2,100 MBps\r\nMax Sequential Write: Up to 1,300 MBps",
+            "MTBF": "2,000,000 hours",
+            "Dimension": "22x80x2.4mm",
+            "Weight": "1.92 ounces",
+            "Operating Temperature": "0°C to 70°C",
+            "Shock resistance": "100 G/6 msec",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1352,
+        "name": "HP EX900 PLUS 1TB M.2 PCIe NVMe Internal SSD",
+        "price": "7,900৳",
+        "description": "Interface: PCIe 3.0 x 4\rCapacity: 1TB\rForm Factor: M.2 2280\rSequential R/W: up to 3300MB/s / 2700MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/ex900-plus-1tb/ex900-plus-1tb-02-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2",
+            "Flash Type": "3D NAND",
+            "Interface": "PCIe 3.0 x 4",
+            "Sequential R/W": "Sequential R/W: up to 3300MB/s / 2700MB/s",
+            "MTBF": "More than 1,000,000 hours",
+            "Dimension": "80 × 22 × 2.4 mm",
+            "Weight": "10 g",
+            "Storage Temperature": "-40 to 85 °C",
+            "Shock resistance": "100 G/ 6 s",
+            "Vibration Resistance": "3.1 GRMS (2-500Hz)",
+            "Manufacturing Warranty": "3 years"
+        }
+    },
+    {
+        "id": 1353,
+        "name": "Samsung PM9A1 512GB M.2 PCIe Gen 4.0 NVMe SSD",
+        "price": "8,000৳",
+        "description": "Interface: PCIe 4.0 x4 NVMe\rStorage Capacity: 512GB\rForm factor: M.2 2280\rSequential read/write: 6900/5000MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/pm9a1/pm9a1-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe 4.0 NVMe",
+            "Sequential R/W": "Maximum Read Transfer Rate: 6900 MB/s\r\nMaximum Write Transfer Rate: 5000 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "22mm x 80mm",
+            "Weight": "‎150 g",
+            "Operating Temperature": "0°C~70°C",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1354,
+        "name": "TEAM CX2 2.5\" SATA 1TB SSD",
+        "price": "8,000৳",
+        "description": "Capacity: 1TB \rECC function enhances efficiency\rAdvanced SLC Caching technology\rShock and drop resistant for safe use",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/cx2/cx2-1-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5-inch",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Up to 540MB/s Max \r\nWrite: 490MB/s",
+            "MTBF": "1,000,000 hours",
+            "Others": "Humidity: 0°C ~ 55°C / 5% ~ 95% RH,non-condensing\r\nVibration: 20G (non-operating)",
+            "Dimension": "100(L) x 69.9(W) x 7(H) mm",
+            "Operating Temperature": "0°C ~ 70°C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1355,
+        "name": "Netac SA500 1TB 2.5-inch SATAIII SSD",
+        "price": "8,100৳",
+        "description": "Capacity: 1TB \rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 530 MB/s, Write: 475 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Max. Sequential Read (MB/s): 530\r\nMax. Sequential Write (MB/s): 475",
+            "MTBF": "1,500,000 hours",
+            "TBW": "480",
+            "Dimension": "Length:100.0mm\r\nWidth: 69.85mm\r\nHeight: 7.0mm",
+            "Weight": "46 gm",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-45°C ~ 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1356,
+        "name": "TEAM MP33 1TB M.2 NVMe 1.3 SSD",
+        "price": "8,200৳",
+        "description": "PCI-e interface Supports the latest NVMe 1.3 protocol\rM.2 2280 for desktop and laptop\rSupports SLC Caching technology\ra new generation of 3D flash memory",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp33/mp33-010-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2",
+            "Interface": "PCIe 3.0 x4 with NVMe 1.3",
+            "Sequential R/W": "Read: up to 1,800 MB/s\r\nWrite: up to 1,500 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "80 x 22 x 3.8 mm",
+            "Weight": "6g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Manufacturing Warranty": "5 Years"
+        }
+    },
+    {
+        "id": 1357,
+        "name": "Seagate Barracuda 510 500GB M.2 2280 PCIe NVMe SSD",
+        "price": "8,300৳",
+        "description": "500GB Storage Capacity\rSpeed: 3400 MB/s (R) & 2400 MB/s (W)\rInterface: PCIe 3.0 x4\rForm Factor: M.2 2280",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/barracuda-510/barracuda-510-02-500x500.jpg",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "Tri-Level Cell (TLC)",
+            "Interface": "PCIe 3.0 x4, NVMe 1.3",
+            "Sequential R/W": "Sequential Read : 3400 MB/s 128 KB Files\r\nSequential Write : 2400 MB/s 128 KB Files",
+            "MTBF": "1.8 Million Hours",
+            "Dimension": "0.87 x 0.09 x 3.16\" / 22.15 x 2.21 x 80.16 mm",
+            "Weight": "0.31 oz / 8.7 g",
+            "Operating Temperature": "32 to 158°F / 0 to 70°C",
+            "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1358,
+        "name": "TEAM QX 1TB 2.5\" SATA SSD",
+        "price": "8,399৳",
+        "description": "Capacity: 1TB\rInterface: SATA III 6Gb/s\rRead: Up to 530MB/s Max; Write: 470MB/s\rUltra-high durability. Stable and reliable",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/qx-512gb/qx-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5-inch",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: Up to 530MB/s Max\r\nWrite: 470MB/s",
+            "MTBF": "1,500,000 Hours",
+            "TBW": "300TBW",
+            "Others": "Humidity: 0°C ~ 55°C / 5% ~ 95% RH,non-condensing\r\nVibration: 20G (non-operating)",
+            "Dimension": "100(L) x 69.9(W) x 7(H) mm",
+            "Operating Temperature": "0°C ~ 70°C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1359,
+        "name": "Team MS30 1TB M.2 2280 SSD",
+        "price": "8,300৳",
+        "description": "New Generation power-saving technology\rSupports TRIM\rSupports S.M.A.R.T.\rSupports Intelâ€™s SRT",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/ms30-1tb/ms30-1tb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Interface": "SATA Rev. 3.0 (6Gb/s)",
+            "Sequential R/W": "Read: up to 530MB/s\r\nWrite: up to 480 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "80(L) x 22(W) x 3.5(H) mm",
+            "Weight": "10g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 80˚C",
+            "Shock resistance": "500 G, 2 m/sec",
+            "Manufacturing Warranty": "3 Years Warranty"
+        }
+    },
+    {
+        "id": 1360,
+        "name": "Team MP33 PRO 1TB M.2 PCIe Gen3 NVMe SSD",
+        "price": "9,350৳",
+        "description": "Interface: PCIe 3.0 x4 with NVMe 1.3\rCapacity: 1TB, Voltage: DC +3.3V\rRead/ Write speed: 2400 MB/s / 2100 MB/s\rVoltage: DC +3.3V, Form factor: M.2 (2280)",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp33-pro/mp33-pro-20-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D flash memory",
+            "Interface": "PCIe 3.0 x4 with NVMe 1.3",
+            "Sequential R/W": "Read: up to  2,400 MB/s\r\nWrite: up to 2,100 MB/s",
+            "MTBF": "2,000,000 hours",
+            "Others": "Terabyte Written :  >600TB\r\nHumidity: RH 90% under 40°C (operational)\r\nVibration: 80Hz~2,000Hz/20G\r\nShock: 1,500G/0.5ms\r\nSystem Requirements: Windows 10 / 8.1 / 8 / 7, Linux 2.6.33 or later",
+            "Dimension": "80(L) x 22(W) x 3.8(H) mm",
+            "Weight": "6g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Manufacturing Warranty": "5 Years Warranty"
+        }
+    },
+    {
+        "id": 1361,
+        "name": "Acer FA100 1TB M.2 NVMe PCIe Gen3 x 4 SSD",
+        "price": "8,500৳",
+        "description": "Capacity: 1 TB\rInterface: PCIe Gen3 x4, NVMe1.3\rForm Factor: M.2 2280\rRead: 3,300MB/s, Write: 2,700MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/acer/fa100/fa100-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1 TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND",
+            "Interface": "PCIe Gen3 x4, NVMe1.3",
+            "Sequential R/W": "Read: 3,300MB/s, Write: 2,700MB/s",
+            "Dimension": "100 x 70 x 6.7 mm",
+            "Operating Temperature": "0 °C - 70 °C / 32 °F - 158 °F",
+            "Storage Temperature": "-40 ℃ - 85 °C / -40 °F - 185 °F",
+            "Manufacturing Warranty": "5-Year\r\n600 TBW"
+        }
+    },
+    {
+        "id": 1362,
+        "name": "Netac N535N 1TB M.2 2280 SATAIII SSD",
+        "price": "8,500৳",
+        "description": "Interface: SATAIII 6Gb/s\rCapacity: 1TB\rRead Speed: Up to 560MB/s\rWrite Speed: Up to 520MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535n/n535n-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND Flash",
+            "Interface": "M.2 SATAIII",
+            "Sequential R/W": "Read Speed: Up to 560MB/s\r\nWrite Speed: Up to 520MB/s",
+            "Others": "Voltage: 3.3V",
+            "Dimension": "80*22mm",
+            "Operating Temperature": "0℃-70℃",
+            "Storage Temperature": "-40℃-85℃",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1363,
+        "name": "Netac N930E Pro 1TB NVMe M.2 2280 SSD",
+        "price": "8,600৳",
+        "description": "Interface: PCI-E\rCapacity: 1TB\rRead Speed: 2130MB/s\rWrite Speed: 1720MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n930e-pro-1tb/n930e-pro-1tb-1-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCI-E",
+            "Sequential R/W": "Read: 2130MB/s\r\nWrite: 1720MB/s",
+            "Weight": "200g",
+            "Manufacturing Warranty": "3 years warranty"
+        }
+    },
+    {
+        "id": 1364,
+        "name": "TEAM EX2 1TB 2.5\" SATA SSD",
+        "price": "8,600৳",
+        "description": "Read: Up to 550MB/s Max; Write: 520MB/s\rInterface: SATA III 6Gb/s\rOptimized performance\rCapacity: 1TB",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/ex2/ex2-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5-inch",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: Up to 550MB/s Max\r\nWrite: 520MB/s",
+            "MTBF": "1,000,000 hours",
+            "Others": "Humidity: 0°C ~ 55°C / 5% ~ 95% RH,non-condensing\r\nVibration: 20G (non-operating)",
+            "Dimension": "100(L) x 69.9(W) x 7(H) mm",
+            "Operating Temperature": "0°C ~ 70°C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1365,
+        "name": "Transcend 110Q 1TB NVMe M.2 2280 PCle SSD",
+        "price": "9,000৳",
+        "description": "Type - M.2 2280\rInterface - NVMe PCIe Gen3 x4\rStorage (GB/TB) - 1TB \rRandom Read IOPS - Up to 170,000/250,000 IOPS",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/110q-1tb/110q-1tb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "QLC NAND flash",
+            "Interface": "NVMe PCIe Gen3 x4",
+            "Sequential R/W": "Up to 2,000/1,500 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "Others": "Operating Voltage: 3.3V±5%\r\nOperating System:\t\r\nMicrosoft Windows 7 or later\r\nLinux Kernel 2.6.31 or later",
+            "Dimension": "Double-sided 80 mm x 22 mm x 3.58 mm (3.15\" x 0.87\" x 0.14\")",
+            "Weight": "8 g (0.28 oz) (Max.)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "3 years"
+        }
+    },
+    {
+        "id": 1366,
+        "name": "Samsung 980 Pro 500GB PCIe 4.0 M.2 NVMe SSD",
+        "price": "9,100৳",
+        "description": "Capacity: 500GB, Form Factor M.2\rInterface Type: PCIe 4.0 x4\rRead Speed: Up to 7,000 MB/s\rWrite Speed: Up to 5,100 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/980-pro/980-pro-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe Gen 4.0 x4, NVMe 1.3c",
+            "Sequential R/W": "Sequential Read Speed: Up to 7,000 MB/s\r\nSequential Write Speed: Up to 5,100 MB/s",
+            "MTBF": "1.5 Million Hours Reliability",
+            "Dimension": "80.15 x 22.15 x 2.38 (mm)",
+            "Weight": "Max 9.0 g",
+            "Operating Temperature": "0 - 70 ℃",
+            "Shock resistance": "1,500 G & 0.5 ms (Half sine)",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1367,
+        "name": "Adata LEGEND 710 1TB M.2 PCIe Gen3 x4 NVMe SSD",
+        "price": "9,200৳",
+        "description": "Capacity: 1TB  \rType: M.2 2280\rInterface: NVMe PCIe Gen3 x4\rSequential Read/Write: up to 2,400/1,800 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/adata/legend-710/legend-710-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen3 x4",
+            "Sequential R/W": "up to 2,400/1,800 MB/s",
+            "MTBF": "1,500,000 hours",
+            "TBW": "520TB",
+            "Dimension": "80 x 22 x 3.13mm / 3.15 x 0.87 x 0.13inch (with heat sink)\r\n80 x 22 x 2.15mm / 3.15 x 0.87 x 0.09inch (without heat sink)",
+            "Weight": "8 g (0.28 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "3 years"
+        }
+    },
+    {
+        "id": 1368,
+        "name": "ADATA SC610 1TB USB 3.2 External SSD",
+        "price": "9,200৳",
+        "description": "Capacity: 1TB\rInterface: USB 3.2\rTransfer up to 550/500MB per second\rCapless slide-out design",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/adata/sc610/sc610-01-500x500.png",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Interface": "USB 3.2 Gen2 (USB 10Gbps)\r\n( backward compatible with USB 3.2 Gen, USB 2.0 )",
+            "Sequential R/W": "Read Speed (Max.) - 550MB/s\r\nWrite Speed (Max.) - 500MB/s",
+            "Dimension": "67.3 x 23.5 x 10.2mm",
+            "Weight": "13g",
+            "Operating Temperature": "0°C(32°F) to 60°C (140°F)",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1369,
+        "name": "TEAM T-FORCE CARDEA Liquid Water Cooling M.2-2280 PCIe 512GB SSD",
+        "price": "9,100৳",
+        "description": "World's first water cooling M.2 solid state drive\rRead/Write: up to 3,400/2,000 MB/s\rInterface: PCIe 3.0 x4 with NVMe 1.3\rCapacity: 512GB",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/cardea-liquid/cardea-liquid-1-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2-2280",
+            "Interface": "PCIe 3.0 x4 with NVMe 1.3",
+            "Sequential R/W": "up to 3,400/2,000 MB/s",
+            "MTBF": "2,000,000 hours",
+            "Others": "Humidity: RH 90% under 40°C (operational)\r\nVibration: 80Hz~2,000Hz/20G\r\nSupport S.M.A.R.T./TRIM technology",
+            "Dimension": "83.9(L) x 24.3(W) x 14.1(H) mm",
+            "Weight": "42g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Manufacturing Warranty": "5-year limited warranty (SSD)\r\n1-year limited warranty (Heatsink)"
+        }
+    },
+    {
+        "id": 1370,
+        "name": "Transcend 115S 1TB M.2 PCIe Gen3 x4 NVMe SSD (M-Key)",
+        "price": "9,200৳",
+        "description": "Capacity 1TB \rType: M.2 2280\rInterface: NVMe PCIe Gen3 x4\rSequential Read/Write: up to 3,200/2,000 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/115s-1tb/115s-1tb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen3 x4",
+            "Sequential R/W": "up to 3,200/2,000 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "TBW": "200 TBW",
+            "Dimension": "Single-sided: 80 mm x 22 mm x 2.23 mm (3.15\" x 0.87\" x 0.09\")\r\nDouble-sided: 80 mm x 22 mm x 3.58 mm (3.15\" x 0.87\" x 0.14\")",
+            "Weight": "8 g (0.28 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1371,
+        "name": "Colorful SL300 1TB 2.5'' SATA III SSD",
+        "price": "7,500৳",
+        "description": "Capacity: 1TB SSD\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rRead: 520 MB/s, Write: 480 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/sl300/sl300-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III",
+            "Sequential R/W": "Write Speed: Up to 520 MB/s\r\nRead Speed: Up to 480 MB/s",
+            "Dimension": "100 x 70 x 7 mm",
+            "Weight": "100g",
+            "Operating Temperature": "0°C ~ +70°C",
+            "Storage Temperature": "-45°C ~ +85°C",
+            "Shock resistance": "1500G",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1372,
+        "name": "Lexar NS100 1TB 2.5 inch Gray SATA III SSD",
+        "price": "10,500৳",
+        "description": "Interface: 2.5\" SATA III (6Gb/s)\rRead speed of up to 550MB/s\rCapacity: 1TB\rShock and Vibration Resistant",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/lexar/ns100-256gb/ns100-256gb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5”",
+            "Interface": "SATA III (6Gb/s)",
+            "Sequential R/W": "Read up to 550MB/s",
+            "Dimension": "69.85mm x 100.2mm x 7mm",
+            "Weight": "34g",
+            "Operating Temperature": "0°C to 70°C (32°F to 158°F)",
+            "Storage Temperature": "-40°C to 85°C (-40°F to 185°F)",
+            "Shock resistance": "1500G, duration 0.5ms, Half Sine Wave",
+            "Vibration Resistance": "10~2000Hz, 1.5mm, 20G, 1 Oct/min, 30min/axis(X,Y,Z)",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1373,
+        "name": "Colorful CN700 PLUS 1TB PCIe Gen 4 NVMe M.2 SSD",
+        "price": "8,900৳",
+        "description": "Capacity: 1TB\rInterface: PCI-E 4.0 M.2 NVMe\rNAND Flash: 3D NAND\rRead: 4700MB/s, Write: 2900MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/cn700-plus/cn700-plus-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Flash Type": "3D NAND",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: 4700MB/s\r\nWrite Speed:\t2900MB/s",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1374,
+        "name": "Colorful CN700 PRO 1TB M.2 NVMe SSD",
+        "price": "10,800৳",
+        "description": "Capacity: 1TB\rInterface: M.2 NVMe\rNAND Flash: 3D NAND\rRead: 7400MB/s, Write: 6600MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/cn700-pro/cn700-pro-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Flash Type": "3D NAND",
+            "Interface": "M.2 NVME",
+            "Sequential R/W": "Read Speed: 7400MB/s\r\nWrite Speed:\t6600MB/s",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1375,
+        "name": "Samsung 870 QVO 1TB 2.5\" SATA III SSD",
+        "price": "11,200৳",
+        "description": "Read/Write speeds of up to 560/530 MB/s\rInterface: SATA 6 Gb/s Interface\rForm Factor: 2.5 inch, Capacity: 1TB\rReliability (MTBF): 1.5 Million Hours",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/870-qvo/870-qvo-1-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5-inch SATA",
+            "Interface": "SATA 6 Gbps Interface, compatible with SATA 3 Gbps & 1.5 Gbps interfaces",
+            "Sequential R/W": "Sequential Read Speed: Up to 560 MB/s Sequential Read \r\nSequential Write Speed: Up to 530 MB/s Sequential Write",
+            "MTBF": "1.5 Million Hours Reliability (MTBF)",
+            "Dimension": "3.94\" X 2.76 \" X 0.27\"",
+            "Weight": "0.19 lbs.",
+            "Manufacturing Warranty": "03  years warranty"
+        }
+    },
+    {
+        "id": 1376,
+        "name": "Western Digital Black SN770 1TB M.2 2280 PCIe Gen4 NVMe SSD",
+        "price": "9,000৳",
+        "description": "Capacity: 1TB\rInterface: PCIe Gen4 x4\rForm Factor: M.2 2280\rSequential Read/Write: 5150MB/s / 4900MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/western-digital/wd-black-sn770/wd-black-sn770-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe Gen4 x4",
+            "Sequential R/W": "Sequential Read: 5150MB/s\r\nSequential Write: 4900MB/s",
+            "Dimension": "80mm x 22mm x 2.38mm",
+            "Manufacturing Warranty": "5 Years Limited Warranty"
+        }
+    },
+    {
+        "id": 1377,
+        "name": "Transcend 245S 1TB M.2 2280 NVMe PCIe Gen4 x4 SSD",
+        "price": "11,900৳",
+        "description": "Read/Write: Up to 5,300/4,600 MB/s\rInterface: NVMe PCIe Gen4 x4\rFlash Type: 3D NAND flash\rCapacity: 1TB",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/245s/245s-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen4 x4",
+            "Sequential R/W": "Up to 5,300/4,600 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "Dimension": "80 mm x 22 mm x 2.42 mm",
+            "Weight": "9 g",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "5 Years"
+        }
+    },
+    {
+        "id": 1378,
+        "name": "Seagate IronWolf 125 500GB 2.5-inch SATA III SSD",
+        "price": "13,600৳",
+        "description": "Capacity: 500GB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rSequential R/W: 560MB/s / 540MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/ironwolf-125-500gb/ironwolf-125-500gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "Tri-Level Cell (TLC)",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read Speed\r\nRandom: 95,000 IOPS 4 kB Files\r\nSequential: 560 MB/s 128 kB Files\t\r\nWrite Speed\r\nRandom: 90,000 IOPS 4 kB Files\r\nSequential: 540 MB/s 128 kB Files",
+            "MTBF": "1.8 Million Hours",
+            "Dimension": "3.94 x 2.76 x 0.28\" / 10 x 7 x 0.7 cm",
+            "Weight": "50 g",
+            "Operating Temperature": "32 to 158°F / 0 to 70°C",
+            "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "05-Year Warranty"
+        }
+    },
+    {
+        "id": 1379,
+        "name": "Transcend 250H 1TB M.2 2280 NVMe PCIe Gen4 x4 SSD",
+        "price": "14,100৳",
+        "description": "Read/Write: Up to 7,200/6,200 MB/s\rInterface: NVMe PCIe Gen4 x4\rFlash Type: 3D NAND flash\rCapacity: 1TB",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/250h/250h-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen4 x4",
+            "Sequential R/W": "Up to 7,200/6,200 MB/s",
+            "MTBF": "3,000,000 hour(s)",
+            "Dimension": "80.0 mm x 23.1 mm x 9.2 mm",
+            "Weight": "34 g",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "5 Years"
+        }
+    },
+    {
+        "id": 1380,
+        "name": "Seagate FireCuda 530 1TB Gen4 M.2 2280 PCIe NVMe Gaming SSD",
+        "price": "14,999৳",
+        "description": "Capacity: 1TB\rInterface: PCIe Gen4 ×4 NVMe 1.4\rForm Factor: M.2 2280-S2\rRead: 7300MB/s, Write: 6000MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/firecuda-530/firecuda-530-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D TLC NAND flash",
+            "Interface": "PCIe Gen4 ×4 NVMe 1.4",
+            "Sequential R/W": "Sequential Read (Max, MB/s): 7300 MB/s\r\nSequential Write (Max, MB/s): 6000 MB/s",
+            "MTBF": "1,800,000 hours",
+            "TBW": "1275TB",
+            "Dimension": "80.15 x 22.15 x 3.58mm",
+            "Weight": "10gm",
+            "Operating Temperature": "32 to 158°F / 0 to 70°C",
+            "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+            "Shock resistance": "1500 G / 0.5 ms",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1381,
+        "name": "Seagate Firecuda 120 1TB 2.5\" SATA Gaming SSD",
+        "price": "15,650৳",
+        "description": "NAND Flash Memory Type: 3D triple-level cell (TLC)\rHalogen Free, TRIM support, S.M.A.R.T.\rForm Factor: 2.5\"; Interface: SATA 6Gb/s\rData Transfer Rate: 600 MBps",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/firecuda-120/firecuda-120-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5\" (7 mm)",
+            "Flash Type": "3D triple-level cell (TLC)",
+            "Interface": "SATA 6Gb/s",
+            "Sequential R/W": "Sequential Read: 560 MB/s\r\nSequential Write: 540 MB/s",
+            "MTBF": "1.8 Million Hours",
+            "Dimension": "7 x 70.10 x 100.35 mm",
+            "Weight": "50 g",
+            "Operating Temperature": "0°C - 70°C",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1382,
+        "name": "Seagate Barracuda 510 1TB M.2 2280 PCIe NVMe SSD",
+        "price": "16,000৳",
+        "description": "1TB Storage Capacity\rSpeed: 3400 MB/s (R) & 3000 MB/s (W)\rInterface: PCIe 3.0 x4\rForm Factor: M.2 2280",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/barracuda-510/barracuda-510-02-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "Tri-Level Cell (TLC)",
+            "Interface": "PCIe 3.0 x4, NVMe 1.3",
+            "Sequential R/W": "Sequential Read : 3400 MB/s 128 KB Files\r\nSequential Write : 3000 MB/s 128 KB Files",
+            "MTBF": "1.8 Million Hours",
+            "Dimension": "0.87 x 0.09 x 3.16\" / 22.15 x 2.21 x 80.16 mm",
+            "Weight": "0.31 oz / 8.7 g",
+            "Operating Temperature": "32 to 158°F / 0 to 70°C",
+            "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1383,
+        "name": "Netac N535N 2TB M.2 2280 SATAIII SSD",
+        "price": "16,500৳",
+        "description": "Interface: SATAIII 6Gb/s\rCapacity: 2TB\rRead Speed: Up to 560MB/s\rWrite Speed: Up to 520MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535n/n535n-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND Flash",
+            "Interface": "M.2 SATAIII",
+            "Sequential R/W": "Read Speed: Up to 560MB/s\r\nWrite Speed: Up to 520MB/s",
+            "Others": "Voltage: 3.3V",
+            "Dimension": "80*22mm",
+            "Operating Temperature": "0℃-70℃",
+            "Storage Temperature": "-40℃-85℃",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1384,
+        "name": "Corsair MP600 PRO XT 1TB M.2 NVMe PCIe Gen. 4 x4 SSD",
+        "price": "17,000৳",
+        "description": "Interface: PCIe Gen 4.0 x4\rForm Factor M.2 2280\rSequential Read: Up to 7,100MB/s\rSequential Write: Up to 5,800MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/corsair/mp600-pro-xt/mp600-pro-xt-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D TLC NAND",
+            "Interface": "PCIe Gen 4.0 x4",
+            "Sequential R/W": "Max Sequential Read CDM Up to 7,100MB/s\r\nMax Sequential Write CDM Up to 5,800MB/s",
+            "MTBF": "1,700,000 hours",
+            "TBW": "700",
+            "Others": "Storage Humidity: 93% RH (40° C)\r\nSSD Compatibility: M.2 2280 Interface Connector Windows 10, Mac OS X",
+            "Dimension": "80mm x 23mm x 15mm",
+            "Color": "Black",
+            "Operating Temperature": "0°C to +70°C",
+            "Storage Temperature": "-40°C to +85°C",
+            "Shock resistance": "1,500 G",
+            "Vibration Resistance": "20 Hz~80 Hz/1.52 mm, 80 Hz~2000 Hz/20G",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1385,
+        "name": "Corsair MP600 ELITE 1TB PCIe Gen4 x4 NVMe 1.4 M.2 SSD with Heatsink",
+        "price": "10,700৳",
+        "description": "Interface: PCIe Gen 4.0 x4\rForm Factor M.2 2280\rSequential Read: Up to 7000MB/s\rSequential Write: Up to 6200MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/corsair/mp600-elite-with-heatsink/mp600-elite-with-heatsink-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D TLC NAND",
+            "Interface": "PCIe Gen 4.0 x4",
+            "Sequential R/W": "Max Sequential Read CDM Up to 7000MB/s\r\nMax Sequential Write CDM Up to 6200MB/s",
+            "MTBF": "1,500,000 hours",
+            "TBW": "600",
+            "Others": "Storage Humidity: 93% RH (40° C)\r\nSSD Compatibility: M.2 2280 Interface Connector Windows 10, Mac OS X",
+            "Color": "Black",
+            "Operating Temperature": "0°C to +70°C",
+            "Storage Temperature": "-40°C to +85°C",
+            "Shock resistance": "1,500 G",
+            "Vibration Resistance": "20 Hz~80 Hz/1.52 mm, 80 Hz~2000 Hz/20G",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1386,
+        "name": "Transcend 250H 2TB M.2 2280 NVMe PCIe Gen4 x4 SSD",
+        "price": "18,200৳",
+        "description": "Read/Write: Up to 7,100/6,500 MB/s\rInterface: NVMe PCIe Gen4 x4\rFlash Type: 3D NAND flash\rCapacity: 2TB",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/250h/250h-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D NAND flash",
+            "Interface": "NVMe PCIe Gen4 x4",
+            "Sequential R/W": "Up to 7,100/6,500 MB/s",
+            "MTBF": "3,000,000 hour(s)",
+            "Dimension": "80.0 mm x 23.1 mm x 9.2 mm",
+            "Weight": "34 g",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "5 Years"
+        }
+    },
+    {
+        "id": 1387,
+        "name": "Team MP44 2TB M.2 PCIe Gen4 NVMe SSD",
+        "price": "18,800৳",
+        "description": "Capacity: 2TB\rInterface: PCI Express 4.0 x4\rForm Factor: M.2 2280\rR/W Speed: up to 7400/6400MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp44/mp44-2tb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe 4.0 x4 with NVMe",
+            "Sequential R/W": "Read up to 7,400 MB/s ; Write up to 6,400 MB/s",
+            "MTBF": "1,600,000 Hours",
+            "TBW": "1,450TBW",
+            "Dimension": "80(L) x 22(W) x 3.7(H) mm",
+            "Weight": "7g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 80˚C",
+            "Shock resistance": "500 G, 2 m/sec",
+            "Vibration Resistance": "80Hz~2,000Hz/20G",
+            "Manufacturing Warranty": "5 Years Warranty"
+        }
+    },
+    {
+        "id": 1388,
+        "name": "Transcend 230S 2TB 2.5 Inch SATA III SSD",
+        "price": "20,400৳",
+        "description": "Capacity: 2TB\rInterface: SATA III 6Gb/s\rFlash Type: 3D NAND flash\rSequential Read/Write: up to 560/520 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/230s-4tb/230s-4tb-01-500x500.jpg",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read: 560 MB/s \r\nWrite: 520 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "Dimension": "100 mm x 69.85 mm x 6.8 mm (3.94\" x 2.75\" x 0.28\")",
+            "Weight": "53 g (1.87 oz)",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Shock resistance": "Yes",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1389,
+        "name": "Seagate IronWolf 125 1TB 2.5-inch SATA III SSD",
+        "price": "21,300৳",
+        "description": "Capacity: 1TB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rSequential R/W: 560MB/s / 540MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/ironwolf-125-500gb/ironwolf-125-500gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "Tri-Level Cell (TLC)",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read Speed\r\nRandom: 95,000 IOPS 4 kB Files\r\nSequential: 560 MB/s 128 kB Files\t\r\nWrite Speed\r\nRandom: 90,000 IOPS 4 kB Files\r\nSequential: 540 MB/s 128 kB Files",
+            "MTBF": "1.8 Million Hours",
+            "Dimension": "3.94 x 2.76 x 0.28\" / 10 x 7 x 0.7 cm",
+            "Weight": "50g",
+            "Operating Temperature": "32 to 158°F / 0 to 70°C",
+            "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "05-Year Warranty"
+        }
+    },
+    {
+        "id": 1390,
+        "name": "Seagate FireCuda 530 2TB Gen4 M.2 2280 PCIe NVMe Gaming SSD",
+        "price": "24,000৳",
+        "description": "Capacity: 2TB\rInterface: PCIe Gen4 ×4 NVMe 1.4\rForm Factor: M.2 2280-S2\rRead: 7300MB/s, Write: 6900MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/firecuda-530/firecuda-530-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D TLC NAND flash",
+            "Interface": "PCIe Gen4 ×4 NVMe 1.4",
+            "Sequential R/W": "Sequential Read (Max, MB/s): 7300 MB/s\r\nSequential Write (Max, MB/s): 6900 MB/s",
+            "MTBF": "1,800,000 hours",
+            "TBW": "2550TB",
+            "Dimension": "80.15 x 22.15 x 3.58mm",
+            "Weight": "10gm",
+            "Operating Temperature": "32 to 158°F / 0 to 70°C",
+            "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+            "Shock resistance": "1500 G / 0.5 ms",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1391,
+        "name": "Team T-FORCE Z540 1TB M.2 Gen5 PCIe NVMe Gaming SSD",
+        "price": "24,199৳",
+        "description": "Capacity: 1TB \rInterface: PCIe Gen5x4 with NVMe\rForm Factor: M.2 2280\rRead/ Write Speed: 11,700 MB/s /9,500 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/cardea-z540/cardea-z540-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe Gen5x4 with NVMe",
+            "Sequential R/W": "Crystal Disk Mark:\r\n1TB Read/Write: up to 11,700/9,500 MB/s",
+            "MTBF": "1,700,000 Hours",
+            "TBW": "700 TBW",
+            "Others": "Humidity: RH 90% under 40°C (operational)\r\nVibration: 80Hz~2,000Hz/20G\r\nShock: 1,500G/0.5ms\r\nSystem Requirements: Windows 10 / 8.1 / 8 / 7, Linux 2.6.33 or later",
+            "Dimension": "80.0(L) x 22.0(W) x 3.7(H) mm",
+            "Weight": "13g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Manufacturing Warranty": "5 Years Warranty"
+        }
+    },
+    {
+        "id": 1392,
+        "name": "Seagate IronWolf 125 2TB 2.5-inch SATA III SSD",
+        "price": "46,000৳",
+        "description": "Capacity: 2TB\rInterface: SATA III, 6.0 GB/s\rForm Factor: 2.5 inch\rSequential R/W: 560MB/s / 540MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/ironwolf-125-500gb/ironwolf-125-500gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "Tri-Level Cell (TLC)",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "Read Speed\r\nRandom: 95,000 IOPS 4 kB Files\r\nSequential: 560 MB/s 128 kB Files\t\r\nWrite Speed\r\nRandom: 90,000 IOPS 4 kB Files\r\nSequential: 540 MB/s 128 kB Files",
+            "MTBF": "1.8 Million Hours",
+            "Dimension": "3.94 x 2.76 x 0.28\" / 10 x 7 x 0.7 cm",
+            "Weight": "50g",
+            "Operating Temperature": "32 to 158°F / 0 to 70°C",
+            "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+            "Shock resistance": "1500g/0.5ms",
+            "Manufacturing Warranty": "05-Year Warranty"
+        }
+    },
+    {
+        "id": 1393,
+        "name": "Team MP33Q 1TB M.2 2280 PCIe Gen3x4 NVMe SSD",
+        "price": "9,050৳",
+        "description": "Capacity: 1TB, 3D QLC Flash Memory\rInterface: PCIe Gen3x4 with NVMe\rForm Factor: M.2 2280\rR/W Speed: Up to 2900/1850MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp33q-1tb/mp33q-1tb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D QLC Flash Memory",
+            "Interface": "PCIe Gen3x4 with NVMe",
+            "Sequential R/W": "Read: up to 2,900 MB/s\r\nWrite: up to 1,850 MB/s",
+            "MTBF": "1,800,000 Hours",
+            "Dimension": "80(L) x 22(W) x 3.7(H) mm",
+            "Weight": "7g",
+            "Color": "Black",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Vibration Resistance": "80Hz~2000Hz/20G",
+            "Manufacturing Warranty": "5 Years"
+        }
+    },
+    {
+        "id": 1394,
+        "name": "Team Z44A7 1TB M.2 2280 PCIe Gen4x4 NVMe SSD",
+        "price": "12,500৳",
+        "description": "Capacity: 1TB, 3D Nand Flash Memory\rInterface: PCIe Gen4x4 with NVMe\rForm Factor: M.2 2280\rR/W Speed: Up to 7,000/5,500MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/z44a7/z44a7-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D Nand Flash Memory",
+            "Interface": "PCIe Gen4x4 with NVMe",
+            "Sequential R/W": "Read: up to 7,000 MB/s\r\nWrite: up to 5,500 MB/s",
+            "MTBF": "1,700,000 Hours",
+            "Dimension": "80.0(L) x 22.0(W) x 3.7(H)mm",
+            "Weight": "7g",
+            "Color": "Black",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Vibration Resistance": "80Hz~2000Hz/20G",
+            "Manufacturing Warranty": "5 Years"
+        }
+    },
+    {
+        "id": 1395,
+        "name": "Team T-FORCE GE PRO 2TB M.2 2280 PCIe Gen 5x4 NVMe SSD",
+        "price": "42,000৳",
+        "description": "Capacity: 2TB, 3D Nand Flash Memory\rInterface: PCIe Gen5x4 with NVMe\rForm Factor: M.2 2280\rR/W Speed: Up to 14,000/11,800MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/ge-pro/ge-pro-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D Nand Flash Memory",
+            "Interface": "PCIe Gen5x4 with NVMe",
+            "Sequential R/W": "Read: up to 14,000 MB/s\r\nWrite: up to 11,800 MB/s",
+            "MTBF": "1,700,000 Hours",
+            "Dimension": "80.0(L) x 22.0(W) x 3.7(H)mm",
+            "Weight": "7g",
+            "Color": "Black",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Vibration Resistance": "80Hz~2000Hz/20G",
+            "Manufacturing Warranty": "5 Years"
+        }
+    },
+    {
+        "id": 1396,
+        "name": "Western Digital Green SN350 480GB M.2 NVMe Gen3 SSD",
+        "price": "4,100৳",
+        "description": "Interface: PCIe Gen3 8Gb/s\rForm Factor M.2 2280\rSequential Read: 2400MB/s\rSequential Write: 1650MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/western-digital/sn350-480gb/sn350-480gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "480GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "TLC NAND",
+            "Interface": "PCIe Gen3 8Gb/s",
+            "Sequential R/W": "Sequential Read Performance: 2400MB/s\r\nSequential Write Performance: 1650MB/s",
+            "MTBF": "Up to 1.0M hours",
+            "Dimension": "80mm x 22.0mm x 2.38mm",
+            "Weight": "7.5g ± 1g",
+            "Operating Temperature": "32ºF to 158ºF (0ºC to 70ºC)",
+            "Storage Temperature": "-40ºF to 185ºF (-40ºC to 85ºC)",
+            "Shock resistance": "1,500G @0.5 ms half sine",
+            "Vibration Resistance": "5 gRMS, 10-2000 Hz, 3 axes",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1397,
+        "name": "COLORFUL SL500 512GB 2.5'' SATA III SSD",
+        "price": "4,250৳",
+        "description": "Capacity: 512GB SSD\rInterface:  SATA III\rNAND Flash: 3D NAND\rController: SMI",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/colorful/sl500/sl500-500x500.JPG",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "2.5\"",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III",
+            "Sequential R/W": "Write Speed: Up to 400 MB/s\r\nRead Speed: Up to 500 MB/s",
+            "MTBF": "1,000,000 hours",
+            "Dimension": "100 x 70 x 7 mm",
+            "Weight": "100g",
+            "Operating Temperature": "0°C ~ +70°C",
+            "Storage Temperature": "-45°C ~ +85°C",
+            "Shock resistance": "1500G",
+            "Manufacturing Warranty": "03 Years"
+        }
+    },
+    {
+        "id": 1398,
+        "name": "Team MP44L 500GB M.2 PCIe Gen4 NVMe SSD",
+        "price": "6,850৳",
+        "description": "Capacity: 500GB \rInterface: PCIe Gen4 x4\rVoltage: DC +3.3V\rSequential Read/Write: up to 5,000 / 2,500MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/mp44l-500gb/mp44l-500gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe Gen4 x4",
+            "Sequential R/W": "up to 5,000 / 2,500MB/s",
+            "MTBF": "1,500,000 hours",
+            "TBW": "300TBW",
+            "Others": "Voltage: DC +3.3V\r\nHumidity: RH 90% under 40°C (operational)",
+            "Dimension": "80(L) x 22(W) x 2.25(H) mm",
+            "Weight": "7g",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Vibration Resistance": "80Hz~2,000Hz/20G",
+            "Manufacturing Warranty": "5 Years Limited Warranty"
+        }
+    },
+    {
+        "id": 1399,
+        "name": "Transcend 225S 500GB 2.5 Inch SATA III SSD",
+        "price": "5,750৳",
+        "description": "Capacity: 500GB \rInterface:  SATA III 6Gb/s \rFlash Type: top-notch 3D NAND flash\rSequential Read/Write: up to 530/480 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/transcend/225s-500gb/225s-500gb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "2.5 Inch",
+            "Flash Type": "3D NAND",
+            "Interface": "SATA III 6Gb/s",
+            "Sequential R/W": "up to 530/480 MB/s",
+            "MTBF": "2,000,000 hour(s)",
+            "Dimension": "100 mm x 69.85 mm x 6.8 mm",
+            "Weight": "45 g",
+            "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1400,
+        "name": "Kingston KC3000 512GB PCIe 4.0 NVMe M.2 SSD",
+        "price": "7,500৳",
+        "description": "Interface: PCIe 4.0 NVMe\rForm Factor: M.2 2280\rUp to 7000 MB/s Read Speed\rUp to 3,900 MB/s Write Speed",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/kingston/kc3000/kc3000-02-500x500.jpg",
+        "Specifications": {
+            "Capacity": "512GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe 4.0 NVMe",
+            "Sequential R/W": "7,000/3,900MB/s",
+            "MTBF": "1,800,000 hours",
+            "Dimension": "80mm x 22mm x 2.21mm (512GB-1024GB)",
+            "Weight": "512GB-1024GB – 7g",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-40°C~85°C",
+            "Vibration Resistance": "Vibration operating: 2.17G peak (7-800Hz)\r\nVibration non-operating: 20G Peak (20-1000Hz)",
+            "Manufacturing Warranty": "05-Year Warranty"
+        }
+    },
+    {
+        "id": 1401,
+        "name": "Team T-FORCE CARDEA A440 1TB M.2 PCIe NVMe Gaming SSD",
+        "price": "12,400৳",
+        "description": "Capacity: 1TB\rInterface: PCIe Gen4x4 with NVMe\rRead/Write: up to 7,000/5,500 MB/s\rSupports the latest NVMe 1.4 standard",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/team/t-force-cardea-a440/t-force-cardea-a440-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2-2280",
+            "Interface": "PCIe Gen4x4 with NVMe",
+            "Sequential R/W": "up to 7,200/5,500 MB/s",
+            "MTBF": "3,000,000 hours",
+            "TBW": "700TBW",
+            "Dimension": "80.0(L) x 22.0(W) x 3.7(H) mm (with Graphene heat sink)\r\n80.0(L) x 23.4(W) x 12.9(H) mm (with Aluminum heat sink)",
+            "Weight": "13g (with Graphene heat sink)\r\n46g (with Aluminum heat sink)",
+            "Color": "Black",
+            "Operating Temperature": "0˚C ~ 70˚C",
+            "Storage Temperature": "-40˚C ~ 85˚C",
+            "Shock resistance": "1,500G/0.5ms",
+            "Vibration Resistance": "80Hz~2,000Hz/20G",
+            "Manufacturing Warranty": "5-year limited warranty"
+        }
+    },
+    {
+        "id": 1402,
+        "name": "Samsung PM9A1 1TB M.2 PCIe Gen 4.0 NVMe SSD",
+        "price": "11,200৳",
+        "description": "Interface: PCIe 4.0 x4 NVMe\rStorage Capacity: 1TB \rForm factor: M.2 2280\rSequential read/write: 7000/5100MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/pm9a1/pm9a1-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe 4.0 NVMe",
+            "Sequential R/W": "Maximum Read Transfer Rate: 7000 MB/s\r\nMaximum Write Transfer Rate: 5100 MB/s",
+            "MTBF": "1,500,000 hours",
+            "Dimension": "22mm x 80mm",
+            "Weight": "‎150 g",
+            "Operating Temperature": "0°C~70°C",
+            "Manufacturing Warranty": "03-Year Warranty"
+        }
+    },
+    {
+        "id": 1403,
+        "name": "Samsung 980 Pro 1TB PCIe 4.0 M.2 NVMe SSD",
+        "price": "13,000৳",
+        "description": "Interface: PCIe 4.0 x4 NVMe 1.3c\rForm Factor: M.2 2280\rSeq. Reads: 7,000MB/s\rSeq. Writes: 5,000MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/980-pro/980-pro-001-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "V-NAND 3-bit MLC flash technology",
+            "Interface": "PCIe 4.0 x4 NVMe 1.3c",
+            "Sequential R/W": "Seq. Reads: 7,000MB/s\r\nSeq. Writes: 5,000MB/s",
+            "Dimension": "3.15\" X 0.94 \" X 0.87\"",
+            "Weight": "1.92 oz.",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1404,
+        "name": "Samsung 990 Pro 1TB PCIe 4.0 M.2 NVMe SSD",
+        "price": "14,500৳",
+        "description": "Capacity: 1TB, Form Factor M.2\rInterface Type: PCIe Gen 4.0, NVMe 2.0\rRead Speed: Up to 7,450 MB/s\rWrite Speed: Up to 6,900 MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/990-pro-1tb/990-pro-1tb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2",
+            "Interface": "PCIe Gen 4.0 x4, NVMe 2.0",
+            "Sequential R/W": "Sequential Read Speed: Up to 7,450 MB/s\r\nSequential Write Speed: Up to 6,900 MB/s",
+            "MTBF": "1.5 Million Hours Reliability",
+            "Dimension": "80 x 22 x 2.3 mm",
+            "Weight": "Max 9.0g Weight",
+            "Operating Temperature": "0 - 70 ℃",
+            "Shock resistance": "1,500 G & 0.5 ms (Half sine)",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1405,
+        "name": "Samsung 980 1TB PCIe 3.0 M.2 NVMe SSD",
+        "price": "11,200৳",
+        "description": "Form Factor: M.2 (2280)\rNVMe SSD: PCIe 3.0 \rRead Speeds: 3,500MB/s\rWrite Speeds: 3,000MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/980-1tb/980-1tb-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Form Factor": "M.2 (2280)",
+            "Interface": "PCIe Gen 3.0 x4, NVMe 1.3c",
+            "Sequential R/W": "Read Speeds: 3,500MB/s\r\nWrite Speeds: 3,000MB/s",
+            "MTBF": "1.5 Million Hours",
+            "Dimension": "3.15\" X 0.94 \" X 0.87\"",
+            "Weight": "1.92 oz",
+            "Shock resistance": "1,500 G & 0.5 ms (Half sine)",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1406,
+        "name": "Corsair MP600 PRO NH 500GB PCIe Gen4 x4 NVMe M.2 SSD",
+        "price": "7,000৳",
+        "description": "Interface: PCIe Gen 4.0 x4\rForm Factor M.2 2280\rSequential Read: Up to 6600MB/s\rSequential Write: Up to 3600MB/s",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/corsair/mp600-pro-nh-8tb/mp600-pro-nh-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "500GB",
+            "Form Factor": "M.2 2280",
+            "Flash Type": "3D TLC NAND",
+            "Interface": "PCIe Gen 4.0 x4",
+            "Sequential R/W": "SSD Max Sequential Read CDM Up to 6600MB/s\r\nSSD Max Sequential Write CDM Up to 3600MB/s",
+            "MTBF": "1,600,000 Hours",
+            "Others": "Vibration: 20Hz~80Hz/1.52mm, 80Hz~2000Hz/20G\r\nStorage Humidity: 93% RH (40° C)\r\nOperating Humidity: 90% RH (40° C)\r\nEncryption: AES 256-bit Encryption\r\nEndurance: 700TBW",
+            "Weight": "0.034kg",
+            "Operating Temperature": "0°C to +70°C",
+            "Storage Temperature": "-40°C to +85°C",
+            "Shock resistance": "1500 G",
+            "Manufacturing Warranty": "05 years"
+        }
+    },
+    {
+        "id": 1407,
+        "name": "Kingston KC3000 1024GB PCIe 4.0 NVMe M.2 SSD",
+        "price": "11,999৳",
+        "description": "Interface: PCIe 4.0 NVMe\rForm Factor: M.2 2280\rUp to 7000 MB/s Read Speed\rUp to 6,000MB/s Write Speed",
+        "category": "ssd",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/ssd/kingston/kc3000/kc3000-02-500x500.jpg",
+        "Specifications": {
+            "Capacity": "1024GB",
+            "Form Factor": "M.2 2280",
+            "Interface": "PCIe 4.0 NVMe",
+            "Sequential R/W": "7,000/6,000MB/s",
+            "MTBF": "1,800,000 hours",
+            "Dimension": "80mm x 22mm x 2.21mm (512GB-1024GB)",
+            "Weight": "512GB-1024GB – 7g",
+            "Operating Temperature": "0°C~70°C",
+            "Storage Temperature": "-40°C~85°C",
+            "Vibration Resistance": "Vibration operating: 2.17G peak (7-800Hz)\r\nVibration non-operating: 20G Peak (20-1000Hz)",
+            "Manufacturing Warranty": "05-Year Warranty"
+        }
+    }
+]

@@ -1,0 +1,680 @@
+[
+    {
+        "id": 1226,
+        "name": "Seagate SkyHawk 2TB 3.5\" Surveillance Hard Drive",
+        "price": "9,200৳",
+        "description": "Type Internal\rCapacity\t2TB\rInterface SATA 6Gb/s\rRPM Class: 5400",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk/2tb-500x500.jpg",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "2TB",
+            "Interface": "SATA 6Gb/s",
+            "RPM Class": "5400",
+            "Manufacturing Warranty": "02 years"
+        }
+    },
+    {
+        "id": 1227,
+        "name": "Western Digital 1TB Blue Desktop HDD",
+        "price": "5,200৳",
+        "description": "Capacity: 1000 GB\rInterface: SATA 6 Gb/s\rRotational Speed: RPM- 7200\rLatency Average 8.9ms",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/HDD/Western Digital/WD INT Blue 1TB-500x500.jpg",
+        "Specifications": {
+            "Buffer size": "64 MB",
+            "Formatted Capacity": "1,000,204 MB",
+            "Idle Mode": "29 dBA (average)",
+            "Interface type": "SATA 6 Gb/s",
+            "Load/unload Cycles": "300,000 minimum",
+            "Operating Shock (Read)": "30G, 2 ms",
+            "Rotational speed": "7,200 RPM (nominal)",
+            "Seek Mode 0": "30 dBA (average)",
+            "Internal or External": "Internal",
+            "Capacity (GB)": "1000 GB",
+            "RPM": "7200",
+            "Warranty": "02 Years"
+        }
+    },
+    {
+        "id": 1228,
+        "name": "Toshiba P300 1TB Desktop PC Internal Hard Drive",
+        "price": "5,600৳",
+        "description": "Storage: 1TB; RPM: 7200 rpm\rSeek Time: 4.17ms, Buffer: 64MB\rForm Factor: 3.5 Inch\rInterface: SATA 6Gb/s",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300-1tb/p300-1tb-1-500x500.jpg",
+        "Specifications": {
+            "Type": "SATA Desktop HDD",
+            "Capacity": "1TB",
+            "Interface": "SATA 6Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "7200 RPM",
+            "Manufacturing Warranty": "02 years warranty"
+        }
+    },
+    {
+        "id": 1229,
+        "name": "Toshiba S300 2TB 5400rpm 3.5\" Surveillance Hard Drive",
+        "price": "7,800৳",
+        "description": "Buffer size: 128 MB\rForm factor: 3,5-inch\rInterface: 6.0 Gbit/s\rCameras supported: up to 64",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300/s300-2tb-01-500x500.jpg",
+        "Specifications": {
+            "Type": "3.5\" SATA Hard Drive",
+            "Capacity": "2 TB",
+            "Interface": "6.0 Gbit/s",
+            "Size": "Buffer size: 128 MB",
+            "RPM Class": "5,400 rpm",
+            "Others": "Number of cameras supported: up to 64\r\nDrive bays supported: 1 to 8",
+            "Manufacturing Warranty": "03 Years Warranty"
+        }
+    },
+    {
+        "id": 1230,
+        "name": "Seagate Barracuda 2TB 3.5 Inch SATA 5400RPM Desktop HDD",
+        "price": "8,600৳",
+        "description": "Capacity\t2TB\rInterface SATA 6Gb/s\rCache 64MB\rRPM Class: 5400",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/2tb-hdd/2tb-hdd-1-500x500.jpg",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "2TB",
+            "Interface": "SATA 6Gb/s",
+            "RPM Class": "5400",
+            "Manufacturing Warranty": "02 years"
+        }
+    },
+    {
+        "id": 1231,
+        "name": "Seagate Barracuda 2TB 7200RPM SATA 3.5-inch HDD",
+        "price": "8,800৳",
+        "description": "Hard Disk Capacity: 2TB\rHard Disk Rotational Speed: 7200 rpm\rForm Factor: 3.5 inches\rHardware Interface: SATA 6.0 Gb/s",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/2tb-7200rpm/2tb-7200rpm-1-500x500.jpg",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "2TB",
+            "Interface": "SATA 6.0 Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "7200 RPM",
+            "Manufacturing Warranty": "02 years warranty"
+        }
+    },
+    {
+        "id": 1232,
+        "name": "Toshiba S300 4TB 3.5 Inch Surveillance HDD",
+        "price": "9,800৳",
+        "description": "128 MB buffer\rInterface: Serial ATA\rRotational Speed: 5400 RPM \rToshiba Dynamic Cache Technology",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/component/hdd/toshiba/s300-4tb/s300-03-500x500.jpg",
+        "Specifications": {
+            "Type": "3.5\" SATA Hard Drive",
+            "Capacity": "4 TB",
+            "Interface": "6.0 Gbit/s",
+            "Size": "Buffer size: 128 MB",
+            "RPM Class": "5,400 rpm",
+            "Manufacturing Warranty": "2 Years"
+        }
+    },
+    {
+        "id": 1233,
+        "name": "Western Digital 4TB Purple Surveillance HDD",
+        "price": "10,500৳",
+        "description": "Capacity- 4 TB\rRPM- 5400\rInterface type- SATA 6 Gb/s\rBuffer size- 64 MB",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/HDD/Western Digital 4TB 3.5 PURPLE  WD40PURX HDD-500x500.jpg",
+        "Specifications": {
+            "Buffer size": "64 MB",
+            "Idle Mode": "25 (dBA)7",
+            "Interface type": "SATA 6 Gb/s",
+            "Rotational speed": "IntelliPower *",
+            "Seek Mode 0": "26 (dBA)7",
+            "Internal or External": "Internal",
+            "Capacity (GB)": "4000 GB",
+            "Warranty": "2 Years"
+        }
+    },
+    {
+        "id": 1234,
+        "name": "Seagate IronWolf 2TB 3.5 Inch SATA 5400RPM NAS Hard Drive",
+        "price": "13,499৳",
+        "description": "RPM: 5400rpm, Buffer Memory: 256MB\rMax. Sustained Transfer Rate OD: 180MB/s\rCMR Technology and AgileArray Firmware\rCompatible with 1-to 8-bay NAS servers",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-2tb/ironwolf-2tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "SATA NAS HDD",
+            "Capacity": "2TB",
+            "Interface": "SATA 6Gb/s",
+            "Size": "3.5 inch",
+            "RPM Class": "5400",
+            "Read/Write Speed": "Max. Sustained Transfer Rate OD: 180MB/s",
+            "Others": "CMR Technology and AgileArray Firmware\r\nCompatible with 1-to 8-bay NAS servers",
+            "Manufacturing Warranty": "3 years"
+        }
+    },
+    {
+        "id": 1235,
+        "name": "Seagate SkyHawk 4TB Surveillance Hard Drive",
+        "price": "14,000৳",
+        "description": "Type Internal\rCapacity\t4TB\rInterface SATA 6Gb/s\rRPM Class: 5900",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-4tb-hdd/skyhawk-4tb-hdd-500x500.jpg",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "4TB",
+            "Interface": "SATA 6Gb/s",
+            "RPM Class": "5900",
+            "Manufacturing Warranty": "02 years"
+        }
+    },
+    {
+        "id": 1236,
+        "name": "Seagate Skyhawk 4TB 3.5\" Surveillance HDD",
+        "price": "14,000৳",
+        "description": "Capacity: 4TB Storage \rSATA III 6 Gb/s Interface, 256MB Cache\r600,000 Load/Unload Cycles\rDesigned for 24/7 Surveillance, Supports up to 64 HD Cameras",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-4tb-5900rpm/skyhawk-4tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "4TB",
+            "Interface": "SATA 6.0Gb/s",
+            "RPM Class": "5400",
+            "Read/Write Speed": "180 MB/s",
+            "Others": "Load/Unload Cycles: 600,000\r\nMTBF: 1.0 Million Hours\r\nSupported Voltage: 12 VDC\r\nCurrent: 1.8 A at 12 VDC\r\nOperating Temperature: 32 to 158°F / 0 to 70°C",
+            "Manufacturing Warranty": "03 years"
+        }
+    },
+    {
+        "id": 1237,
+        "name": "Seagate IronWolf 4TB 5400RPM SATA NAS HDD",
+        "price": "17,500৳",
+        "description": "Capacity: 4TB Storage \rInterface: SATA 6Gb/s\rRPM: 5400 RPM\rTransfer Rate: 202MB/s",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-4tb-5400rpm/ironwolf-4tb-5400rpm-04-500x500.webp",
+        "Specifications": {
+            "Type": "SATA NAS HDD",
+            "Capacity": "4TB",
+            "Interface": "SATA 6.0Gb/s",
+            "RPM Class": "5400RPM",
+            "Read/Write Speed": "202MB/s",
+            "Others": "Load/Unload Cycles: 600,000 \r\nMTBF: 1,000,000",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1238,
+        "name": "Toshiba S300 Pro 6TB 7200rpm 3.5\" Surveillance Hard Drive",
+        "price": "18,000৳",
+        "description": "Rotational speed: 7,200 rpm\rData transfer speed: 241 MB/s Typ\rBuffer size: 256 MB\rCameras supported: up to 64",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300-pro/s300-pro-01-500x500.jpg",
+        "Specifications": {
+            "Type": "3.5\" SATA Hard Drive",
+            "Capacity": "6 TB",
+            "Interface": "6.0 Gbit/s",
+            "Size": "Buffer size: 256 MB",
+            "RPM Class": "7200 rpm",
+            "Others": "Number of cameras supported: 64\r\nDrive bays supported: 8+",
+            "Manufacturing Warranty": "03 Years Warranty"
+        }
+    },
+    {
+        "id": 1239,
+        "name": "TOSHIBA Tomcat Nearline 4TB 3.5 Inch 7200RPM SATA NAS HDD",
+        "price": "20,000৳",
+        "description": "Capacity: 4TB\rForm Factor: 3.5-inch\rInterface: SATA 6 Gbit/s\rRotation Speed: 7200 rpm",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/tomcat-nearline-4tb/tomcat-nearline-4tb-500x500.jpg",
+        "Specifications": {
+            "Type": "NAS",
+            "Capacity": "4TB",
+            "Interface": "SATA 6 Gbit/s",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "185 MiB/s",
+            "Others": "MTTF: 1 400 000 h",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1240,
+        "name": "Seagate Skyhawk 6TB 3.5\" Surveillance HDD",
+        "price": "20,500৳",
+        "description": "Capacity: 6TB Storage \rSATA III 6 Gb/s Interface, 256MB Cache\r300,000 Load/Unload Cycles\rDesigned for 24/7 Surveillance, Supports up to 64 HD Cameras",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-6tb-surveillance/skyhawk-6tb-surveillance-01-500x500.webp",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "6TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "Dimensions: 5.8 x 4 x 1\" / 14.7 x 10.2 x 2.6 mm",
+            "RPM Class": "5400",
+            "Read/Write Speed": "180 MB/s",
+            "Others": "Load/Unload Cycles: 300,000\r\nMTBF: 1.0 Million Hours\r\nSupported Voltage: 12 VDC\r\nCurrent: 1.8 A at 12 VDC\r\nOperating Temperature: 32 to 158°F / 0 to 70°C",
+            "Manufacturing Warranty": "02 years"
+        }
+    },
+    {
+        "id": 1241,
+        "name": "TOSHIBA X300 Performance 6TB 3.5\" 7200 RPM SATA Hard Disk Drive",
+        "price": "22,500৳",
+        "description": "Form factor: 3.5-inch\rInterface: SATA 6.0 Gbit/s\rRotational speed: 7,200 rpm\rBuffer size: 512 MB / 256 MB",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/x300/x300-performance-6tb-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "6 TB",
+            "Interface": "SATA 6.0 Gbit/s",
+            "Size": "3.5-inch",
+            "RPM Class": "7200 rpm",
+            "Manufacturing Warranty": "2 years"
+        }
+    },
+    {
+        "id": 1242,
+        "name": "TOSHIBA MG08-D Series 6TB 3.5\" 7200RPM Enterprise HDD",
+        "price": "23,999৳",
+        "description": "Capacity: 6TB\rForm Factor: 3.5-inch\rInterface: SATA 6 Gbit/s\rRotation Speed: 7200 rpm",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg08-d-series/mg08-d-series-01-500x500.webp",
+        "Specifications": {
+            "Type": "SATA Enterprise HDD",
+            "Capacity": "6TB",
+            "Interface": "SATA 6Gb/s",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "239 Mb/s",
+            "Others": "Form Factor: 3.5-inch\r\nLoad / Unload Cycles: 600,000 times\r\nMTBF: 2,000,000 hours",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1243,
+        "name": "Seagate Exos 7E10 4TB 3.5 Inch 7200RPM Enterprise HDD",
+        "price": "24,300৳",
+        "description": "Hyperscale applications/cloud data centers\rHigh-capacity density RAID storage\rForm Factor: 3.5\", Interface: SAS 12Gb/s,  SATA 6Gb/s\rCentralized surveillance, Big data applications",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-7e10/exos-7e10-01-500x500.webp",
+        "Specifications": {
+            "Type": "SATA/SAS HDD",
+            "Capacity": "4TB",
+            "Interface": "SAS 12Gb/s,  SATA 6Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "7200RPM",
+            "Read/Write Speed": "250MB/s",
+            "Manufacturing Warranty": "5 Years Warranty"
+        }
+    },
+    {
+        "id": 1244,
+        "name": "Seagate IronWolf 6TB 3.5 Inch SATA 5400RPM NAS HDD",
+        "price": "25,200৳",
+        "description": "Storage Capacity: 6TB\rForm factor: 3.5-inch\rInterface: SATA III 6 Gb/s \rTransfer Rate: Up to 202 MB/s Data",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-6tb/ironwolf-01-500x500.webp",
+        "Specifications": {
+            "Type": "SATA NAS HDD",
+            "Capacity": "6TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "5400RPM",
+            "Read/Write Speed": "256MB/s",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1245,
+        "name": "Seagate SkyHawk AI 8TB 3.5 Inch SATA 7200RPM Surveillance HDD",
+        "price": "29,000৳",
+        "description": "RPM: 7200rpm, Buffer Memory: 256MB\rMax. Sustained Transfer Rate OD: 235MB/s\rBuilt-in RV Sensor, CMR Recording Technology\rBuilt for Video DVR & NVR Security Camera System",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-ai-8tb/skyhawk-ai-8tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "Surveillance HDD",
+            "Capacity": "8TB",
+            "Interface": "SATA 6Gb/s",
+            "Size": "3.5 inch",
+            "RPM Class": "7200",
+            "Read/Write Speed": "Max. Sustained Transfer Rate OD: 235MB/s",
+            "Others": "Built-in RV Sensor, CMR Recording Technology\r\nBuilt for Video DVR & NVR Security Camera System",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1246,
+        "name": "TOSHIBA MG06 Enterprise 8TB 3.5 Inch 7200RPM SATA HDD",
+        "price": "29,900৳",
+        "description": "Capacity: 8TB\rInterface: SATA 6 Gbit/s\rRotation Speed: 7200 rpm\rData Transfer Speed: 230 MiB/s",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg06-enterprise-10tb/mg06-enterprise-01-500x500.webp",
+        "Specifications": {
+            "Type": "NAS",
+            "Capacity": "8TB",
+            "Interface": "SATA 6 Gbit/s",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "230 MiB/s",
+            "Others": "MTTF: 2,500,000 h\r\nWeight ( Max ): 770 g",
+            "Manufacturing Warranty": "3 Years"
+        }
+    },
+    {
+        "id": 1247,
+        "name": "Toshiba S300 Pro 10TB 7200rpm 3.5\" Surveillance Hard Drive",
+        "price": "30,000৳",
+        "description": "Rotational speed: 7,200 rpm\rData transfer speed: 248 MB/s Typ\rBuffer size: 256 MB\rCameras supported: up to 64",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300-pro/s300-pro-01-500x500.jpg",
+        "Specifications": {
+            "Type": "3.5\" SATA Hard Drive",
+            "Capacity": "10 TB",
+            "Interface": "6.0 Gbit/s",
+            "Size": "Buffer size: 256 MB",
+            "RPM Class": "7200 rpm",
+            "Others": "Number of cameras supported: 64\r\nDrive bays supported: 8+",
+            "Manufacturing Warranty": "03 Years Warranty"
+        }
+    },
+    {
+        "id": 1248,
+        "name": "TOSHIBA MG06 Enterprise 10TB 3.5 Inch 7200RPM SATA HDD",
+        "price": "33,500৳",
+        "description": "Capacity: 10TB\rForm Factor: 3.5-inch\rInterface: SATA 6 Gbit/s\rRotation Speed: 7200 rpm",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg06-enterprise-10tb/mg06-enterprise-10tb-500x500.jpg",
+        "Specifications": {
+            "Type": "NAS",
+            "Capacity": "10TB",
+            "Interface": "SATA 6 Gbit/s",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "237 MiB/s",
+            "Others": "MTTF: 2,500,000 h",
+            "Manufacturing Warranty": "5 Years"
+        }
+    },
+    {
+        "id": 1249,
+        "name": "Seagate IronWolf 8TB NAS 3.5\" 7200RPM Desktop Hard disk",
+        "price": "34,000৳",
+        "description": "Actively protect NAS with IronWolf Health Management\rHigh performance means no lag time\rOptimized for NAS with AgileArray\rRotational Vibration (RV) sensors",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-8tb-nas/ironwolf-8tb-nas-02-500x500.jpg",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "8TB",
+            "Interface": "SATA 6Gb/s",
+            "Size": "8TB",
+            "RPM Class": "7200",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1250,
+        "name": "Seagate SkyHawk AI 10TB 3.5\" Surveillance HDD",
+        "price": "35,500৳",
+        "description": "Capacity: 10TB Storage \rSATA III 6 Gb/s Interface, 256MB Cache\r300,000 Load/Unload Cycles, Internal Data Rate: 245 MB/s\rDesigned for 24/7 Surveillance, 2 Million Hours MTBF",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-ai/skyhawk-ai-01-500x500.webp",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "10TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "Dimensions: 5.78 x 4.01 x 1.02\" / 146.81 x 101.85 x 25.91 mm",
+            "RPM Class": "7200",
+            "Read/Write Speed": "245 MB/s",
+            "Others": "Load/Unload Cycles: 300,000\r\nMTBF: 2.0 Million Hours\r\nSupported Voltage: 5 VDC, 12 VDC\r\nOperating Shock: 70 G / 2.0 ms\r\nStorage Shock: 300 G / 2.0 ms\r\nOperating Vibration: 1.04 G / 10 to 500 Hz",
+            "Manufacturing Warranty": "05 years"
+        }
+    },
+    {
+        "id": 1251,
+        "name": "Toshiba MG07ACA Enterprise 12TB 3.5 Inch SATA 7200RPM HDD",
+        "price": "36,800৳",
+        "description": "Form Factor: 3.5-inch\rMTTF: 2,500,000 hours\rInterface: SATA 6 Gbit/s\rRotation Speed: 7200 rpm",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg07aca-enterprise-12tb/mg07aca-enterprise-12tb-500x500.jpg",
+        "Specifications": {
+            "Type": "3.5-inch",
+            "Capacity": "12 TB",
+            "Interface": "SATA 6 Gbit/s",
+            "Size": "Buffer Size: 256 MiB",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "Data Transfer Speed: 242 MiB/s",
+            "Others": "MTTF: 2 500 000 h",
+            "Manufacturing Warranty": "05 Year"
+        }
+    },
+    {
+        "id": 1252,
+        "name": "Seagate IronWolf Pro 8TB 3.5 Inch SATA 7200RPM NAS HDD",
+        "price": "38,700৳",
+        "description": "Storage Capacity: 8TB\rForm factor: 3.5-inch\rInterface: SATA III 6 Gb/s \rTransfer Rate: Up to 255 MB/s Data",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro/8tb/ironwolf-pro-01-500x500.webp",
+        "Specifications": {
+            "Type": "SATA NAS HDD",
+            "Capacity": "8TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "7200RPM",
+            "Read/Write Speed": "255MB/s",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1253,
+        "name": "Seagate IronWolf Pro 8TB 3.5 Inch SATA 7200RPM NAS Hard Drive",
+        "price": "39,000৳",
+        "description": "Commercial and enterprise network-attached storage (NAS)\rVirtual storage\rOn-premise private cloud\rBackup, archiving & disaster recovery",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-8tb/ironwolf-pro-8tb-500x500.jpg",
+        "Specifications": {
+            "Type": "SATA NAS HDD",
+            "Capacity": "8TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "7200RPM",
+            "Read/Write Speed": "Max. Sustained Transfer Rate OD (MB/s): 240MB/s",
+            "Manufacturing Warranty": "5 years warranty"
+        }
+    },
+    {
+        "id": 1254,
+        "name": "Seagate IronWolf 10TB SATA 3.5\" 7200RPM NAS Hard Disk",
+        "price": "39,500৳",
+        "description": "Storage Capacity: 10TB\rRPM: 7200 RPM\rForm Factor: 3.5\" \rInterface: SATA III 6 Gb/s",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-10tb/ironwolf-10tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "10TB",
+            "Interface": "SATA 6Gb/s",
+            "RPM Class": "7200",
+            "Read/Write Speed": "Read Speed (Maximum: 210 MB/s)",
+            "Others": "Buffer: 256 MB\r\nLatency: 4.2 ms",
+            "Manufacturing Warranty": "03 years warranty"
+        }
+    },
+    {
+        "id": 1255,
+        "name": "Seagate Exos X18 10TB 7200rpm SATA III 3.5\" Enterprise HDD",
+        "price": "44,800৳",
+        "description": "Capacity: 10TB Storage \rForm Factor: 3.5 Inch\rInterface: SATA 6Gb/s\rRPM: 7200 RPM",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x18-12tb/exos-x18-12tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "Enterprise HDD",
+            "Capacity": "10TB",
+            "Interface": "SATA III (6 Gb/s)",
+            "Size": "4.01 x 1.03 x 5.79\" / 101.85 x 26.11 x 147 mm",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "Buffer: 256MB",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1256,
+        "name": "Seagate SkyHawk AI 12TB 3.5\" Surveillance HDD",
+        "price": "45,500৳",
+        "description": "Capacity: 12TB Storage \rSATA III 6 Gb/s Interface, 256MB Cache\r600,000 Load/Unload Cycles, Internal Data Rate: 255 MB/s\rDesigned for 24/7 Surveillance, 2.5 Million Hours MTBF",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-ai/skyhawk-ai-12tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "12TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "Dimensions: 5.78 x 4.01 x 1.02\" / 146.81 x 101.85 x 25.91 mm",
+            "RPM Class": "7200",
+            "Read/Write Speed": "255 MB/s",
+            "Others": "Load/Unload Cycles: 600,000\r\nMTBF: 2.5 Million Hours\r\nSupported Voltage: 5 VDC, 12 VDC\r\nOperating Shock: 50 G / 2.0 ms\r\nStorage Shock: 200 G / 2.0 ms\r\nOperating Vibration: 2.27 G / 2 to 500 Hz",
+            "Manufacturing Warranty": "05 years"
+        }
+    },
+    {
+        "id": 1257,
+        "name": "Toshiba MG07ACA Enterprise 14TB 3.5 Inch SATA 7200RPM HDD",
+        "price": "45,900৳",
+        "description": "Form Factor: 3.5-inch\rMTTF: 2,500,000 hours\rInterface: SATA 6 Gbit/s\rRotation Speed: 7200 rpm",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg07aca-enterprise-14tb/mg07aca-500x500.webp",
+        "Specifications": {
+            "Type": "3.5-inch",
+            "Capacity": "14 TB",
+            "Interface": "SATA 6 Gbit/s",
+            "Size": "Buffer Size: 256 MiB",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "Data Transfer Speed: 248 MiB/s",
+            "Others": "MTTF: 2 500 000 h",
+            "Manufacturing Warranty": "03 Year"
+        }
+    },
+    {
+        "id": 1258,
+        "name": "Seagate IronWolf 12TB 3.5 Inch SATA 7200RPM NAS HDD",
+        "price": "47,800৳",
+        "description": "Storage Capacity: 12TB\rForm factor: 3.5-inch\rInterface: SATA III 6 Gb/s \rTransfer Rate: Up to 210 MB/s Data",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-12tb/ironwolf-12tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "SATA NAS HDD",
+            "Capacity": "12TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "7200RPM",
+            "Read/Write Speed": "210 MB/s",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1259,
+        "name": "Toshiba MG08 Enterprise 16TB 3.5 Inch SATA 7200RPM HDD",
+        "price": "49,500৳",
+        "description": "Form Factor: 3.5-inch\rMTTF: 2,500,000 hours\rInterface: SATA 6 Gbit/s\rRotation Speed: 7200 rpm",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg08-enterprise-16tb/mg08-enterprise-16tb-500x500.jpg",
+        "Specifications": {
+            "Type": "3.5-inch",
+            "Capacity": "16 TB",
+            "Interface": "SATA 6 Gbit/s",
+            "Size": "Buffer Size: 512 MiB",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "Data Transfer Speed: 262 MiB/s",
+            "Others": "MTTF: 2 500 000 h",
+            "Manufacturing Warranty": "03 Year"
+        }
+    },
+    {
+        "id": 1260,
+        "name": "Seagate Exos X18 12TB 7200rpm SATA III 3.5\" NAS HDD",
+        "price": "59,000৳",
+        "description": "Capacity: 12TB Storage \rInterface: SATA 6Gb/s\rRPM: 7200 RPM\rTransfer Rate: 600MB/s",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x18-12tb/exos-x18-12tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "Internal HDD",
+            "Capacity": "12TB",
+            "Interface": "SATA III (6 Gb/s)",
+            "Size": "4.01 x 1.03 x 5.79\" / 101.85 x 26.11 x 147 mm",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "Write Speed Random: 550 IOPS 4 KB Files\r\nRead Speed:\r\nMaximum: 270 MB/s\r\nRandom: 170 IOPS 4 KB Files",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1261,
+        "name": "Seagate IronWolf Pro 16TB 3.5 Inch SATA 7200RPM NAS HDD",
+        "price": "68,500৳",
+        "description": "Storage Capacity: 16TB\rForm factor: 3.5-inch\rInterface: SATA III 6 Gb/s \rTransfer Rate: Up to 270 MB/s Data",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-12tb/ironwolf-pro-12tb-02-500x500.webp",
+        "Specifications": {
+            "Type": "SATA NAS HDD",
+            "Capacity": "16TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "7200RPM",
+            "Read/Write Speed": "270 MB/s",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1262,
+        "name": "Seagate Exos X18 18TB 7200rpm SATA III 3.5\" NAS HDD",
+        "price": "76,500৳",
+        "description": "18TB Storage Capacity\rSATA III 6 Gb/s Interface\r3.5\" Form Factor\r256MB Cache",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x18/exos-x18-01-500x500.jpg",
+        "Specifications": {
+            "Type": "Internal HDD",
+            "Capacity": "18TB",
+            "Interface": "SATA III (6 Gb/s)",
+            "Size": "4.01 x 1.03 x 5.79\" / 101.85 x 26.11 x 147 mm",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "Write Speed Random: 550 IOPS 4 KB Files\r\nRead Speed:\r\nMaximum: 270 MB/s\r\nRandom: 170 IOPS 4 KB Files",
+            "Manufacturing Warranty": "05 years warranty"
+        }
+    },
+    {
+        "id": 1263,
+        "name": "Seagate IronWolf Pro 20TB 3.5-inch SATA 7200RPM NAS HDD",
+        "price": "85,000৳",
+        "description": "Storage Capacity: 20TB\rForm factor: 3.5-inch\rInterface: SATA 6Gb/s\rWorkload Rate: Up to 550 TB/year",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-20/ironwolf-pro-20tb-01-500x500.webp",
+        "Specifications": {
+            "Type": "SATA NAS HDD",
+            "Capacity": "20TB",
+            "Interface": "SATA 6.0Gb/s",
+            "Size": "3.5 Inch",
+            "RPM Class": "7200RPM",
+            "Others": "Up to 550 TB/year workload rating\r\n2.5M hours MTBF",
+            "Manufacturing Warranty": "5 years"
+        }
+    },
+    {
+        "id": 1264,
+        "name": "Toshiba P300 2TB 3.5-Inch SATA 7200RPM Desktop HDD",
+        "price": "7,100৳",
+        "description": "Capacity: 2TB 7200RPM \rInterface: SATA 6Gb/s\rBuffer: 128MB\rForm Factor: 3.5 Inch",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300/p300-01-500x500.webp",
+        "Specifications": {
+            "Capacity": "2TB",
+            "Interface": "SATA 6.0 Gbit/s)",
+            "RPM Class": "7,200 rpm",
+            "Manufacturing Warranty": "2 Years"
+        }
+    },
+    {
+        "id": 1265,
+        "name": "Seagate SkyHawk 8TB 3.5 inch SATA 7200RPM Surveillance HDD",
+        "price": "25,000৳",
+        "description": "Capacity: 8TB\rForm Factor: 3.5\"\rDrive speed: 7200 rpm\rTransfer Rate: 210MB/s",
+        "category": "hard-disk",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-8tb-7200rpm/skyhawk-8tb-7200rpm-500x500.jpeg",
+        "Specifications": {
+            "Type": "Internal",
+            "Capacity": "8TB",
+            "Interface": "SATA 6Gb/s",
+            "RPM Class": "7200 rpm",
+            "Read/Write Speed": "210MB/s",
+            "Manufacturing Warranty": "2 years"
+        }
+    }
+]
