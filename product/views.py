@@ -54,13 +54,11 @@ class CategoryDetails(generic.ListView):
         category_slug = self.kwargs.get('slug')
         category = Category.objects.get(slug=category_slug)
         
-        # Base query
         if category.slug == 'laptop':
             queryset = Laptop.objects.filter(category=category)
         else:
             queryset = Product.objects.filter(category=category)
         
-        # Apply filters
         filter_params = self.request.GET
         if category.slug == 'laptop':
             if 'brand' in filter_params:
@@ -75,19 +73,17 @@ class CategoryDetails(generic.ListView):
                 queryset = queryset.filter(storage_size__in=filter_params.getlist('storage_size'))
             if 'graphics_size' in filter_params:
                 queryset = queryset.filter(graphics_size__in=filter_params.getlist('graphics_size'))
-        # Add filters for other categories if needed
         
         return queryset
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         category_slug = self.kwargs.get('slug')
         category = Category.objects.get(slug=category_slug)
-        
-        # Create filter form based on category
+
         if category_slug == 'laptop':
             context['filter_form'] = LaptopFilterForm(self.request.GET or None)
         else:
-            context['filter_form'] = None  # Placeholder for other categories' filters
+            context['filter_form'] = None
         
         context['category'] = category
         return context
