@@ -1,0 +1,133 @@
+{% extends '../base.html' %}
+{% load static %}
+{% block title %} Laptops {% endblock title%}
+
+{% block content %}
+<div class="container mt-5">
+    <div class="row">
+        <!-- Filter Sidebar -->
+        <div class="col-lg-3">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Filter Laptops</h5>
+                </div>
+                <div class="card-body">
+                    <form id="filter-form" method="get">
+                        <!-- Brand Filter -->
+                        <div class="mb-3">
+                            <label class="form-label">Brand</label>
+                            <div>
+                                {{ filter_form.brand }}
+                            </div>
+                        </div>
+
+                        <!-- Display Size Filter -->
+                        <div class="mb-3">
+                            <label class="form-label">Display Size</label>
+                            <div>
+                                {{ filter_form.display_size }}
+                            </div>
+                        </div>
+
+                        <!-- RAM Size Filter -->
+                        <div class="mb-3">
+                            <label class="form-label">RAM Size</label>
+                            <div>
+                                {{ filter_form.ram_size }}
+                            </div>
+                        </div>
+
+                        <!-- RAM Type Filter -->
+                        <div class="mb-3">
+                            <label class="form-label">RAM Type</label>
+                            <div>
+                                {{ filter_form.ram_type }}
+                            </div>
+                        </div>
+
+                        <!-- Storage Size Filter -->
+                        <div class="mb-3">
+                            <label class="form-label">Storage Size</label>
+                            <div>
+                                {{ filter_form.storage_size }}
+                            </div>
+                        </div>
+
+                        <!-- Graphics Size Filter -->
+                        <div class="mb-3">
+                            <label class="form-label">Graphics Size</label>
+                            <div>
+                                {{ filter_form.graphics_size }}
+                            </div>
+                        </div>
+
+                        <!-- Price Filter -->
+                        <div class="mb-3">
+                            <label class="form-label">Min Price</label>
+                            {{ filter_form.min_price }}
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Max Price</label>
+                            {{ filter_form.max_price }}
+                        </div>
+
+                        <button type="submit" class="btn btn-primary w-100">Filter</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Product Listings -->
+        <div class="col-lg-9">
+            <div class="row">
+                {% for laptop in laptops %}
+                    <div class="col-md-4">
+                        <div class="card mb-4 shadow-sm">
+                            <img src="{{ laptop.thumbnail }}" class="card-img-top" alt="{{ laptop.title }}">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ laptop.title }}</h5>
+                                <p class="card-text">{{ laptop.description|truncatewords:20 }}</p>
+                                <p class="card-text">
+                                    <strong>Price:</strong> ৳{{ laptop.price }}<br>
+                                    <strong>Brand:</strong> {{ laptop.brand }}<br>
+                                    <strong>RAM:</strong> {{ laptop.ram_size }}<br>
+                                    <strong>Graphics:</strong> {{ laptop.graphics_size }}
+                                </p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <a href="{% url 'product-details' laptop.slug %}" class="btn btn-sm btn-outline-primary">View Details</a>
+                                    <span class="text-muted">৳{{ laptop.price }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% empty %}
+                    <div class="col-12">
+                        <div class="alert alert-warning" role="alert">
+                            No laptops found with the selected filters.
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <!-- Pagination if needed -->
+            <div class="d-flex justify-content-center">
+                {% if is_paginated %}
+                    <ul class="pagination">
+                        {% if page_obj.has_previous %}
+                            <li class="page-item"><a class="page-link" href="?page={{ page_obj.previous_page_number }}">Previous</a></li>
+                        {% endif %}
+                        {% for page_num in paginator.page_range %}
+                            <li class="page-item {% if page_obj.number == page_num %}active{% endif %}">
+                                <a class="page-link" href="?page={{ page_num }}">{{ page_num }}</a>
+                            </li>
+                        {% endfor %}
+                        {% if page_obj.has_next %}
+                            <li class="page-item"><a class="page-link" href="?page={{ page_obj.next_page_number }}">Next</a></li>
+                        {% endif %}
+                    </ul>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

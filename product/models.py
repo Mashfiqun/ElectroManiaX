@@ -33,7 +33,7 @@ class Product(models.Model):
         return Product.objects.filter(category=self.category).exclude(pk=self.pk)
 class Laptop(Product):
     processor = models.CharField(max_length=250, unique=True)
-    brand = str(processor).split()[0]
+    brand = models.CharField(max_length=250, default="")
     display_size = models.DecimalField(decimal_places=1, max_digits=3)
     display_type = models.CharField(max_length=250)
     ram_size = models.CharField(max_length=250)

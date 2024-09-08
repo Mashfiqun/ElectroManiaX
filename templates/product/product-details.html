@@ -21,7 +21,7 @@
                     <div class="product-content">
                         <h2>{{ product.title }}</h2>
                         <div class="pc-meta">
-                            <h5>$ {{ product.price }}</h5>
+                            <h5>৳{{ product.price }}</h5>
                             <div class="rating">
                             </div>
                                 {% if product.in_stock %}
@@ -38,7 +38,7 @@
                         </div>
                         {% if product.description %}
                         <h4>Description:</h4>
-                            <p>{{ product.description }}</p>
+                            <p>{{ product.description|linebreaksbr }}</p>
                         {% endif %}
 
                         {% if product.specifications %}
@@ -85,7 +85,7 @@
                             <a href="{% url 'product-details' related_product.slug %}">
                                 <h6>{{ related_product.title }}</h6>
                             </a>
-                            <p>$ {{ related_product.price }}</p>
+                            <p>৳{{ related_product.price }}</p>
                         </div>
                     </div>
                 </div>

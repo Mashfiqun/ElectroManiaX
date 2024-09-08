@@ -1,6 +1,6 @@
 {% extends '../base.html' %}
 {% load static %}
-{% block title %} {{category.title|title}} {% endblock title %}
+{% block title %} {{ category.title|title }} {% endblock title %}
 
 {% block content %}
 
@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="page-breadcrumb">
-                        <h3>{{category.title|title}} ({{products.count}})</h3>
+                        <h3>{{ category.title|title }} ({{ products.count }})</h3>
                     </div>
                 </div>
             </div>
@@ -23,31 +23,86 @@
     <!-- Categories Page Section Begin -->
     <section class="categories-page spad">
         <div class="container">
-            {% if products.count > 0 %}
             <div class="row">
-                {% for product in products %}
-                <div class="col-lg-3 col-md-6">
-                    <div class="single-product-item">
-                        <a href="{% url 'product-details' product.slug %}">
-                            <figure>
-                                <img style="height:320px;" src="{{product.thumbnail}}" alt="">
-                            </figure>
-                        </a>
-                        
-                        <div class="product-text">
-                            <a href="{% url 'product-details' product.slug %}">
-                                <h6>{{product.title|title}}</h6>
-                            </a>
-                            <p>$ {{product.price}}</p>
+                <!-- Sidebar for Filters -->
+                <div class="col-lg-3">
+                    <div class="filter-sidebar" style="position: fixed; top: 100px; left: 0; width: 300px; height: calc(100vh - 100px); overflow-y: auto;">
+                        <div class="card">
+                            <div class="card-header">
+                                <h5>Filter {{ category.title|title }}</h5>
+                            </div>
+                            <div class="card-body">
+                                <form method="get">
+                                    <!-- Dynamic Filters based on Category -->
+                                    {% if category.slug == 'laptop' %}
+                                        <div class="mb-3">
+                                            <label class="form-label">Brand</label>
+                                            {{ filter_form.brand }}
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">Display Size</label>
+                                            {{ filter_form.display_size }}
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">RAM Size</label>
+                                            {{ filter_form.ram_size }}
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">RAM Type</label>
+                                            {{ filter_form.ram_type }}
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">Storage Size</label>
+                                            {{ filter_form.storage_size }}
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">Graphics Size</label>
+                                            {{ filter_form.graphics_size }}
+                                        </div>
+                                    {% endif %}
+                                    
+                                    <button type="submit" class="btn btn-primary w-100">Apply Filters</button>
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
-                {% endfor %}
+
+                <!-- Product Listings -->
+                <div class="col-lg-9 offset-lg-3">
+                    <div class="row">
+                        {% for product in products %}
+                        <div class="col-lg-4 col-md-6">
+                            <div class="single-product-item">
+                                <a href="{% url 'product-details' product.slug %}">
+                                    <figure>
+                                        <img style="height:320px;" src="{{ product.thumbnail }}" alt="{{ product.title }}">
+                                    </figure>
+                                </a>
+
+                                <div class="product-text">
+                                    <a href="{% url 'product-details' product.slug %}">
+                                        <h6>{{ product.title|title }}</h6>
+                                    </a>
+                                    <p>৳{{ product.price }}</p>
+
+                                    <!-- Conditional Display for Category-Specific Details -->
+                                    {% if category.slug == 'laptop' %}
+                                        <p><strong>Brand:</strong> {{ product.laptop.brand }}</p>
+                                        <p><strong>RAM Size:</strong> {{ product.laptop.ram_size }}</p>
+                                        <p><strong>Graphics:</strong> {{ product.laptop.graphics_size }}</p>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
             </div>
-            {% else %}
+
+            {% if not products %}
             {% include '../no-result.html' %}
             {% endif %}
-
         </div>
     </section>
     <!-- Categories Page Section End -->
