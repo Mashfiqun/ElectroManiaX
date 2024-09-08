@@ -1,0 +1,14 @@
+{% load static %}
+
+<div class="row justify-content-center align-items-center">
+    <div class="col-md-5">
+        <img class="img-fluid" src="{% static 'img/no-result.png' %}" style="width: 440px;"
+        alt="no-result">
+    </div>
+    <br><br><br>
+    <div class="d-grid gap-2 my-5">
+            <a class="btn btn-outline-dark text-decoration-none" href="{% url 'product-list' %}">
+                Nothing was found, return to product list.
+            </a>
+    </div>
+</div>
