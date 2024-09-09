@@ -30,10 +30,11 @@ class LaptopFilterForm(forms.Form):
         ('256GB', '256GB'),
         ('512GB', '512GB'),
         ('1TB', '1TB'),
-        ('2TB+', '2TB or more')
+        ('2TB', '2TB')
     ]
 
     GRAPHICS_SIZE_CHOICES = [
+        ('Integrated', 'Integrated'),
         ('2GB', '2GB'),
         ('4GB', '4GB'),
         ('6GB', '6GB'),

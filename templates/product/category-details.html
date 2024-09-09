@@ -5,7 +5,7 @@
 {% block content %}
 
 {% if products.count > 0 %}
-    <!-- Page Add Section Begin -->
+
     <section class="page-add">
         <div class="container">
             <div class="row">
@@ -18,15 +18,12 @@
         </div>
     </section>
     {% endif %}
-    <!-- Page Add Section End -->
 
-    <!-- Categories Page Section Begin -->
-    <section class="categories-page spad">
+    <section class="categories-page">
         <div class="container">
             <div class="row">
-                <!-- Sidebar for Filters -->
                 <div class="col-lg-3">
-                    <div class="filter-sidebar" style="position: fixed; top: 100px; left: 0; width: 300px; height: calc(100vh - 100px); overflow-y: auto;">
+                    <div class="filter-sidebar" style="position: fixed; top: 150px; left: 0; width: 300px; height: calc(100vh - 150px); overflow-y: auto;">
                         <div class="card">
                             <div class="card-header">
                                 <h5>Filter {{ category.title|title }}</h5>
