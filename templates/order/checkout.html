@@ -73,55 +73,66 @@
 <script>
 
     const form = document.getElementById('checkout-form');
-    const csrfmiddlewaretoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
-    let formIsValid = false;
+const csrfmiddlewaretoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
 
-    const validateFormAndCheckout = () => {
-        const url = '/checkout/';
-        fetch(url, {
-            method: "POST",
-            headers: {
-                'X-CSRFToken': csrfmiddlewaretoken
-            },
-            body: new FormData(form)
-        })
-        .then(response => {
-            return response.json();
-        })
-        .then(data => {
-            if(data.success) {
-                formIsValid = true;
-                new FormData(form).forEach((value, key) => {
-                    if(key != 'csrfmiddlewaretoken') {
-                        document.getElementById(`error_${key}`).innerText = "";
-                    }
-                })
-                console.log('valid');
-            }
-            else {
-                let errors = data.errors;
-                formIsValid = false;
-                new FormData(form).forEach((value, key) => {
-                    if(key != 'csrfmiddlewaretoken') {
-                        document.getElementById(`error_${key}`).innerText = "";
-                    }
-                })
-                Object.keys(errors).forEach(key => {
-                    document.getElementById(`error_${key}`).innerText = errors[key].join('');
-                })
-                console.log('invalid');
-            }
-        })
-        .catch(error => {
-            console.log(error);
-        })
-    }
-
-    form.addEventListener('submit', (event) => {
-        event.preventDefault();
-        validateFormAndCheckout();
-       
+const processOrder = (data) => {
+    fetch('/save-order/', {  // Assuming this is the URL for SaveOrder
+        method: "POST",
+        headers: {
+            'X-CSRFToken': csrfmiddlewaretoken,
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
     })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            // Redirect to the order confirmation page
+            window.location.href = data.order_url;
+        } else {
+            console.log('Order creation failed.');
+        }
+    })
+    .catch(error => {
+        console.log(error);
+    });
+}
+
+const validateFormAndCheckout = () => {
+    const url = '/checkout/';  // The URL of your Checkout view
+    fetch(url, {
+        method: "POST",
+        headers: {
+            'X-CSRFToken': csrfmiddlewaretoken
+        },
+        body: new FormData(form)
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            processOrder(data.data);  // If form is valid, send the data to SaveOrder
+        } else {
+            let errors = data.errors;
+            new FormData(form).forEach((value, key) => {
+                if (key !== 'csrfmiddlewaretoken') {
+                    document.getElementById(`error_${key}`).innerText = "";
+                }
+            });
+            Object.keys(errors).forEach(key => {
+                document.getElementById(`error_${key}`).innerText = errors[key].join('');
+            });
+        }
+    })
+    .catch(error => {
+        console.log(error);
+    });
+}
+
+form.addEventListener('submit', (event) => {
+    event.preventDefault();
+    validateFormAndCheckout();
+});
+
 
 </script>
     
