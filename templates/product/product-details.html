@@ -91,11 +91,13 @@
                             </a>
                             <p>৳{{ related_product.price }}</p>
                         </div>
+                        <div class="d-flex">
+                            <button style="border: none; background: none;" class="add-to-wishlist" data-product-item="{{p.id}}"><i class="fi-rs-heart" style="fill: aqua;"></i></button>
+                        </div>
                     </div>
                 </div>
                 {% endfor %}
             </div>
         </div>
     </section>
-    <!-- Related Product Section End -->
 {% endblock content %}
