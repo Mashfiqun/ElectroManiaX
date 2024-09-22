@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="page-breadcrumb">
-                        <h3>{{ category.title|title }} ({{ products.count }})</h3>
+                        <h3>{{ category.title }} ({{ products.count }})</h3>
                     </div>
                 </div>
             </div>
@@ -26,11 +26,10 @@
                     <div class="filter-sidebar" style="position: fixed; top: 150px; left: 0; width: 300px; height: calc(100vh - 150px); overflow-y: auto;">
                         <div class="card">
                             <div class="card-header">
-                                <h5>Filter {{ category.title|title }}</h5>
+                                <h5>Filter {{ category.title }}</h5>
                             </div>
                             <div class="card-body">
                                 <form method="get">
-                                    <!-- Dynamic Filters based on Category -->
                                     {% if category.slug == 'laptop' %}
                                         <div class="mb-3">
                                             <label class="form-label">Brand</label>
@@ -56,8 +55,215 @@
                                             <label class="form-label">Graphics Size</label>
                                             {{ filter_form.graphics_size }}
                                         </div>
+                                    {% elif category.slug == 'cpu-cooler' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Brand</label>
+                                                {{ filter_form.brand }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Fan Speed</label>
+                                                {{ filter_form.fan_speed }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Cooler Type</label>
+                                                {{ filter_form.cooler_type }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">RGB</label>
+                                                {{ filter_form.rgb }}
+                                            </div>
+                                    {% elif category.slug == 'graphics-cards' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Brand</label>
+                                                {{ filter_form.brand }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">GPU Chipset</label>
+                                                {{ filter_form.gpu_chipset }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Memory Size</label>
+                                                {{ filter_form.memory_size }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Memory Type</label>
+                                                {{ filter_form.memory_type }}
+                                            </div>
+                                    {% elif category.slug == 'monitor' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Brand</label>
+                                                {{ filter_form.brand }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Screen Size</label>
+                                                {{ filter_form.screen_size }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Resolution</label>
+                                                {{ filter_form.resolution }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Refresh Rate</label>
+                                                {{ filter_form.refresh_rate }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Panel Type</label>
+                                                {{ filter_form.panel_type }}
+                                            </div>
+                                    {% elif category.slug == 'casing' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Brand</label>
+                                                {{ filter_form.brand }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Form Factor</label>
+                                                {{ filter_form.form_factor }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Material</label>
+                                                {{ filter_form.material }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Color</label>
+                                                {{ filter_form.color }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Cooling Support</label>
+                                                {{ filter_form.cooling_support }}
+                                            </div>
+                                    {% elif category.slug == 'hard-disk' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Brand</label>
+                                                {{ filter_form.brand }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Capacity</label>
+                                                {{ filter_form.capacity }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Form Factor</label>
+                                                {{ filter_form.form_factor }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">RPM</label>
+                                                {{ filter_form.rpm }}
+                                            </div>
+                                    {% elif category.slug == 'keyboard' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Switch Type</label>
+                                                {{ filter_form.connection_type }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Backlighting</label>
+                                                {{ filter_form.key_switch_type }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Connection Type</label>
+                                                {{ filter_form.rgb }}
+                                            </div>
+                                    {% elif category.slug == 'motherboard' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Brand</label>
+                                                {{ filter_form.brand }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Socket Type</label>
+                                                {{ filter_form.socket_type }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Chipset</label>
+                                                {{ filter_form.chipset }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Form Factor</label>
+                                                {{ filter_form.form_factor }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Memory Type</label>
+                                                {{ filter_form.memory_type }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Max Memory</label>
+                                                {{ filter_form.max_memory }}
+                                            </div>
+                                    {% elif category.slug == 'mouse' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">DPI</label>
+                                                {{ filter_form.dpi }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Connection Type</label>
+                                                {{ filter_form.connection_type }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">RGB</label>
+                                                {{ filter_form.rgb }}
+                                            </div>
+                                    {% elif category.slug == 'power-supply' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Brand</label>
+                                                {{ filter_form.brand }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Wattage</label>
+                                                {{ filter_form.max_wattage }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Efficiency Rating</label>
+                                                {{ filter_form.efficiency_rating }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Modular</label>
+                                                {{ filter_form.modular }}
+                                            </div>
+                                    {% elif category.slug == 'processor' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Brand</label>
+                                                {{ filter_form.brand }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Number of Cores</label>
+                                                {{ filter_form.core }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Number of Threads</label>
+                                                {{ filter_form.thread }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Base Clock Speed</label>
+                                                {{ filter_form.clock_speed }}
+                                            </div>
+                                    {% elif category.slug == 'ram' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Capacity</label>
+                                                {{ filter_form.capacity }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Memory Type</label>
+                                                {{ filter_form.memory_type }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Bus Speed</label>
+                                                {{ filter_form.speed }}
+                                            </div>
+                                    {% elif category.slug == 'ssd' %}
+                                            <div class="mb-3">
+                                                <label class="form-label">Capacity</label>
+                                                {{ filter_form.capacity }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Form Factor</label>
+                                                {{ filter_form.form_factor }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Read Speed</label>
+                                                {{ filter_form.read_speed }}
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label">Write Speed</label>
+                                                {{ filter_form.write_speed }}
+                                            </div>
                                     {% endif %}
-                                    
                                     <button type="submit" class="btn btn-primary w-100">Apply Filters</button>
                                 </form>
                             </div>
@@ -65,7 +271,6 @@
                     </div>
                 </div>
 
-                <!-- Product Listings -->
                 <div class="col-lg-9 offset-lg-3">
                     <div class="row">
                         {% for product in products %}
@@ -79,11 +284,10 @@
 
                                 <div class="product-text">
                                     <a href="{% url 'product-details' product.slug %}">
-                                        <h6>{{ product.title|title }}</h6>
+                                        <h6>{{ product.title }}</h6>
                                     </a>
                                     <p>৳{{ product.price }}</p>
 
-                                    <!-- Conditional Display for Category-Specific Details -->
                                     {% if category.slug == 'laptop' %}
                                         <p><strong>Brand:</strong> {{ product.laptop.brand }}</p>
                                         <p><strong>RAM Size:</strong> {{ product.laptop.ram_size }}</p>
@@ -102,6 +306,5 @@
             {% endif %}
         </div>
     </section>
-    <!-- Categories Page Section End -->
 
 {% endblock content %}

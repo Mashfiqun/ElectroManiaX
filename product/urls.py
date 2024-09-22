@@ -6,7 +6,6 @@ from .views import (
     CategoryDetails,
     ProductList,
     SearchProducts,
-    LaptopListView
 )
 
 urlpatterns = [
@@ -15,6 +14,5 @@ urlpatterns = [
     path('category-details/<str:slug>/', CategoryDetails.as_view(), name='category-details'),
     path('product-list/', ProductList.as_view(), name='product-list'),
     path('search-products/', SearchProducts.as_view(), name='search-products'),
-    path('laptops/', LaptopListView.as_view(), name='laptop_list'),
 
 ]

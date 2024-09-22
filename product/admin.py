@@ -6,7 +6,19 @@ from .models import (
     Category,
     Product,
     Slider,
-    Laptop
+    Laptop,
+    CPUCooler,
+    Casing,
+    GraphicsCard,
+    HardDisk,
+    Keyboards,
+    Monitor,
+    Motherboard,
+    Mouse,
+    PowerSupply,
+    Processors,
+    RAM,
+    SSD,
 )
 
 
@@ -23,3 +35,15 @@ admin.site.register(Category, CategoryAdmin)
 admin.site.register(Product, ProductAdmin)
 admin.site.register(Slider)
 admin.site.register(Laptop)
+admin.site.register(CPUCooler)
+admin.site.register(Casing)
+admin.site.register(GraphicsCard)
+admin.site.register(HardDisk)
+admin.site.register(Keyboards)
+admin.site.register(Monitor)
+admin.site.register(Motherboard)
+admin.site.register(Mouse)
+admin.site.register(PowerSupply)
+admin.site.register(Processors)
+admin.site.register(RAM)
+admin.site.register(SSD)
