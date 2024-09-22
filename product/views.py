@@ -1,7 +1,7 @@
 from typing import Any
 from django.db.models import Q
 from django.views import generic
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .forms import PCBuilderForm
 from django.core.paginator import (
     PageNotAnInteger,
@@ -413,20 +413,29 @@ class SearchProducts(generic.View):
         }
         return render(self.request, 'product/search-products.html', context)
     
+
+
 def pc_builder_view(request):
     form = PCBuilderForm(request.POST or None)
     selected_items = {}
-
     total_wattage = 0
     total_price = 0
 
-    if request.method == 'POST' and form.is_valid():
-        for field in form.fields:
-            product = form.cleaned_data[field]
-            if product:
-                selected_items[field] = product
-                total_wattage += product.wattage
-                total_price += product.price
+    if request.method == 'POST':
+        if form.is_valid():
+            for field in form.fields:
+                product = form.cleaned_data.get(field)
+                if product:
+                    selected_items[field] = product
+                    total_wattage += product.wattage
+                    total_price += product.price
+            
+            if 'add_to_cart' in request.POST:
+                cart = Cart(request)
+                for product in selected_items.values():
+                    cart.update(product.id)
+                return redirect('cart')
+            
 
     context = {
         'form': form,
@@ -435,3 +444,8 @@ def pc_builder_view(request):
         'selected_items': selected_items,
     }
     return render(request, 'product/pc_builder.html', context)
+
+
+
+
+

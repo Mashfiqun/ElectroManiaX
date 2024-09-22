@@ -37,7 +37,14 @@
     height: 50px;
     margin-right: 15px;
 }
+.button-group {
+    display: flex;
+    gap: 10px;
+}
 
+.site-btn {
+    flex: 1;
+}
 </style>
 <section class="pc-builder-section spad">
     <div class="container">
@@ -52,84 +59,72 @@
         <form method="POST" class="pc-builder-form">
             {% csrf_token %}
             <div class="row">
-                <!-- CPU Cooler -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="cpu_cooler" class="form-label">CPU Cooler</label>
                     <div class="select-box">
                         {{ form.cpu_cooler }}
                     </div>
                 </div>
-                <!-- Casing -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="casing" class="form-label">Casing</label>
                     <div class="select-box">
                         {{ form.casing }}
                     </div>
                 </div>
-                <!-- Graphics Card -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="graphics_card" class="form-label">Graphics Card</label>
                     <div class="select-box">
                         {{ form.graphics_card }}
                     </div>
                 </div>
-                <!-- Hard Disk -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="hard_disk" class="form-label">Hard Disk</label>
                     <div class="select-box">
                         {{ form.hard_disk }}
                     </div>
                 </div>
-                <!-- Keyboard -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="keyboard" class="form-label">Keyboard</label>
                     <div class="select-box">
                         {{ form.keyboard }}
                     </div>
                 </div>
-                <!-- Monitor -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="monitor" class="form-label">Monitor</label>
                     <div class="select-box">
                         {{ form.monitor }}
                     </div>
                 </div>
-                <!-- Motherboard -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="motherboard" class="form-label">Motherboard</label>
                     <div class="select-box">
                         {{ form.motherboard }}
                     </div>
                 </div>
-                <!-- Mouse -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="mouse" class="form-label">Mouse</label>
                     <div class="select-box">
                         {{ form.mouse }}
                     </div>
                 </div>
-                <!-- Power Supply -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="power_supply" class="form-label">Power Supply</label>
                     <div class="select-box">
                         {{ form.power_supply }}
                     </div>
                 </div>
-                <!-- Processor -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="processor" class="form-label">Processor</label>
                     <div class="select-box">
                         {{ form.processor }}
                     </div>
                 </div>
-                <!-- RAM -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="ram" class="form-label">RAM</label>
                     <div class="select-box">
                         {{ form.ram }}
                     </div>
                 </div>
-                <!-- SSD -->
                 <div class="col-lg-3 col-md-6 mb-4">
                     <label for="ssd" class="form-label">SSD</label>
                     <div class="select-box">
@@ -138,12 +133,13 @@
                 </div>
             </div>
 
-            <!-- Submit button and Wattage -->
             <div class="row mt-4 align-items-center">
-                <div class="col-lg-4">
-                    <button type="submit" class="site-btn">Calculate Wattage</button>
+                <div class="button-group">
+                    <button type="submit" class="site-btn" name="calculate">Calculate Wattage and Price</button>
+                    <button type="submit" class="site-btn" name="add_to_cart">Add to Cart</button>
                 </div>
-                <div class="col-lg-8">
+                
+                <div class="col-lg-4">
                     <div class="total-wattage-box">
                         <h4>Total Wattage: <span>{{ total_wattage }}</span> W</h4>
                         <h4>Total Price: <span>৳{{ total_price }}</span></h4>
@@ -151,8 +147,6 @@
                 </div>
             </div>
         </form>
-
-        <!-- Display selected components -->
         {% if selected_items %}
         <div class="row mt-5">
             <div class="col-lg-12">
@@ -172,4 +166,5 @@
         {% endif %}
     </div>
 </section>
+
 {% endblock %}

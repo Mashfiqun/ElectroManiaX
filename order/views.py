@@ -10,6 +10,8 @@ from product.models import Product
 from .forms import CheckoutForm
 from .models import Order, OrderItem
 from cart.models import Coupon
+from django.contrib.auth.decorators import login_required
+
 
 class Checkout(LoginRequiredMixin, generic.View):
     login_url = reverse_lazy('login')
@@ -94,3 +96,11 @@ class OrderDetail(LoginRequiredMixin, generic.DetailView):
     model = Order
     template_name = 'order/order_detail.html'  
     context_object_name = 'order'
+
+@login_required
+def all_orders(request):
+    user_orders = Order.objects.filter(user=request.user).order_by('-created_date')
+    context = {
+        'orders': user_orders
+    }
+    return render(request, 'order/orders.html', context)

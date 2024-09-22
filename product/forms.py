@@ -344,3 +344,7 @@ class PCBuilderForm(forms.Form):
     processor = forms.ModelChoiceField(queryset=Processors.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
     ram = forms.ModelChoiceField(queryset=RAM.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
     ssd = forms.ModelChoiceField(queryset=SSD.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        for field in self.fields:
+            self.fields[field].widget.attrs.update({'class': 'form-select'})
