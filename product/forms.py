@@ -1,4 +1,5 @@
 from django import forms
+from .models import CPUCooler, Casing, GraphicsCard, HardDisk, Keyboards, Monitor, Motherboard, Mouse, PowerSupply, Processors, RAM, SSD
 
 class LaptopFilterForm(forms.Form):
 
@@ -304,7 +305,7 @@ class RAMFilterForm(forms.Form):
         widget=forms.CheckboxSelectMultiple, required=False, label='Memory Type'
     )
     speed = forms.MultipleChoiceField(
-        choices=[('3000-4000', '3000 - 4000MHz'), ('4001-5000', '4001 - 5000MHz'), ('5001-6000', '5001 - 6000MHz'), ('6001-7000', '6001 - 7000 RPM')],
+        choices=[('3000-4000', '3000 - 4000MHz'), ('4001-5000', '4001 - 5000MHz'), ('5001-6000', '5001 - 6000MHz'), ('6001-7000', '6001 - 7000 RPM'), ('7001+', '7001 RPM or more')],
         widget=forms.CheckboxSelectMultiple, required=False, label='Speed'
     )
     min_price = forms.DecimalField(required=False, decimal_places=2, label="Min Price")
@@ -329,3 +330,17 @@ class SSDFilterForm(forms.Form):
     )
     min_price = forms.DecimalField(required=False, decimal_places=2, label="Min Price")
     max_price = forms.DecimalField(required=False, decimal_places=2, label="Max Price")
+
+class PCBuilderForm(forms.Form):
+    cpu_cooler = forms.ModelChoiceField(queryset=CPUCooler.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    casing = forms.ModelChoiceField(queryset=Casing.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    graphics_card = forms.ModelChoiceField(queryset=GraphicsCard.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    hard_disk = forms.ModelChoiceField(queryset=HardDisk.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    keyboard = forms.ModelChoiceField(queryset=Keyboards.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    monitor = forms.ModelChoiceField(queryset=Monitor.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    motherboard = forms.ModelChoiceField(queryset=Motherboard.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    mouse = forms.ModelChoiceField(queryset=Mouse.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    power_supply = forms.ModelChoiceField(queryset=PowerSupply.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    processor = forms.ModelChoiceField(queryset=Processors.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    ram = forms.ModelChoiceField(queryset=RAM.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))
+    ssd = forms.ModelChoiceField(queryset=SSD.objects.all(), required=False, widget=forms.Select(attrs={'class': 'form-select'}))

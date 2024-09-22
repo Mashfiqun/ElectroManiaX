@@ -2,6 +2,7 @@ from typing import Any
 from django.db.models import Q
 from django.views import generic
 from django.shortcuts import render
+from .forms import PCBuilderForm
 from django.core.paginator import (
     PageNotAnInteger,
     EmptyPage,
@@ -285,6 +286,8 @@ class CategoryDetails(generic.ListView):
                         speed_query |= Q(speed__gte=5001, speed__lte=6000)
                     elif speed == '6001-7000':
                         speed_query |= Q(speed__gte=6001, speed__lte=7000)
+                    elif speed == '7001+':
+                        speed_query |= Q(speed__gte=7001)
 
                 if speed_query:
                     queryset = queryset.filter(speed_query)
@@ -409,3 +412,26 @@ class SearchProducts(generic.View):
             "key": key
         }
         return render(self.request, 'product/search-products.html', context)
+    
+def pc_builder_view(request):
+    form = PCBuilderForm(request.POST or None)
+    selected_items = {}
+
+    total_wattage = 0
+    total_price = 0
+
+    if request.method == 'POST' and form.is_valid():
+        for field in form.fields:
+            product = form.cleaned_data[field]
+            if product:
+                selected_items[field] = product
+                total_wattage += product.wattage
+                total_price += product.price
+
+    context = {
+        'form': form,
+        'total_wattage': total_wattage,
+        'total_price': total_price,
+        'selected_items': selected_items,
+    }
+    return render(request, 'product/pc_builder.html', context)

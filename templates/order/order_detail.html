@@ -3,7 +3,6 @@
 {% block title %} Order Details {% endblock title %}
 
 {% block content %}
-<!-- Add some styles for better visualization -->
 <style>
     body {
         font-family: 'Arial', sans-serif;
@@ -113,8 +112,6 @@
     </div>
 </div>
 
-<!-- Replacing the modal with the new code -->
-<!-- Modal -->
 <div class="modal fade" id="exampleModal_{{order.id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl">
         <div class="modal-content">
@@ -130,7 +127,7 @@
                         </div>
                         <div class="col-md-8 px-4">
                             <h4 class="mb-2">{{product.title}}</h4>
-                            <p><strong>Price: </strong>$ {{order_item.price}}</p>
+                            <p><strong>Price: </strong>৳ {{order_item.price}}</p>
                             <p><strong>Quantity: </strong>{{order_item.quantity}}</p>
                         </div>
                     </div>
