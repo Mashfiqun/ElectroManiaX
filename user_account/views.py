@@ -122,17 +122,14 @@ class DashboardView(LoginRequiredMixin, generic.TemplateView):
         context = super().get_context_data(**kwargs)
         user = self.request.user
 
-        # Get user's join date
         join_date = user.date_joined.strftime('%B %d, %Y')
 
-        # Get user's recent orders (last 5)
         recent_orders = Order.objects.filter(user=user).order_by('-created_date')[:5]
 
-        # Get all categories
-        categories = Category.objects.all()[:5]  # Limit to 5 for this example
+        categories = Category.objects.all()[:5] 
 
-        # Add data to context
         context.update({
+            'user_name': user.username,
             'user_email': user.email,
             'member_since': join_date,
             'recent_orders': recent_orders,

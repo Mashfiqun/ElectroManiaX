@@ -67,9 +67,9 @@ class SaveOrder(LoginRequiredMixin, generic.View):
             )
             ordered_products.append(order_item)
 
-        if data.get('coupon'): 
-            coupon = Coupon.objects.get(code=data['coupon'])  
-            total_price = coupon.apply_discount(total_price)  
+        if cart.coupon:
+            coupon = Coupon.objects.get(id=cart.coupon)
+            total_price = float(total_price) * (1 - coupon.discount / 100)
 
 
         order = Order.objects.create(
@@ -83,7 +83,7 @@ class SaveOrder(LoginRequiredMixin, generic.View):
             zip_code=data['zip_code'],
             address=data['address'],
             status='Received',
-            coupon=coupon if data.get('coupon') else None
+            coupon=coupon if Coupon.objects.get(id=cart.coupon) else None
         )
 
         cart.clear()
