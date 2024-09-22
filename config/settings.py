@@ -11,9 +11,11 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
 from pathlib import Path
+import os 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 
 
 # Quick-start development settings - unsuitable for production
@@ -31,6 +33,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'jazzmin',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -151,3 +154,11 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_HOST_USER = "electromaniax2024@gmail.com"
 EMAIL_HOST_PASSWORD = "vczu cdpu amwh omut"
 EMAIL_PORT = 587
+
+
+JAZZMIN_SETTINGS = {
+    "site_brand" : "ElectroManiaX",
+    "site_logo" : "img/logo.png",
+    "site_header" : "ElectroManiaX",
+    "site_title" : "ElectroManiaX"
+}

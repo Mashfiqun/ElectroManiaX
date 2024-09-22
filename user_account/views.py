@@ -1,5 +1,6 @@
 import copy
 
+from django.shortcuts import render
 from django.views import generic
 from django.urls import reverse_lazy
 from django.contrib import messages
@@ -24,7 +25,8 @@ from .forms import (
 from .mixins import (
     LogoutRequiredMixin
 )
-
+from order.models import Order
+from product.models import Category
 
 
 @method_decorator(never_cache, name='dispatch')
@@ -112,4 +114,31 @@ class ResetPasswordConfirm(PasswordResetConfirmView):
         messages.success(self.request, "Password reset successfully !")
         return super().form_valid(form)
 
+@method_decorator(never_cache, name='dispatch')
+class DashboardView(LoginRequiredMixin, generic.TemplateView):
+    template_name = 'dashboard.html'
+    login_url = reverse_lazy('login')
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        user = self.request.user
+
+        # Get user's join date
+        join_date = user.date_joined.strftime('%B %d, %Y')
+
+        # Get user's recent orders (last 5)
+        recent_orders = Order.objects.filter(user=user).order_by('-created_date')[:5]
+
+        # Get all categories
+        categories = Category.objects.all()[:5]  # Limit to 5 for this example
+
+        # Add data to context
+        context.update({
+            'user_email': user.email,
+            'member_since': join_date,
+            'recent_orders': recent_orders,
+            'categories': categories,
+        })
+
+        return context
 
