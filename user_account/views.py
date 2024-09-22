@@ -9,6 +9,7 @@ from django.utils.decorators import method_decorator
 from django.views.decorators.cache import never_cache
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.contrib.auth import authenticate, login, logout
+from cart.carts import Cart
 from django.contrib.auth.views import (
     PasswordResetView,
     PasswordResetConfirmView
@@ -158,3 +159,10 @@ def remove_from_wishlist(request, product_id):
     wishlist_item = get_object_or_404(Wishlist, user=request.user, product=product)
     wishlist_item.delete()
     return redirect('wishlist')
+
+def add_to_cart_wishlist(request, product_id):
+    if request.user.is_authenticated:
+        cart = Cart(request)
+        cart.update(product_id)
+        return redirect('cart')
+    return redirect('login')

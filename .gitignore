@@ -12,3 +12,4 @@
 /.venv/Lib/site-packages/asgiref-3.8.1.dist-info
 *.pyc
 *.pyc
+*.pyc
