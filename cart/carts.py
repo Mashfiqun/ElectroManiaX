@@ -26,6 +26,7 @@ class Cart(object):
 
         self.save()
 
+
     def add_coupon(self, coupon_id):
         self.session[self.coupon_id] = coupon_id
         self.save()

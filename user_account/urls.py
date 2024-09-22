@@ -15,7 +15,11 @@ from .views import (
     add_to_wishlist,
     wishlist_view,
     remove_from_wishlist,
+<<<<<<< Updated upstream
     add_to_cart_wishlist,
+=======
+    add_to_cart_from_wishlist,
+>>>>>>> Stashed changes
 )
 
 
@@ -31,5 +35,10 @@ urlpatterns = [
     path('add-to-wishlist/<int:product_id>/', add_to_wishlist, name='add-to-wishlist'),
     path('wishlist/', wishlist_view, name='wishlist'),
     path('wishlist/remove/<int:product_id>/', remove_from_wishlist, name='remove_from_wishlist'),
+<<<<<<< Updated upstream
     path('wishlist/add_to_cart/<int:product_id>/', add_to_cart_wishlist , name='add_to_cart_from_wishlist'),
+=======
+    path('wishlist/add_to_cart/<int:product_id>/', add_to_cart_from_wishlist, name='add_to_cart_from_wishlist'),
+    
+>>>>>>> Stashed changes
 ]
