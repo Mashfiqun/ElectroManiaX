@@ -54,6 +54,10 @@
                             {% csrf_token %}
                             <button style="cursor: pointer; background-color: #4b33ff; color: white; margin-top: 20px;" type="submit" class="primary-btn pc-btn">Add to cart</button>
                         </form>
+                        <form method="POST" action="{% url 'add-to-wishlist' product.id %}">
+                            {% csrf_token %}
+                            <button type="submit" class="site-btn">Add to Wishlist</button>
+                        </form>
                         {% endif %}
                     </div>
                 </div>

@@ -11,8 +11,10 @@ from .views import (
     ChangePassword,
     SendEmailToResetPassword,
     ResetPasswordConfirm,
-    DashboardView
-
+    DashboardView,
+    add_to_wishlist,
+    wishlist_view,
+    remove_from_wishlist
 )
 
 
@@ -25,6 +27,8 @@ urlpatterns = [
     path('password-reset/done/', PasswordResetDoneView.as_view(template_name='account/password_reset_done.html'), name='password_reset_done'),
     path('reset/<uidb64>/<token>/', ResetPasswordConfirm.as_view(), name='password_reset_confirm'),
     path ('dashboard/',  DashboardView.as_view(), name='dashboard'),
-
+    path('add-to-wishlist/<int:product_id>/', add_to_wishlist, name='add-to-wishlist'),
+    path('wishlist/', wishlist_view, name='wishlist'),
+    path('wishlist/remove/<int:product_id>/', remove_from_wishlist, name='remove_from_wishlist'),
 
 ]

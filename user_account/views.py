@@ -4,7 +4,7 @@ from django.shortcuts import render
 from django.views import generic
 from django.urls import reverse_lazy
 from django.contrib import messages
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, get_object_or_404
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import never_cache
 from django.contrib.auth.mixins import LoginRequiredMixin
@@ -13,7 +13,7 @@ from django.contrib.auth.views import (
     PasswordResetView,
     PasswordResetConfirmView
 )
-
+from django.contrib.auth.decorators import login_required
 from cart.carts import Cart
 from .forms import (
     LoginForm,
@@ -27,8 +27,7 @@ from .mixins import (
 )
 from order.models import Order
 from product.models import Category
-
-
+from .models import Wishlist, Product
 @method_decorator(never_cache, name='dispatch')
 class Login(LogoutRequiredMixin, generic.View):
     def get(self, *args, **kwargs):
@@ -142,3 +141,23 @@ class DashboardView(LoginRequiredMixin, generic.TemplateView):
 
         return context
 
+
+
+def add_to_wishlist(request, product_id):
+    if request.user.is_authenticated:
+        product = Product.objects.get(id=product_id)
+        Wishlist.objects.get_or_create(user=request.user, product=product)
+        return redirect('wishlist')
+    return redirect('login')
+
+def wishlist_view(request):
+    if request.user.is_authenticated:
+        wishlist_items = Wishlist.objects.filter(user=request.user)
+        return render(request, 'wishlist.html', {'wishlist_items': wishlist_items})
+    return redirect('login') 
+@login_required
+def remove_from_wishlist(request, product_id):
+    product = get_object_or_404(Product, id=product_id)
+    wishlist_item = get_object_or_404(Wishlist, user=request.user, product=product)
+    wishlist_item.delete()
+    return redirect('wishlist')

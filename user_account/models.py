@@ -3,6 +3,7 @@ from django.db import models
 from django.contrib.auth.models import PermissionsMixin
 from django.contrib.auth.base_user import AbstractBaseUser
 from django.contrib.auth.validators import UnicodeUsernameValidator
+from product.models import Product
 
 from .managers import UserManager
 
@@ -28,6 +29,16 @@ class User(AbstractBaseUser, PermissionsMixin):
 
     class Meta:
         ordering = ['-date_joined']
+
+class Wishlist(models.Model):
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    product = models.ForeignKey(Product, on_delete=models.CASCADE)
+
+    class Meta:
+        unique_together = ('user', 'product')
+
+    def __str__(self):
+        return f"{self.user.username}'s Wishlist: {self.product.title}"
 
 
 
