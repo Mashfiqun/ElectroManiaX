@@ -161,11 +161,8 @@ def remove_from_wishlist(request, product_id):
     wishlist_item.delete()
     return redirect('wishlist')
 
-<<<<<<< Updated upstream
+
 def add_to_cart_wishlist(request, product_id):
-=======
-def add_to_cart_from_wishlist(request, product_id):
->>>>>>> Stashed changes
     if request.user.is_authenticated:
         cart = Cart(request)
         cart.update(product_id)
