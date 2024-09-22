@@ -196,8 +196,3 @@ class ResetPasswordConfirmForm(forms.Form):
 
         return self.user
     
-
-
-
-class AddToWishlistForm(forms.Form):
-    product_id = forms.IntegerField(widget=forms.HiddenInput())
